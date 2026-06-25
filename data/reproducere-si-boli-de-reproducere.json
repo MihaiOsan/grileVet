@@ -1,0 +1,1347 @@
+{
+  "materie": "Reproducere, Tulburări de Reproducere și Prelegeri Clinice pe Specii",
+  "intrebari": [
+    {
+      "id": "rep-001",
+      "intrebare": "Modificările statusului hormonal antepartum la vacă constau în:",
+      "raspunsuri": [
+        "creșterea nivelurilor PMSG, HCG și GnRH",
+        "scăderea nivelului PMSG și creșterea GnRH",
+        "scăderea nivelului progesteronului (P4), creșterea nivelurilor estrogenului (E2) și a corticoizilor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-002",
+      "intrebare": "Inducerea artificială a lactației la vacă este posibilă prin administrarea unei combinații de:",
+      "raspunsuri": [
+        "PGF2alfa, ocitocină și GnRH",
+        "estradiol, progesteron și dexametazon",
+        "progesteron, PGF2alfa și ocitocină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-003",
+      "intrebare": "Insuccesul tratamentelor mamitelor la vacă poate fi cauzat de:",
+      "raspunsuri": [
+        "coexistența afecțiunilor oculare",
+        "leziuni ale pielii în regiunea flancului",
+        "diagnosticul tardiv, folosirea unor medicamente inactive sau în doze insuficiente și suspendarea timpurie a tratamentului după dispariția semnelor clinice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-004",
+      "intrebare": "Cauza principală a sindromului MMA la scroafă este reprezentată de:",
+      "raspunsuri": [
+        "insuficiența LH-ului",
+        "parturiție dificilă, prelungită retenții ale axenelor fetale și hipotonie uterină",
+        "vaccinări aplicate în a doua jumătate a gestației"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-005",
+      "intrebare": "Ovogeneza reprezintă:",
+      "raspunsuri": [
+        "procesul de formare a foliculilor ovarieni",
+        "procesul de formare a gametului femel",
+        "procesul de formare a oului sau zigotului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-006",
+      "intrebare": "Momentul optim pentru inseminare la vacă este:",
+      "raspunsuri": [
+        "la 3 zile după depistarea stării de călduri",
+        "imediat ce au fost depistate căldurile",
+        "la 12-18 ore de la debutul estrului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-007",
+      "intrebare": "Ovulația se produce spontan la:",
+      "raspunsuri": [
+        "Vacă",
+        "Pisică",
+        "femelele tuturor speciilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-008",
+      "intrebare": "Cel mai important hormon implicat în producerea ovulației este:",
+      "raspunsuri": [
+        "progesteronul",
+        "LH-ul",
+        "relaxina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-009",
+      "intrebare": "Sincronizarea estrului la vaci cu ajutorul PGF2alfa are în vedere:",
+      "raspunsuri": [
+        "luteoliza CL existent și apariția unui nou estru",
+        "scurtarea intervalului între fătări",
+        "declanșarea lactației"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-010",
+      "intrebare": "Metoda de inseminare “dublu-orb”, în cazul utilizării PGF2alfa, presupune:",
+      "raspunsuri": [
+        "3 administrări de PGF2alfa la 21 de zile interval și IA la sfârșitul tratamentului",
+        "3 administrări de PGF2alfa la 3 zile interval și IA la 120 de ore după ultima doză de PGF2alfa",
+        "2 administrări de PGF2alfa la 11-14 zile și IA la 72 și 96 de ore după ultima administrare de PGF2alfa"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-011",
+      "intrebare": "Depunerea materialului seminal în cazul IA la vacă se face:",
+      "raspunsuri": [
+        "în porțiunea anterioară a vaginului",
+        "în vestibulul vaginal",
+        "intracervical profund"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-012",
+      "intrebare": "Ovulația la vacă se produce:",
+      "raspunsuri": [
+        "la 24-30 de ore după montă",
+        "la 6-12-16 ore după terminarea estrului",
+        "la 24-48 de ore înaintea terminării estrului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-013",
+      "intrebare": "Embriotransferul presupune ca:",
+      "raspunsuri": [
+        "embrionul generat în tractul genital al unei femele (donatoare) să fie transferat în uterul altei femele (receptoare), în vederea ducerii gestației la bun sfârșit",
+        "embrionul recoltat din uterul unei femele să fie transferat în nucleul ovocitei altei femele",
+        "ovocita provenită de la femela donatoare să fie transferată în ovarul femelei recipiente"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-014",
+      "intrebare": "Vaciie donatoare selectate pentru embriotransfer trebuie să:",
+      "raspunsuri": [
+        "să aibă cel puțin două luni de la parturiție și o activitate normală de reproducție",
+        "să fie anestrice de cel puțin patru luni",
+        "să aibă cel puțin două săptămâni de la parturiție și o activitate normală de reproducție"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-015",
+      "intrebare": "Supraovulația la vacă poate fi indusă cu ajutorul:",
+      "raspunsuri": [
+        "PMSG",
+        "PGF2alfa",
+        "ocitocină"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-016",
+      "intrebare": "Tehnicile de reproducere asistată in vitro se referă la:",
+      "raspunsuri": [
+        "inducerea artificială a lactației",
+        "inducerea estrului și a parturiției",
+        "fecundația in vitro și clonarea"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-017",
+      "intrebare": "Clonarea poate fi definită drept:",
+      "raspunsuri": [
+        "sincronizarea ciclurilor celulare între carioplastul donator și citoplasma recipientă",
+        "rezultatul injectării directe a genelor străine în celula primordială a unui organism în dezvoltare",
+        "ansamblul de tehnici prin care se pot produce pe cale asexuată, celule sau organisme identice din punct de vedere genetic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-018",
+      "intrebare": "Concentrația spermei reprezintă:",
+      "raspunsuri": [
+        "numărul de spermatozoizi din ejaculat",
+        "procentul de anomalii din ejaculat",
+        "numărul de spermatozoizi pe unitatea de volum (ml) spermă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-019",
+      "intrebare": "O funcție importantă a barierei hemato-testiculare este:",
+      "raspunsuri": [
+        "prevenirea hemoragiilor testiculare",
+        "producerea spermatozoizilor",
+        "izolarea imunologică a celulelor liniei seminale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-020",
+      "intrebare": "Velocitatea spermatozoizilor reprezintă:",
+      "raspunsuri": [
+        "viteza de deplasare",
+        "capacitatea fecundantă",
+        "integritatea membranei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-021",
+      "intrebare": "Între efectele secundare ale contracepției hormonale la cățea, se pot întâlni:",
+      "raspunsuri": [
+        "tulburări locomotorii",
+        "tulburări cardio-respiratorii",
+        "neoplazii mamare și piometru"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-022",
+      "intrebare": "Controlul hormonal al funcției de reproducere la câine (mascul) se poate realiza prin administrarea:",
+      "raspunsuri": [
+        "androgenilor",
+        "PMSG-ului",
+        "PGF2alfa"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-023",
+      "intrebare": "Care din așezările obstetricale este eutocică la vacă?",
+      "raspunsuri": [
+        "longitudinală",
+        "transversală",
+        "oblică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-024",
+      "intrebare": "Care din prezentările obstetricale enumerate mai jos sunt eutocice la vacă?",
+      "raspunsuri": [
+        "nedefinită",
+        "anterioară și posterioară",
+        "laterală și verticală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-025",
+      "intrebare": "Procedeul Pieralissi de rezolvare a prolapsului la vacă constă în:",
+      "raspunsuri": [
+        "contenția în decubit sterno-abdominal și extensia bipedelor anterior și posterior",
+        "contenția în decubit dorsal și extensia trenului posterior",
+        "neuroleptanalgezie și repunerea manuală a uterului prolabat"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-026",
+      "intrebare": "Pentru reducerea volumului masei uterine prolabate se recomandă:",
+      "raspunsuri": [
+        "administrarea unei doze terapeutice de pilocarpină",
+        "venisecție masivă",
+        "administrarea unei doze de 50-60 UI ocitocină, câte 10 UI în 5-6 puncte separate, în miometru"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-027",
+      "intrebare": "În intervenția de remediere a prolapsului uterin, la vacă, se recomandă:",
+      "raspunsuri": [
+        "anestezie sacro-cocigiană",
+        "anestezie de tip Larson",
+        "nu este necesară nici un fel de anestezie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-028",
+      "intrebare": "Pentru evitarea recidivei prolapsului uterin sau vaginal se recomandă:",
+      "raspunsuri": [
+        "aplicarea suturii labiilor vulvare după una din tehnicile Flesa, Dagonfsky sau în pungă",
+        "nu este necesară aplicarea suturii labiilor vulvare",
+        "menținerea femelei în decubit forțat"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-029",
+      "intrebare": "Intervenția de extragere manuală a membranelor fetale la vacă se recomandă a fi făcută:",
+      "raspunsuri": [
+        "în primele 6 ore după expulzia fetusului",
+        "nu mai repede de 48 de ore de la parturiție",
+        "între 24-36 după expulzia fetală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-030",
+      "intrebare": "După extragerea manuală a placentei, pentru evitarea complicațiilor septice locale se recomandă:",
+      "raspunsuri": [
+        "administrarea intrauterină de bujiuri cu oxitetraciclină (6-8 buc)",
+        "administrarea intrauterină a 50 ml vitAD3E",
+        "PGF2"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-031",
+      "intrebare": "Care este valoarea ideală a service-period la vacă:",
+      "raspunsuri": [
+        "mai mică de 80 de zile",
+        "mai mare de 120 de zile",
+        "365 de zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-032",
+      "intrebare": "Care este valoarea ideală a indicelui de inseminare la vacă:",
+      "raspunsuri": [
+        "1",
+        "sub 1",
+        "3"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-033",
+      "intrebare": "Valoarea ideală a calving intervalului este:",
+      "raspunsuri": [
+        "365 de zile",
+        "285 de zile",
+        "613 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-034",
+      "intrebare": "Lactația prelungită peste 305 zile la vacă reprezintă:",
+      "raspunsuri": [
+        "dovadă a aptitudinilor excepționale pentru producția de lapte",
+        "dovadă a managementului defectuos",
+        "nu are semnificație tehnică și productivă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-035",
+      "intrebare": "Inducerea parturiției la scroafe se face cu:",
+      "raspunsuri": [
+        "ocitocină în doză de 25 UI, administrată la 116 zile de la montă sau IA fecundă",
+        "dexamethasone, 5 mg la 110 zile de gestație",
+        "PGF2, 179 micrograme în ziua 112 de la montă sau IA fecundă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-036",
+      "intrebare": "Metrita contagioasă a equinelor (CEM) are ca agent etiologic:",
+      "raspunsuri": [
+        "un retrovirus",
+        "Ureaplasma ureolyticum",
+        "Tayrella (Haemophilus) equigenitalis"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-037",
+      "intrebare": "Diagnosticul CEM se precizează prin:",
+      "raspunsuri": [
+        "teste serologice",
+        "ELISA",
+        "examen bacteriologic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-038",
+      "intrebare": "Hiperplazia vaginală la cățea are drept cauză:",
+      "raspunsuri": [
+        "infecția cu un virus epiteliotrop",
+        "tulburări ale statusului estrogenic",
+        "iritațiile mecanice provocate de împerecheri repetate la intervale scurte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-039",
+      "intrebare": "Cauza determinantă a apariției anestrului la femele este reprezentată de:",
+      "raspunsuri": [
+        "absența/insuficiența stimulilor gonadotropi",
+        "excesul de Gn-RH",
+        "insuficiența P4"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-040",
+      "intrebare": "Persistența unui CL activ la vacă are drept consecință:",
+      "raspunsuri": [
+        "anestrul",
+        "monte repetate la intervale scurte",
+        "monte repetate la intervale lungi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-041",
+      "intrebare": "Chistul foliculinic activ la vacă se exprimă clinic prin:",
+      "raspunsuri": [
+        "anestrus",
+        "monte repetate la intervale scurte și călduri intense",
+        "anorexie, polidipsie și mastită"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-042",
+      "intrebare": "Boala chistică ovariană are drept cauze:",
+      "raspunsuri": [
+        "perturbarea ovulației datorită insuficienței/absenței procesului de luteinizare",
+        "tulburări psihice",
+        "perturbări ale metabolismului energo-proteic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-043",
+      "intrebare": "În terapia chistului foliculinic activ se recomandă:",
+      "raspunsuri": [
+        "administrarea unei doze de Gn-RH pentru luteinizare, urmată la 9 zile de o doză de PGF2",
+        "masaj utero-ovarian asociat cu vitaminoterapie timp de 7 zile",
+        "estrogenoterapie masivă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-044",
+      "intrebare": "Pentru terapia tumorilor cu transmitere genitală la câine, se recomandă:",
+      "raspunsuri": [
+        "eutanasierea animalului",
+        "radioterapie",
+        "ablație chirurgicală urmată de 3-5 ședințe de citostatice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-045",
+      "intrebare": "Tratamentul piometrului la cățea include:",
+      "raspunsuri": [
+        "antibiotice",
+        "antihistaminice",
+        "vitamine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-046",
+      "intrebare": "Suprimarea estrului la cățea se poate obține cu administrarea de gestageni la:",
+      "raspunsuri": [
+        "7 zile după debutul proestrului",
+        "în primele 3 zile ale proestrului",
+        "la 10 zile de la începutul proestrului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-047",
+      "intrebare": "Exantemul coital al equinelor este cauzat de:",
+      "raspunsuri": [
+        "un virus",
+        "bacterie",
+        "ciupercă microscopică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-048",
+      "intrebare": "Durina este o boală venerică a equideelor cauzată de:",
+      "raspunsuri": [
+        "Tripanosoma equiperdum",
+        "Mycoplasma veneralis",
+        "Taraxacum officinalis"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-049",
+      "intrebare": "Hipertrofia mamară la pisică este:",
+      "raspunsuri": [
+        "afecțiune benignă",
+        "afecțiune malignă",
+        "afecțiune parazitară"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-050",
+      "intrebare": "Campilobacterioza genitală a bovinelor este o boală venerică a bovinelor care se manifestă clinic prin:",
+      "raspunsuri": [
+        "mortalitate embrionară și ocazional avort, endometrită mucopurulentă și cicluri estrale neregulate",
+        "hiperestru și/sau nimfomanie",
+        "mastită urmată de înțărcare și compromiterea definitivă a ugerului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-051",
+      "intrebare": "Tratamentul antifungic aplicat în orhiepididimită la câine:",
+      "raspunsuri": [
+        "afectează spermatogeneza",
+        "nu are efecte asupra spermatogenezei",
+        "afectează libidoul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-052",
+      "intrebare": "Abbovestrol este:",
+      "raspunsuri": [
+        "un PRID utilizat pentru vacă cu tulburări de reproducție de tipul COD sau anestrus",
+        "un preparat hormonal creat pentru inducerea parturiției la vacă",
+        "un preparat hormonal recomandat pentru inducerea estrului la scroafă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-053",
+      "intrebare": "Oligozoospermia este:",
+      "raspunsuri": [
+        "număr forte mic de spermatozoizi în ejaculat",
+        "volum mic al ejaculatului",
+        "absența mișcării spermatozoizilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-054",
+      "intrebare": "Maturitatea sexuală la vițele apare:",
+      "raspunsuri": [
+        "la 6-12 luni",
+        "la 18 luni",
+        "la 24 luni"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-055",
+      "intrebare": "În sistem industrial scroafele se exploatează pentru reproducție:",
+      "raspunsuri": [
+        "3 fătări",
+        "5 fătări",
+        "peste 9 fătări"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-056",
+      "intrebare": "În timpul unui act sexual normal și complet reflexele sexuale se desfășoară și se succed în următoarea ordine:",
+      "raspunsuri": [
+        "erecție, salt, intromisiune, ejaculare, apropiere",
+        "apropiere, erecție, salt, intromisiune, ejaculare",
+        "apropiere, salt, erecție, intromisiune, ejaculare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-057",
+      "intrebare": "Reflexul de erecție se produce ca urmare a excitațiilor centrului erecției situat în măduva:",
+      "raspunsuri": [
+        "lombară – L2, L3, L4",
+        "dorsală – D3, D4, D5",
+        "sacrală – S1, S2, S3"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-058",
+      "intrebare": "Centrul ejaculării este situat în măduva:",
+      "raspunsuri": [
+        "lombară – L2, L3, L4",
+        "sacrală – S1, S2, S3",
+        "coccigiană – C1, C2, C3"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-059",
+      "intrebare": "La iapă, “căldurile mânzului” apar:",
+      "raspunsuri": [
+        "în prima treime a gestației",
+        "la înțărcarea mânzului",
+        "la 6-9 zile după parturiție"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-060",
+      "intrebare": "În categoria speciilor poliestrice-sezonier sunt incluse:",
+      "raspunsuri": [
+        "oaia și iapa",
+        "vaca și scroafa",
+        "cățeaua și pisica"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-061",
+      "intrebare": "Hiperactivarea spermatozoizilor se produce în:",
+      "raspunsuri": [
+        "epididim",
+        "prostată",
+        "oviduct"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-062",
+      "intrebare": "Capacitarea spermatozoizilor are loc în:",
+      "raspunsuri": [
+        "timpul spermatogenezei",
+        "căile genitale femele",
+        "coada epididimului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-063",
+      "intrebare": "La majoritatea mamiferelor, viabilitatea ovocitei se menține timp de:",
+      "raspunsuri": [
+        "60 secunde",
+        "până la realizarea montei sau însămânțării artificiale",
+        "6-8-12 ore"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-064",
+      "intrebare": "Reacția de zonă a granulelor corticale are rol de:",
+      "raspunsuri": [
+        "a favoriza implantarea embrionului",
+        "a preveni polispermia",
+        "a distruge zona pelucida"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-065",
+      "intrebare": "Singamia este procesul de:",
+      "raspunsuri": [
+        "formare a gametului mascul",
+        "fuziune a pronucleilor mascul și femel",
+        "formare a gemenilor siamezi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-066",
+      "intrebare": "Durata media a gestației la vacă este:",
+      "raspunsuri": [
+        "283 zile",
+        "350 zile",
+        "110 zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-067",
+      "intrebare": "Durata media a gestației la cățea este:",
+      "raspunsuri": [
+        "115 zile",
+        "62 zile",
+        "283 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-068",
+      "intrebare": "După fătare, o vacă cu producție medie de lapte este indicat a fi dată la montă sau IA:",
+      "raspunsuri": [
+        "în primele 25 de zile postpartum",
+        "între 40 – 60 zile postpartum",
+        "între 120 – 150 zile postpartum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-069",
+      "intrebare": "Durata media a gestației la scroafă este:",
+      "raspunsuri": [
+        "4 luni",
+        "2 luni",
+        "5 luni"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-070",
+      "intrebare": "Gemenii monoovulari rezultă din:",
+      "raspunsuri": [
+        "un ovocit fecundat de un spermatozoid",
+        "un ovocit nefecundat",
+        "monta succesivă cu doi masculi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-071",
+      "intrebare": "Gemenii monoovulari sunt:",
+      "raspunsuri": [
+        "hermafrodiți",
+        "de același sex",
+        "se sexe diferite"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-072",
+      "intrebare": "Alegeți varianta care corespunde placentei ecvine:",
+      "raspunsuri": [
+        "difuză, hemocorială, deciduă",
+        "cotiledonară, sindesmocorială, semideciduă",
+        "difuză, epiteliocorială, adeciduă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-073",
+      "intrebare": "Placenta difuză este specifică:",
+      "raspunsuri": [
+        "suinelor și ecvinelor",
+        "carnivorelor",
+        "rumegătoarelor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-074",
+      "intrebare": "Placenta endoteliocorială este întâlnită la:",
+      "raspunsuri": [
+        "rumegătoare",
+        "suine",
+        "carnivore"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-075",
+      "intrebare": "Tratamentul lactației de pseudogestație la cățea, include administrarea de:",
+      "raspunsuri": [
+        "ocitocină",
+        "antiprolactinice",
+        "PMSG"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-076",
+      "intrebare": "Sezonul de reproducere la ovine se plasează în perioada:",
+      "raspunsuri": [
+        "cu ziua-lumină cea mai lungă",
+        "cu temperaturile cele mai ridicate",
+        "cu ziua-lumină cea mai scurtă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-077",
+      "intrebare": "Implantarea sau nidația specifică rumegătoarelor este:",
+      "raspunsuri": [
+        "implantare centrală",
+        "implantare excentrică",
+        "implantare interstițială"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-078",
+      "intrebare": "Gn-RH este secretat de:",
+      "raspunsuri": [
+        "gonade",
+        "hipotalamus",
+        "hipofiză"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-079",
+      "intrebare": "Priaprismul se manifestă prin:",
+      "raspunsuri": [
+        "o erecție prelungită, uneori permanentă",
+        "lipsa totală a erecției",
+        "excitație sexuală continuă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-080",
+      "intrebare": "Stadiile gestației sunt:",
+      "raspunsuri": [
+        "zigotal, embrionar și fetal",
+        "proestru, estru, metestru și diestru",
+        "ovulația și formarea corpului luteal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-081",
+      "intrebare": "Spermatozoizii imaturi prezintă:",
+      "raspunsuri": [
+        "coadă scurtă",
+        "picătură protoplasmatică",
+        "acrozom detașat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-082",
+      "intrebare": "Gonadotropina corionică ecvină (eCG/PMSG) este secretată de:",
+      "raspunsuri": [
+        "hipofiză",
+        "gonade",
+        "cupele endometriale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-083",
+      "intrebare": "În organismul animal, estrogenii sunt produși de:",
+      "raspunsuri": [
+        "ovare, testicule, placentă, suprarenale",
+        "doar de ovare",
+        "hipofiză"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-084",
+      "intrebare": "Luteoliza se poate realiza prin administrarea de:",
+      "raspunsuri": [
+        "prostaglandină PGF2α",
+        "progestative",
+        "hormon gonadotrop corionic hCG"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-085",
+      "intrebare": "Amânarea sau suprimarea estrului poate fi realizată prin administrarea de:",
+      "raspunsuri": [
+        "progestative",
+        "gonadotropină corionică ecvină eCG",
+        "estrogeni"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-086",
+      "intrebare": "Efecte secundare grave (teratogen, cancerigen) au fost demonstrate în cazul utilizării:",
+      "raspunsuri": [
+        "tuturor hormonilor",
+        "ocitocinei",
+        "estrogenilor sintetici"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-087",
+      "intrebare": "Administrarea ocitocinei este contraindicată în:",
+      "raspunsuri": [
+        "retenție placentară",
+        "distocie determinată de exces al volumului fetal",
+        "avoretenție"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-088",
+      "intrebare": "Nivelul sangvin al relaxinei este utilizat în diagnosticul gestației la:",
+      "raspunsuri": [
+        "vacă",
+        "scroafă",
+        "cățea"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-089",
+      "intrebare": "Selectați indicația terapeutică pentru gonadotropina corionică umană hCG:",
+      "raspunsuri": [
+        "criptorhidie",
+        "piometru",
+        "hiperplazie benignă a prostatei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-090",
+      "intrebare": "În comportamentul flehmen este implicat:",
+      "raspunsuri": [
+        "centrul ejaculării",
+        "organul vomeronazal",
+        "auzul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-091",
+      "intrebare": "Durata medie a estrului la vacă este:",
+      "raspunsuri": [
+        "24 ore",
+        "72 ore",
+        "4-7 zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-092",
+      "intrebare": "Durata medie a estrului la scroafă este:",
+      "raspunsuri": [
+        "2-3 zile",
+        "5-7 zile",
+        "21 zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-093",
+      "intrebare": "Metodele uzuale de stabilire a momentului optim pentru montă sau I.A. la cățea sunt:",
+      "raspunsuri": [
+        "testul de cristalizare a mucusului cervical și ultrasonografia",
+        "utilizarea pedometrului și palparea regiunii lombare a femelei",
+        "frotiul vaginal și evidențierea nivelului progesteronului seric"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-094",
+      "intrebare": "Ciclul sexual la vacă are o durată medie de:",
+      "raspunsuri": [
+        "21 zile",
+        "35 zile",
+        "16 zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-095",
+      "intrebare": "Ovulația la iapă se produce:",
+      "raspunsuri": [
+        "cu 24-48 de ore înainte de terminarea estrului",
+        "în momentul copulației",
+        "la 8-16 ore după terminarea estrului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-096",
+      "intrebare": "Ovulația la pisică se produce:",
+      "raspunsuri": [
+        "la 24-36 de ore după împerechere",
+        "la 12 ore după debutul estrului",
+        "cu 12 ore înainte de începerea estrului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-097",
+      "intrebare": "Icterul nou născuților (boala hemolitică) apare:",
+      "raspunsuri": [
+        "mai rar la mânji și viței",
+        "de regulă la cățrași și purcei",
+        "apare la nou născuții tuturor speciilor"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-098",
+      "intrebare": "Icterul nou născuților (boala hemolitică) apare de regulă:",
+      "raspunsuri": [
+        "la 24-35 ore după fătare",
+        "la 120-136 ore după fătare",
+        "imediat după înțărcare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-099",
+      "intrebare": "Hipoglicemia purceilor sugari se instalează:",
+      "raspunsuri": [
+        "în primele 3 zile de la fătare",
+        "la 12-14 zile de la fătare",
+        "cu ocazia înțărcării"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-100",
+      "intrebare": "În cazul intervenției prin histerotomie la scroafă, în urma neuroleptanalgeziei, hipoglicemia purceilor apare:",
+      "raspunsuri": [
+        "datorită neuroleptanalgeziei",
+        "intervenției premature",
+        "datorită condițiilor precare în care a avut loc fătarea"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-101",
+      "intrebare": "După expulzarea fătului, asfixia nou născutului are trei grade de manifestare Care dintre aceste trei grade de manifestare este cea mai periculoasă",
+      "raspunsuri": [
+        "apneea pasageră (moartea aparentă)",
+        "asfixia periferică (asfixia lividă)",
+        "asfixia centrală (asfixia palidă)"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-102",
+      "intrebare": "Prostaglandinele din grupul F2 alfa au în organism următoarele acțiuni:",
+      "raspunsuri": [
+        "efect luteotrop și păstrarea gestației",
+        "efect luteolitic și uterokinetic (foarte puternic)",
+        "efect lactogen postpartum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-103",
+      "intrebare": "Inducerea artificială a parturiției la vacă se poate face:",
+      "raspunsuri": [
+        "înainte de 250 zile de gestație",
+        "după 265 zile de gestație",
+        "după 290 zile de gestație"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-104",
+      "intrebare": "Depunerea materialului seminal în cazul IA la vacă, în situația când nu se poate tuneliza gâtul uterin se face:",
+      "raspunsuri": [
+        "în vestibulul vaginal",
+        "în vagin",
+        "intracervical"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-105",
+      "intrebare": "În cazul I.A. la vacă, după tunelizarea cervixului, depunerea materialului seminal se face:",
+      "raspunsuri": [
+        "în cornul uterin pe care ovarul nu prezintă un folicul dominant",
+        "înaintea bifurcației coarnelor uterine",
+        "în oviductul de partea căreia ovarul prezintă foliculul dominant"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-106",
+      "intrebare": "În intervenția de remediere a prolapsului uterin, la vacă se recomandă:",
+      "raspunsuri": [
+        "anestezie epidurală joasă",
+        "anestezie epidurală înaltă",
+        "narcoza"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-107",
+      "intrebare": "Care este diferența din punct বিন্দু de vedere morfologic, histologic și funcțional dintre corpii galbeni ciclici (progestativi), gestativi și patologici:",
+      "raspunsuri": [
+        "nici unul",
+        "corpii galbeni ciclici și gestativi secretă estrogeni",
+        "corpul galben patologic secretă PGF2 alfa"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-108",
+      "intrebare": "Chiștii luteinici activi la vacă se exprimă clinic prin:",
+      "raspunsuri": [
+        "cicluri sexual regulate la 21 zile interval",
+        "anestru",
+        "nimfomanie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-109",
+      "intrebare": "În terapia chiștilor foliculinici și luteinici se recomandă:",
+      "raspunsuri": [
+        "HCG - trei administrări la interval de 48 ore și PGF2 α la 48 de ore de la ultima administrare de HCG",
+        "administrarea de estrogeni și relaxină",
+        "administrarea de ocitocină și progesteron"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-110",
+      "intrebare": "Hipertrofia mamară la pisică este:",
+      "raspunsuri": [
+        "afecțiune alergică",
+        "afecțiune benignă",
+        "afecțiune micotică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-111",
+      "intrebare": "Progesteronul luteal este indispensabil pe toată durata gestației la:",
+      "raspunsuri": [
+        "vacă",
+        "pisică",
+        "iapă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-112",
+      "intrebare": "Ovulația la oaie se produce:",
+      "raspunsuri": [
+        "la 6 ore de la terminarea căldurilor",
+        "spre sfârșitul căldurilor",
+        "cu 4 ore înainte de debutul estrului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-113",
+      "intrebare": "La capră ovulația se produce:",
+      "raspunsuri": [
+        "la 30-36 ore de la debutul căldurilor",
+        "la 12 ore după terminarea căldurilor",
+        "este declanșată de actul coital"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-114",
+      "intrebare": "Capacitatea fecundată a spermatozoizilor mamiferelor se menține, in vivo, aproximativ:",
+      "raspunsuri": [
+        "1-2 ore",
+        "24-48 ore",
+        "7-9 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-115",
+      "intrebare": "Testul de cristalizare a mucusului cervico-vaginal realizat la vaca în estru, relevă următorul aspect:",
+      "raspunsuri": [
+        "arborizare caracteristică, asemănătoare cu frunzele de ferigă",
+        "celule epiteliale superficiale în număr mare",
+        "conglomerate de mucus distribuite neuniform"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-116",
+      "intrebare": "Durata estrului la măgăriță este:",
+      "raspunsuri": [
+        "24 ore",
+        "2-7 zile",
+        "14 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-117",
+      "intrebare": "Durata estrului la oaie este:",
+      "raspunsuri": [
+        "24-36 ore",
+        "48-72 ore",
+        "4-5 zile"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-118",
+      "intrebare": "Frotiul vaginal la cățeaua în estru are următoarele caracteristici:",
+      "raspunsuri": [
+        "celule parabazale, intermediare, eritrocite și fond murdar",
+        "celule superficiale, celule cu vacuole intracitoplasmatice și neutrofile",
+        "celule superficiale grupate în colonii și fond curat"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-119",
+      "intrebare": "La unele scroafe după fătare, la 2-3 zile apar \"căldurile de parturiție\" care sunt:",
+      "raspunsuri": [
+        "anovulatorii și provoacă modificarea compoziției laptelui",
+        "ovulatorii, fără modificarea compoziției laptelui",
+        "ovulatorii, cu sistarea secreției lactate și moartea purceilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-120",
+      "intrebare": "Termenul medical pentru definirea mobilității reduse a spermatozoizilor în ejaculat, este:",
+      "raspunsuri": [
+        "azoospermie",
+        "necrozoospermie",
+        "astenozoospermie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-121",
+      "intrebare": "O iepuroaică se dă la montă a doua zi după fătare sau avort dacă:",
+      "raspunsuri": [
+        "alăptează mai puțin de 5 pui",
+        "alăptează 5-9 pui",
+        "este după un avort infecțios"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "rep-122",
+      "intrebare": "Injectarea unei cantități crescute, unice, de GnRH în timpul fazei foliculare a ciclului estral stimulează apariția ovulației cel mai frecvent la:",
+      "raspunsuri": [
+        "6 – 12 ore",
+        "24 – 48 ore",
+        "36 -72 ore"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    }
+  ]
+}
