@@ -1,0 +1,1490 @@
+{
+  "materie": "Parazitologie și Boli Parazitare",
+  "intrebari": [
+    {
+      "id": "pbp-001",
+      "intrebare": "Cea mai patogenă specie de eimerie la puii de găină este:",
+      "raspunsuri": [
+        "E acervulina",
+        "E tenella",
+        "E maxima"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-002",
+      "intrebare": "Eimeria tenella parazitează mai ales la vârsta de:",
+      "raspunsuri": [
+        "5-7 săptămâni",
+        "5-6 luni",
+        "2-4 săptămâni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-003",
+      "intrebare": "Principalul factor de igienă implicat în eimerioze este:",
+      "raspunsuri": [
+        "temperatura",
+        "umiditatea",
+        "alimentația"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-004",
+      "intrebare": "Leziunea caracteristică în parazitismul cu E brunetti este:",
+      "raspunsuri": [
+        "tiflita hemoragică",
+        "enterită catarală",
+        "hemoragii scalariforme rectale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-005",
+      "intrebare": "Profilaxia eimeriozei la puii de găină se poate face cu:",
+      "raspunsuri": [
+        "toltrazuril",
+        "sulfadimidină",
+        "sulfacoccidin"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-006",
+      "intrebare": "Coccivac-ul conține oochiști:",
+      "raspunsuri": [
+        "virulenți",
+        "atenuați",
+        "morți"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-007",
+      "intrebare": "În eimerioza anseriformelor nu se utilizează:",
+      "raspunsuri": [
+        "monensinul",
+        "sulfaquinoxalina",
+        "nitrofuranul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-008",
+      "intrebare": "Specia cea mai patogenă de eimerii în Europa, la vițel este:",
+      "raspunsuri": [
+        "E zuernii",
+        "E alabamensis",
+        "E bovis"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-009",
+      "intrebare": "Chimioprevenția în eimerioza vițeilor se aplică:",
+      "raspunsuri": [
+        "sistematic",
+        "lunar",
+        "în caz de necesitate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-010",
+      "intrebare": "Eimerioza mieilor apare:",
+      "raspunsuri": [
+        "numai în sistemul extensiv",
+        "numai în sistemul intensiv",
+        "în ambele sisteme"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-011",
+      "intrebare": "Iepurii până la vârsta de 2 luni:",
+      "raspunsuri": [
+        "fac forme grave de eimerioză hepatică",
+        "sunt rezistenți",
+        "sunt foarte receptivi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-012",
+      "intrebare": "Imunitatea în eimerioza hepatică la iepuri este:",
+      "raspunsuri": [
+        "slabă",
+        "puternică",
+        "nu există"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-013",
+      "intrebare": "Chimioprofilaxia eimeriozei în marile crescătorii de iepuri se face:",
+      "raspunsuri": [
+        "după întărcare",
+        "înainte de întărcare",
+        "tot timpul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-014",
+      "intrebare": "În toxoplasmoză infestanți pentru om sunt:",
+      "raspunsuri": [
+        "numai bradizoiții și tachizoiții",
+        "numai oochiștii",
+        "toate trei categoriile"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-015",
+      "intrebare": "Transmiterea congenitală a toxoplasmozei umane este posibilă:",
+      "raspunsuri": [
+        "singură dată",
+        "de câteva ori",
+        "pe tot parcursul vieții"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-016",
+      "intrebare": "Ce-a mai importantă modalitate de infecție în toxoplasmoză este prin:",
+      "raspunsuri": [
+        "oochiști",
+        "contactul cu pisica",
+        "carnivorism"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-017",
+      "intrebare": "Căpușele pentru babesii sunt:",
+      "raspunsuri": [
+        "gazde definitive",
+        "gazde intermediare",
+        "vectori"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-018",
+      "intrebare": "În babesioza la cabaline, spre deosebire de alte specii apare:",
+      "raspunsuri": [
+        "icterul",
+        "bilirubinuria",
+        "hemoglobinuria"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-019",
+      "intrebare": "Babesioza se tratează cu:",
+      "raspunsuri": [
+        "berenil",
+        "monensin",
+        "albendazol"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-020",
+      "intrebare": "GI în fascioloză este:",
+      "raspunsuri": [
+        "furnica",
+        "Galba truncatula",
+        "Zebrina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-021",
+      "intrebare": "Reactivitatea slabă a ovinelor la F hepatica se datorează:",
+      "raspunsuri": [
+        "antigenității slabe a parazitului",
+        "comunității antigenice",
+        "infestațiilor mari"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-022",
+      "intrebare": "În fascioloza acută la ovine leziunea de bază este:",
+      "raspunsuri": [
+        "ciroza hepatică",
+        "hepatomegalia",
+        "hepatita hemoragico-necrotică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-023",
+      "intrebare": "La bovine, fascioloza evoluează, de obicei:",
+      "raspunsuri": [
+        "acut",
+        "subcutanat",
+        "cronic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-024",
+      "intrebare": "Fascioloza acută apare:",
+      "raspunsuri": [
+        "toamna",
+        "primăvara",
+        "iarna"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-025",
+      "intrebare": "Tratamentele fascioliene de toamnă se vor face cu:",
+      "raspunsuri": [
+        "albendazol",
+        "rafoxanid",
+        "coriban"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-026",
+      "intrebare": "Forma infestantă în dicrocelioză este:",
+      "raspunsuri": [
+        "melcul",
+        "metacercarul",
+        "miracidul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-027",
+      "intrebare": "Mai patogeni sunt paramfistomii:",
+      "raspunsuri": [
+        "adulți",
+        "tineri",
+        "ambele forme"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-028",
+      "intrebare": "În paramfistomoză se utilizează:",
+      "raspunsuri": [
+        "fenbendazolul",
+        "rafoxanidul",
+        "nilvermul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-029",
+      "intrebare": "GI în cestodozele imaginale ale ierbivorelor sunt:",
+      "raspunsuri": [
+        "melcii acvatici",
+        "melcii de uscat",
+        "acarienii de pășune"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-030",
+      "intrebare": "Tratamentul monieziozei se face cu:",
+      "raspunsuri": [
+        "levamisol",
+        "monensin",
+        "albendazol"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-031",
+      "intrebare": "Câinii se pot infesta cu Diphyllobothrium latum prin consum de:",
+      "raspunsuri": [
+        "organe de vițel",
+        "purici",
+        "pești"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-032",
+      "intrebare": "Caracteristic pentru parazitismul cu tenii la câine este:",
+      "raspunsuri": [
+        "pruritul",
+        "inapetența",
+        "tahipneea"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-033",
+      "intrebare": "Terapia cestodozelor carnivorelor se face cu:",
+      "raspunsuri": [
+        "adipat de piperazină",
+        "Ivomec",
+        "Praziquantel"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-034",
+      "intrebare": "În cisticercoza musculară a porcului sursa de infestare este:",
+      "raspunsuri": [
+        "câinele",
+        "pisica",
+        "omul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-035",
+      "intrebare": "Diagnosticul în cisticercoza musculară bovină se pune prin examen:",
+      "raspunsuri": [
+        "microscopic al cărnii",
+        "macroscopic al cărnii",
+        "coproscopic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-036",
+      "intrebare": "Infestarea în cenuroză se realizează:",
+      "raspunsuri": [
+        "transplacentar",
+        "prin oochiști",
+        "consum de creier"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-037",
+      "intrebare": "Persistența infestației cu Echinococcus granulosus la câine se datorează:",
+      "raspunsuri": [
+        "patogenității reduse",
+        "numărului mic de paraziți",
+        "longevității mari a teniei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-038",
+      "intrebare": "Dehelmintizarea câinilor în hidatidoză se face:",
+      "raspunsuri": [
+        "anual",
+        "la 6 săptămâni",
+        "trimestrial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-039",
+      "intrebare": "Arecolina bromhidrică are efect:",
+      "raspunsuri": [
+        "parasimpaticomimetic",
+        "cestodicid",
+        "nematodicid"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-040",
+      "intrebare": "Organele cu chiști hidatici se:",
+      "raspunsuri": [
+        "îngroapă",
+        "dau în consum",
+        "sterilizează"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-041",
+      "intrebare": "Prevenirea efectului hipobiozei larvare pentru Dictyocaulus se face prin:",
+      "raspunsuri": [
+        "rotirea animalelor pe pășune",
+        "tratament de provocare în decembrie-ianuarie",
+        "schimbarea pășunii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-042",
+      "intrebare": "Dictiocauloza se diagnostică prin metoda:",
+      "raspunsuri": [
+        "Baermann",
+        "Willis",
+        "Telleman"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-043",
+      "intrebare": "Larvele în migrație de Dictyocaulus spp sunt distruse de:",
+      "raspunsuri": [
+        "Cambendazol",
+        "Fenbendazol",
+        "Tiabendazol"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-044",
+      "intrebare": "Rotirea animalelor pe pășune, pentru controlul dictiocaulozei se face o dată la:",
+      "raspunsuri": [
+        "3 săptămâni",
+        "o lună",
+        "4-5 zile"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-045",
+      "intrebare": "Sindromul pulmonar acut asmatiform din dictiocauloza bovină este întâlnit la:",
+      "raspunsuri": [
+        "viței tineri",
+        "adulți",
+        "la ambele categorii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-046",
+      "intrebare": "Sindromul de traheobronșită cronică în dictiocauloza bovină este întâlnit mai ales la:",
+      "raspunsuri": [
+        "adulți",
+        "tineret",
+        "la femele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-047",
+      "intrebare": "Dehelmintizările în parazitismul cu strongilii gastro-pulmonari se fac:",
+      "raspunsuri": [
+        "lunar",
+        "de două ori/an",
+        "în funcție de situația epizootologică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-048",
+      "intrebare": "Protostrongilii au gazdă intermediară:",
+      "raspunsuri": [
+        "melcii de uscat",
+        "furnicile",
+        "acarienii de pășune"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-049",
+      "intrebare": "Antihelminticele în protostrongilidoze, în comparație cu dictiocauloza, au acțiune:",
+      "raspunsuri": [
+        "mai bună",
+        "mai slabă",
+        "identică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-050",
+      "intrebare": "Metastrongiloza este transmisă prin:",
+      "raspunsuri": [
+        "șobolani",
+        "acarieni de pășune",
+        "râme"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-051",
+      "intrebare": "Metastrongilii se localizează în:",
+      "raspunsuri": [
+        "intestin subțire",
+        "intestin gros",
+        "pulmoni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-052",
+      "intrebare": "Gazdele perfect normale pentru Syngamus tracheea sunt:",
+      "raspunsuri": [
+        "fazanul și găina",
+        "bibilica",
+        "curca și păunul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-053",
+      "intrebare": "Singamoza apare în:",
+      "raspunsuri": [
+        "sistemul intensiv",
+        "în sistemul extensiv",
+        "în ambele sisteme de creștere"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-054",
+      "intrebare": "Ciatostomii se localizează mai ales în:",
+      "raspunsuri": [
+        "trahee",
+        "intestin",
+        "bronhii și saci aerieni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-055",
+      "intrebare": "Ostertagia spp parazitează în:",
+      "raspunsuri": [
+        "intestin subțire",
+        "abomas",
+        "intestin gros"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-056",
+      "intrebare": "\"Spring-rise\" este un fenomen întâlnit numai la:",
+      "raspunsuri": [
+        "oile gestante",
+        "oile sterpe",
+        "ambele categorii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-057",
+      "intrebare": "Ostertagioza de tipul II este dată de:",
+      "raspunsuri": [
+        "emergența larvelor hipobiotice",
+        "acumularea de larve hipobiotice",
+        "numai de adulți"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-058",
+      "intrebare": "Creșterea pepsinogenului sangvin în ostertagioză este utilizată pentru a stabili:",
+      "raspunsuri": [
+        "vindecarea",
+        "diagnosticul",
+        "sfârșitul bolii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-059",
+      "intrebare": "În hemoncoză mai patogeni sunt:",
+      "raspunsuri": [
+        "adulții",
+        "larvele",
+        "ambele forme"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-060",
+      "intrebare": "În trichostrongiloză, anemia este:",
+      "raspunsuri": [
+        "prezentă",
+        "inexistentă",
+        "slabă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-061",
+      "intrebare": "Ostertagioza de tipul I este întâlnită mai ales la:",
+      "raspunsuri": [
+        "adulte",
+        "vârsta de > 3 ani",
+        "la viței în primul an de pășunat"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-062",
+      "intrebare": "Netobiminul acționează:",
+      "raspunsuri": [
+        "numai asupra nematodelor",
+        "numai asupra cestodelor",
+        "asupra cestodelor, trematodelor și nematodelor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-063",
+      "intrebare": "În trichostrongilidoze se au ca obiective:",
+      "raspunsuri": [
+        "supravegherea parazitologică",
+        "eradicarea",
+        "numai terapia"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-064",
+      "intrebare": "În poliparazitismul cu trematode, cestode și nematode se va alege:",
+      "raspunsuri": [
+        "Rafoxanidul",
+        "Albendazolul",
+        "Ivomecul F"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-065",
+      "intrebare": "În parazitismul cu trichostrongili, Dicrocoelium lanceolatum și F hepatica se va alege:",
+      "raspunsuri": [
+        "Netobimin",
+        "Ivomec F",
+        "Nilverm"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-066",
+      "intrebare": "Cel mai patogen strongil digestiv la cabaline este:",
+      "raspunsuri": [
+        "Strongylus equinus",
+        "S edentatus",
+        "Delafondia vulgaris"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-067",
+      "intrebare": "Infestarea cabalinelor cu strongili digestivi are loc:",
+      "raspunsuri": [
+        "numai la grajd",
+        "la pășune și la grajd",
+        "numai la pășune"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-068",
+      "intrebare": "În parazitismul cu S vulgaris la cal se întâlnește simptomul de:",
+      "raspunsuri": [
+        "șchiopătură intermitentă la cald",
+        "enterită seroasă",
+        "gastrică hemoragică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-069",
+      "intrebare": "Strongilidozele cabalinelor, în zonele endemice, se tratează:",
+      "raspunsuri": [
+        "o dată pe an",
+        "o dată la 2 luni",
+        "semestrial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-070",
+      "intrebare": "Amidostomii se localizează în:",
+      "raspunsuri": [
+        "oviducte",
+        "intestinul gros",
+        "stomacul muscular"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-071",
+      "intrebare": "În amidostomoză, din considerente epizootologice și economice, tratamentele se vor face:",
+      "raspunsuri": [
+        "primăvara",
+        "iarna",
+        "vara"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-072",
+      "intrebare": "Ascarioza cabalinelor se transmite mai ales:",
+      "raspunsuri": [
+        "de la mamă",
+        "prin contact direct",
+        "prin coprofagie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-073",
+      "intrebare": "Microascarioza porcului se diferențiază față de:",
+      "raspunsuri": [
+        "metastrongiloză",
+        "esofagostomoză",
+        "macracantorincoză"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-074",
+      "intrebare": "Calea majoră de transmitere a lui Toxocara canis este:",
+      "raspunsuri": [
+        "transplacentară",
+        "prin lapte",
+        "prin gazde paratenice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-075",
+      "intrebare": "Calea majoră de transmitere a lui Toxocara cati este:",
+      "raspunsuri": [
+        "transplacentară",
+        "prin lapte",
+        "prin gazde paratenice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-076",
+      "intrebare": "Ascarioza carnivorelor se tratează cu:",
+      "raspunsuri": [
+        "praziquantel",
+        "berenil",
+        "fenbendazol"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-077",
+      "intrebare": "Controlul terapeutic al telaziozei este, dpdv epizootologic, mai bine de realizat:",
+      "raspunsuri": [
+        "vara",
+        "iarna",
+        "toamna"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-078",
+      "intrebare": "Capilariozele păsărilor au localizare:",
+      "raspunsuri": [
+        "numai în intestinul subțire",
+        "numai esofagoingluvială",
+        "intestin subțire, esofag și ingluvies"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-079",
+      "intrebare": "Femela parazită de Strongyloides spp se înmulțește:",
+      "raspunsuri": [
+        "prin ouă fecundate",
+        "asexuat",
+        "prin partenogeneză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-080",
+      "intrebare": "Strongyloides ransomi se transmite:",
+      "raspunsuri": [
+        "prin lapte",
+        "prin concentrate",
+        "prin colostru"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-081",
+      "intrebare": "Calea majoră de pătrundere a lui Strongyloides în organism este cea:",
+      "raspunsuri": [
+        "cutanată",
+        "orală",
+        "respiratorie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-082",
+      "intrebare": "Sunt ineficace în strongiloidoză:",
+      "raspunsuri": [
+        "albendazolul",
+        "levamisolul",
+        "pirantelul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-083",
+      "intrebare": "Biologia Trichinelei spiralis este de tip:",
+      "raspunsuri": [
+        "autoheteroxen",
+        "dixen",
+        "polixen"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-084",
+      "intrebare": "Examenul în trichineloza porcului se confirmă:",
+      "raspunsuri": [
+        "macroscopic",
+        "microscopic",
+        "terapeutic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-085",
+      "intrebare": "Trichineloza se transmite prin:",
+      "raspunsuri": [
+        "ouă",
+        "carnivorism",
+        "piele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-086",
+      "intrebare": "În controlul parazitologic al trichinelozei se practică:",
+      "raspunsuri": [
+        "deratizările periodice",
+        "interzicerea contactului cu alte animale",
+        "terapia animalelor receptive"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-087",
+      "intrebare": "Este supusă declarării și carantinizării:",
+      "raspunsuri": [
+        "râia sarcoptică",
+        "râia psoroptică",
+        "râia corioptică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-088",
+      "intrebare": "În caz de hipobioză, Psoroptes ovis se localizează în/pe:",
+      "raspunsuri": [
+        "ureche",
+        "membre",
+        "fosa infraorbitară"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-089",
+      "intrebare": "Tratamentul în râile ovinelor se repetă la:",
+      "raspunsuri": [
+        "5-6 zile",
+        "7-10 zile",
+        "14-21 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-090",
+      "intrebare": "Cea mai contagioasă râie a bovinelor este:",
+      "raspunsuri": [
+        "râia sarcoptică",
+        "râia corioptică",
+        "râia psoroptică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-091",
+      "intrebare": "Râia corioptică a bovinelor debutează în:",
+      "raspunsuri": [
+        "regiunea capului",
+        "regiunea dorso-lombară",
+        "zona de la baza cozii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-092",
+      "intrebare": "Psoroptes equi se localizează în:",
+      "raspunsuri": [
+        "moț, coamă, coadă",
+        "moț, laturile gâtului",
+        "coadă, perineal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-093",
+      "intrebare": "Sursa principală de contaminare cu Sarcoptes suis este reprezentată de:",
+      "raspunsuri": [
+        "vieri",
+        "scroafe",
+        "tineret suin"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-094",
+      "intrebare": "În tratamentul râilor la cabaline se utilizează:",
+      "raspunsuri": [
+        "amitraz",
+        "levamisol",
+        "sebacil"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-095",
+      "intrebare": "Râia notoedrică a pisicilor are localizare:",
+      "raspunsuri": [
+        "peribucală",
+        "pe cap",
+        "pe membre"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-096",
+      "intrebare": "Râia văroasă a picioarelor afectează:",
+      "raspunsuri": [
+        "rațele",
+        "curcile",
+        "caprele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-097",
+      "intrebare": "Căpușele ixodide joacă un rol patogen indirect prin transmiterea următoarelor specii de protozoare intracelulare:",
+      "raspunsuri": [
+        "Trypanosoma evansi",
+        "Babesia bovis",
+        "Borrelia sp"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-098",
+      "intrebare": "În combaterea căpușelor ixodide, la ovine, substanțele piretrinoide pot fi utilizate sub forma:",
+      "raspunsuri": [
+        "pulverizărilor și îmbăierilor",
+        "suspensiilor orale",
+        "administrărilor parenterale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-099",
+      "intrebare": "Calea de infestare majoră în demodicoză este :",
+      "raspunsuri": [
+        "transplacentară",
+        "cutanată",
+        "veneriană"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-100",
+      "intrebare": "Acțiunea mecanico-iritativă a lui Demodex canis se realizează la nivelul :",
+      "raspunsuri": [
+        "alveolelor pulmonare",
+        "limfonodurilor mezenterice",
+        "foliculilor piloși și glandelor sebacee"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-101",
+      "intrebare": "În tratamentul demodicozei au o eficiență crescută :",
+      "raspunsuri": [
+        "amitrazul",
+        "flumetrinul",
+        "propoxurul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-102",
+      "intrebare": "Femela de Varroa destructor se hrănește cu :",
+      "raspunsuri": [
+        "sânge",
+        "limfă",
+        "hemolimfă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-103",
+      "intrebare": "Ciclul biologic la Varroa destructor durează :",
+      "raspunsuri": [
+        "30 zile",
+        "5,5-7,5 zile",
+        "15 zile"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-104",
+      "intrebare": "Varroa destructor preferă la Apis cerana :",
+      "raspunsuri": [
+        "puietul de lucrătoare",
+        "puietul de trântor",
+        "matca"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-105",
+      "intrebare": "Precizați substanța acaricidă sistemică folosită în varrooză la albine :",
+      "raspunsuri": [
+        "sineacar",
+        "sulf",
+        "perizin"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-106",
+      "intrebare": "Starea de hipobioză asincronă este remarcată la larvele de :",
+      "raspunsuri": [
+        "Demodex canis",
+        "Oestrus ovis",
+        "Hypoderma bovis"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-107",
+      "intrebare": "Diagnosticul diferențial în estroză se face față de :",
+      "raspunsuri": [
+        "miaza cutanată",
+        "cenuroză",
+        "fascioloză"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-108",
+      "intrebare": "Care stadiu larvar de Hypoderma bovis este anaerob :",
+      "raspunsuri": [
+        "L1",
+        "L2",
+        "L3"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-109",
+      "intrebare": "Migrația L1 de Hypoderma bovis este asigurată de :",
+      "raspunsuri": [
+        "hipodermina A",
+        "hipodermina B",
+        "hipodermina C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-110",
+      "intrebare": "Hipodermina C combinată cu anticorpii circulanți determină :",
+      "raspunsuri": [
+        "formarea complexelor imune",
+        "moartea animalului",
+        "starea de anergie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-111",
+      "intrebare": "Tratamentul de toamnă în hipodermoză la bovine are caracter :",
+      "raspunsuri": [
+        "curativ",
+        "preventiv",
+        "nu se face"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-112",
+      "intrebare": "Trichophyton verrucosum parazitează, în principal, la :",
+      "raspunsuri": [
+        "ovine",
+        "cabaline",
+        "bovine"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-113",
+      "intrebare": "Tratamentul general în dermatomicoze durează :",
+      "raspunsuri": [
+        "2 săptămâni",
+        "cel puțin încă 2 săptămâni după vindecare",
+        "până la vindecare clinică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-114",
+      "intrebare": "Vaccinarea în tricofiție se execută cu rol :",
+      "raspunsuri": [
+        "profilactic și terapeutic",
+        "numai profilactic",
+        "numai curativ"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-115",
+      "intrebare": "Dintre benzimidazolice acțiune antimicotică are :",
+      "raspunsuri": [
+        "albendazolul",
+        "tiabendazolul",
+        "fenbendazolul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-116",
+      "intrebare": "Eimeria acervulina produce ca leziuni:",
+      "raspunsuri": [
+        "hemoragii punctiforme",
+        "focare albicioase",
+        "ulcere scalariforme"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-117",
+      "intrebare": "La puiucele de înlocuire este contraindicată folosirea:",
+      "raspunsuri": [
+        "sulfamidelor",
+        "Aproliumului",
+        "Framicetinei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-118",
+      "intrebare": "Chimio-prevenția se practică în mod obișnuit la:",
+      "raspunsuri": [
+        "păsările sălbatice",
+        "curci",
+        "pui broiler"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-119",
+      "intrebare": "Vaccinuri atenuate bazate pe linii precoce de coccidii la puii de găină:",
+      "raspunsuri": [
+        "Paracox",
+        "Coccivac",
+        "CoxAbic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-120",
+      "intrebare": "Specie de coccidie cu localizare renală la gâște:",
+      "raspunsuri": [
+        "Eimeria anseris",
+        "E. truncata",
+        "E. kotlani"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-121",
+      "intrebare": "Leziunea de bază în eimerioza acută la viței:",
+      "raspunsuri": [
+        "enterita catarală",
+        "duodenita hemoragică",
+        "colorectita ulcerodifteroidă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-122",
+      "intrebare": "Eimerioza acută la capră este dată de:",
+      "raspunsuri": [
+        "E. faurei",
+        "E. ninakohlyakimovae",
+        "E. crandalis"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-123",
+      "intrebare": "Simptom caracteristic în eimerioza intestinală a iepurilor:",
+      "raspunsuri": [
+        "timpanism",
+        "polifagie",
+        "torticolis"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-124",
+      "intrebare": "Receptivitate mare la toxoplasmoză o au:",
+      "raspunsuri": [
+        "porcinele",
+        "bovinele",
+        "ovinele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-125",
+      "intrebare": "În Europa la bovine parazitează mai ales:",
+      "raspunsuri": [
+        "Microbabesia divergens",
+        "M. bovis",
+        "M. major"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-126",
+      "intrebare": "La ovine parazitează:",
+      "raspunsuri": [
+        "Babesia bigemina",
+        "B. motași",
+        "B. ovata"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-127",
+      "intrebare": "Parazitismul cu Dipylidium caninum se datorează consumului de:",
+      "raspunsuri": [
+        "carne",
+        "organe",
+        "purici"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-128",
+      "intrebare": "Cisticercoza musculară a bovinelor este produsă de forma larvară a:",
+      "raspunsuri": [
+        "Taenia solium",
+        "T. multiceps",
+        "T. saginata"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-129",
+      "intrebare": "Progloțele de Taenia solium sunt eliminate:",
+      "raspunsuri": [
+        "odată cu scaunul",
+        "între scaune",
+        "în ambele feluri"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-130",
+      "intrebare": "Coenurus cerebralis este o formă larvară:",
+      "raspunsuri": [
+        "monochistică, monocefalică",
+        "monohistică, policefalică",
+        "polichistică, policefalică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-131",
+      "intrebare": "Chiștii hidatici sunt fertili mai ales la:",
+      "raspunsuri": [
+        "câine",
+        "bovine",
+        "ovine"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-132",
+      "intrebare": "Nematodirus spp. parazitează în:",
+      "raspunsuri": [
+        "abomas",
+        "duoden",
+        "colon"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-133",
+      "intrebare": "Trichostrongilus axei parazitează la:",
+      "raspunsuri": [
+        "bovine, ovine, porcine",
+        "cabaline, carnivore",
+        "doar la animalele sălbatice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-134",
+      "intrebare": "Leziunile hepatice din microascaridoza porcului se pot confunda cu cele din:",
+      "raspunsuri": [
+        "eimerioză",
+        "toxoplasmoză",
+        "sarcocistoză"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "pbp-135",
+      "intrebare": "Simptom caracteristic în ascarioza vițeilor:",
+      "raspunsuri": [
+        "diaree hemoragică",
+        "respirație cu miros aliaceu",
+        "pneumonie acută"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    }
+  ]
+}
