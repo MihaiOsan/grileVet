@@ -3,7 +3,7 @@
   "intrebari": [
     {
       "id": "pcm-001",
-      "intrebare": "Ce tip de disfagie se întâlnește în faringita acută?",
+      "intrebare": "1) Ce tip de disfagie se întâlnește în faringita acută?",
       "raspunsuri": [
         "disfagie ord. I",
         "disfagie ord. II",
@@ -14,7 +14,7 @@
     },
     {
       "id": "pcm-002",
-      "intrebare": "În stomatita catarală la câine, tratamentul local se face cu:",
+      "intrebare": "2) În stomatita catarală la câine, tratamentul local se face cu:",
       "raspunsuri": [
         "clorhexidină",
         "tinctură de iod",
@@ -25,7 +25,7 @@
     },
     {
       "id": "pcm-003",
-      "intrebare": "În paralizia faringelui, reflexul de deglutiție este:",
+      "intrebare": "3) În paralizia faringelui, reflexul de deglutiție este:",
       "raspunsuri": [
         "prezent",
         "absent",
@@ -36,7 +36,7 @@
     },
     {
       "id": "pcm-004",
-      "intrebare": "În faringita acută, semnele clinice mai frecvente sunt:",
+      "intrebare": "4) În faringita acută, semnele clinice mai frecvente sunt:",
       "raspunsuri": [
         "tuse și regurgitare",
         "diaree și tuse",
@@ -47,7 +47,7 @@
     },
     {
       "id": "pcm-005",
-      "intrebare": "Spasmul esofagian poate fi combătut cu:",
+      "intrebare": "5) Spasmul esofagian poate fi combătut cu:",
       "raspunsuri": [
         "antibiotice",
         "antihistaminice",
@@ -58,7 +58,7 @@
     },
     {
       "id": "pcm-006",
-      "intrebare": "Terapia în sindromul de colică presupune administrare de:",
+      "intrebare": "6) Terapia în sindromul de colică presupune administrare de:",
       "raspunsuri": [
         "analgezie, antispastice, echilibrare hidro-electrolitică",
         "echilibrare hidro-electrolitică, antibioterapie",
@@ -69,7 +69,7 @@
     },
     {
       "id": "pcm-007",
-      "intrebare": "În dispepsia hipoclorhidrică se administrează:",
+      "intrebare": "7) În dispepsia hipoclorhidrică se administrează:",
       "raspunsuri": [
         "medicație alcalizantă",
         "medicație acidifiantă",
@@ -80,7 +80,7 @@
     },
     {
       "id": "pcm-008",
-      "intrebare": "Dispepsia hiperclorhidrică se poate trata cu:",
+      "intrebare": "8) Dispepsia hiperclorhidrică se poate trata cu:",
       "raspunsuri": [
         "inhibitori de pompa de protoni",
         "diuretice",
@@ -91,7 +91,7 @@
     },
     {
       "id": "pcm-009",
-      "intrebare": "În enterita hemoragică se administrează:",
+      "intrebare": "9) În enterita hemoragică se administrează:",
       "raspunsuri": [
         "medicație hemostatică și antibioterapie",
         "anticoagulante",
@@ -102,7 +102,7 @@
     },
     {
       "id": "pcm-010",
-      "intrebare": "În gastrita catarală se administrează:",
+      "intrebare": "10) În gastrita catarală se administrează:",
       "raspunsuri": [
         "inhibitori de pompa de protoni",
         "inhibitori ai enzimei de conversie a angiotensinei",
@@ -113,7 +113,7 @@
     },
     {
       "id": "pcm-011",
-      "intrebare": "Care dintre următoarele medicamente pot fi folosite pentru efectul hepatoprotector?",
+      "intrebare": "11) Care dintre următoarele medicamente pot fi folosite pentru efectul hepatoprotector?",
       "raspunsuri": [
         "bicarbonat de sodiu",
         "metoclopramid",
@@ -124,7 +124,7 @@
     },
     {
       "id": "pcm-012",
-      "intrebare": "Ce culoare prezintă mucoasele în icterul mecanic?",
+      "intrebare": "12) Ce culoare prezintă mucoasele în icterul mecanic?",
       "raspunsuri": [
         "galben-citrin",
         "galben-portocaliu",
@@ -135,7 +135,7 @@
     },
     {
       "id": "pcm-013",
-      "intrebare": "Care este tipul lichidului obținut la puncția abdominală în ascită?",
+      "intrebare": "13) Care este tipul lichidului obținut la puncția abdominală în ascită?",
       "raspunsuri": [
         "sânge",
         "exsudat",
@@ -146,7 +146,7 @@
     },
     {
       "id": "pcm-014",
-      "intrebare": "Sub ce formă evoluează peritonita la cal?",
+      "intrebare": "14) Sub ce formă evoluează peritonita la cal?",
       "raspunsuri": [
         "cronică și localizată",
         "acută și generalizată",
@@ -157,7 +157,7 @@
     },
     {
       "id": "pcm-015",
-      "intrebare": "Care formă evolutivă este întâlnită în peritonita la bovine?",
+      "intrebare": "15) Care formă evolutivă este întâlnită în peritonita la bovine?",
       "raspunsuri": [
         "cronică și localizată",
         "acută",
@@ -168,7 +168,7 @@
     },
     {
       "id": "pcm-016",
-      "intrebare": "Ce culoare prezintă mucoasele în hemoragia peritoneală?",
+      "intrebare": "16) Ce culoare prezintă mucoasele în hemoragia peritoneală?",
       "raspunsuri": [
         "icterică",
         "anemică",
@@ -179,7 +179,7 @@
     },
     {
       "id": "pcm-017",
-      "intrebare": "Care este sediul pierderii de sânge în hemoptizie?",
+      "intrebare": "17) Care este sediul pierderii de sânge în hemoptizie?",
       "raspunsuri": [
         "gastric",
         "pulmonar",
@@ -190,7 +190,7 @@
     },
     {
       "id": "pcm-018",
-      "intrebare": "În hemoptizie se percep:",
+      "intrebare": "18) În hemoptizie se percep:",
       "raspunsuri": [
         "raluri bronho-alveolare umede",
         "suflu pleuretic",
@@ -201,7 +201,7 @@
     },
     {
       "id": "pcm-019",
-      "intrebare": "În hemoptizie se administrează:",
+      "intrebare": "19) În hemoptizie se administrează:",
       "raspunsuri": [
         "medicație bronholitică",
         "medicație hemostatică",
@@ -212,7 +212,7 @@
     },
     {
       "id": "pcm-020",
-      "intrebare": "În edemul laringian de natură alergică se administrează:",
+      "intrebare": "20) În edemul laringian de natură alergică se administrează:",
       "raspunsuri": [
         "diuretice",
         "antiinflamatorii steroidiene",
@@ -223,7 +223,7 @@
     },
     {
       "id": "pcm-021",
-      "intrebare": "În bronșitele acute, faza exsudativă se administrează:",
+      "intrebare": "21) În bronșitele acute, faza exsudativă se administrează:",
       "raspunsuri": [
         "expectorant si antibiotic",
         "purgativ",
@@ -234,7 +234,7 @@
     },
     {
       "id": "pcm-022",
-      "intrebare": "În macrobronșită, faza congestivă, stetoscopic se percep:",
+      "intrebare": "22) În macrobronșită, faza congestivă, stetoscopic se percep:",
       "raspunsuri": [
         "suflu nedefinit",
         "raluri bronhiale ronflante",
@@ -245,7 +245,7 @@
     },
     {
       "id": "pcm-023",
-      "intrebare": "În patologia cardiacă, comunicarea interatrială reprezintă:",
+      "intrebare": "23) În patologia cardiacă, comunicarea interatrială reprezintă:",
       "raspunsuri": [
         "persistența ductului arterios",
         "persistența foramen ovale",
@@ -256,7 +256,7 @@
     },
     {
       "id": "pcm-024",
-      "intrebare": "În edemul pulmonar, stetoscopic se identifică:",
+      "intrebare": "24) În edemul pulmonar, stetoscopic se identifică:",
       "raspunsuri": [
         "suflu amforic",
         "suflu cavernos",
@@ -267,7 +267,7 @@
     },
     {
       "id": "pcm-025",
-      "intrebare": "În obstrucțiile marilor bronhii, posterior obstrucției, murmurul vezicular este:",
+      "intrebare": "25) În obstrucțiile marilor bronhii, posterior obstrucției, murmurul vezicular este:",
       "raspunsuri": [
         "înăsprit",
         "diminuat",
@@ -278,7 +278,7 @@
     },
     {
       "id": "pcm-026",
-      "intrebare": "Atelectazia pulmonară evoluează cu:",
+      "intrebare": "26) Atelectazia pulmonară evoluează cu:",
       "raspunsuri": [
         "normotermie",
         "febră",
@@ -289,7 +289,7 @@
     },
     {
       "id": "pcm-027",
-      "intrebare": "Ce tratament se recomandă în criza de astm bronșic?",
+      "intrebare": "27) Ce tratament se recomandă în criza de astm bronșic?",
       "raspunsuri": [
         "corticoterapie și bronhodilatatoare",
         "antibiotic",
@@ -300,7 +300,7 @@
     },
     {
       "id": "pcm-028",
-      "intrebare": "În congestia pulmonară activă, stetoscopic se percepe:",
+      "intrebare": "28) În congestia pulmonară activă, stetoscopic se percepe:",
       "raspunsuri": [
         "suflu pleuretic cu zgomot de picătură",
         "murmur vezicular înăsprit",
@@ -311,7 +311,7 @@
     },
     {
       "id": "pcm-029",
-      "intrebare": "Care sunt măsurile terapeutice recomandate în tratamentul edemului pulmonar?",
+      "intrebare": "29) Care sunt măsurile terapeutice recomandate în tratamentul edemului pulmonar?",
       "raspunsuri": [
         "oxigenoterapie și diuretice",
         "diuretice și echilibrare hidro-electrolitică",
@@ -322,7 +322,7 @@
     },
     {
       "id": "pcm-030",
-      "intrebare": "În hemoptizie, jetajul este:",
+      "intrebare": "30) În hemoptizie, jetajul este:",
       "raspunsuri": [
         "spumos, albicios, bilateral",
         "de culoare închisă, cu miros înțepător",
@@ -333,7 +333,7 @@
     },
     {
       "id": "pcm-031",
-      "intrebare": "În bronhopneumonia catarală, faza de condensare prin ascultație se percepe:",
+      "intrebare": "31) În bronhopneumonia catarală, faza de condensare prin ascultație se percepe:",
       "raspunsuri": [
         "suflu crepitant",
         "suflu tubar și emfizem pulmonar compensator perifocal",
@@ -344,7 +344,7 @@
     },
     {
       "id": "pcm-032",
-      "intrebare": "În pneumonia fibrinoasă, în faza congestivă stetoscopic se percepe:",
+      "intrebare": "32) În pneumonia fibrinoasă, în faza congestivă stetoscopic se percepe:",
       "raspunsuri": [
         "murmur vezicular înăsprit",
         "murmur vezicular diminuat",
@@ -355,7 +355,7 @@
     },
     {
       "id": "pcm-033",
-      "intrebare": "În pneumonia lobară, febra este:",
+      "intrebare": "33) În pneumonia lobară, febra este:",
       "raspunsuri": [
         "remitentă",
         "în platou",
@@ -366,7 +366,7 @@
     },
     {
       "id": "pcm-034",
-      "intrebare": "În pleurită, faza congestivă, stetoscopic se înregistrează:",
+      "intrebare": "34) În pleurită, faza congestivă, stetoscopic se înregistrează:",
       "raspunsuri": [
         "suflu nedefinit",
         "zgomot de frecătură pleurală",
@@ -377,7 +377,7 @@
     },
     {
       "id": "pcm-035",
-      "intrebare": "În pleurezie masivă, prin auscultație pulmonară se percepe:",
+      "intrebare": "35) În pleurezie masivă, prin auscultație pulmonară se percepe:",
       "raspunsuri": [
         "zgomot de frecătură pleurală cu zgomot pulmonar diminuat",
         "raluri bronhiale sibilante",
@@ -388,7 +388,7 @@
     },
     {
       "id": "pcm-036",
-      "intrebare": "În efuziunea pleurală masivă, terapia impune:",
+      "intrebare": "36) În efuziunea pleurală masivă, terapia impune:",
       "raspunsuri": [
         "toracocenteza și diuretice",
         "antibiotice și echilibrare hidro-electrolitică",
@@ -399,7 +399,7 @@
     },
     {
       "id": "pcm-037",
-      "intrebare": "În emfizemul pulmonar alveolar, la auscultație se percepe:",
+      "intrebare": "37) În emfizemul pulmonar alveolar, la auscultație se percepe:",
       "raspunsuri": [
         "murmur vezicular înăsprit",
         "murmur vezicular diminuat",
@@ -410,7 +410,7 @@
     },
     {
       "id": "pcm-038",
-      "intrebare": "Ralurile alveolare uscate se percep stetoscopic în:",
+      "intrebare": "38) Ralurile alveolare uscate se percep stetoscopic în:",
       "raspunsuri": [
         "edem pulmonar",
         "bronhopneumonie catarală",
@@ -421,7 +421,7 @@
     },
     {
       "id": "pcm-039",
-      "intrebare": "Cornajul inspirator apare în:",
+      "intrebare": "39) Cornajul inspirator apare în:",
       "raspunsuri": [
         "edem pulmonar",
         "bronșită cronică",
@@ -432,7 +432,7 @@
     },
     {
       "id": "pcm-040",
-      "intrebare": "În paralizia laringelui se administrează:",
+      "intrebare": "40) În paralizia laringelui se administrează:",
       "raspunsuri": [
         "nevrostenice",
         "antiinflamatorii",
@@ -443,7 +443,7 @@
     },
     {
       "id": "pcm-041",
-      "intrebare": "Evoluția în pneumonia lobară este:",
+      "intrebare": "41) Evoluția în pneumonia lobară este:",
       "raspunsuri": [
         "cronică",
         "ciclică, 9-14 zile",
@@ -454,7 +454,7 @@
     },
     {
       "id": "pcm-042",
-      "intrebare": "Care dintre următoarele medicamente se utilizează pentru efectul antiaritmic?",
+      "intrebare": "42) Care dintre următoarele medicamente se utilizează pentru efectul antiaritmic?",
       "raspunsuri": [
         "inhibitori a enzimei de conversie a angiotensinei",
         "betablocante",
@@ -465,7 +465,7 @@
     },
     {
       "id": "pcm-043",
-      "intrebare": "Cu scopul stimulării tonusului cardiac se utilizează:",
+      "intrebare": "43) Cu scopul stimulării tonusului cardiac se utilizează:",
       "raspunsuri": [
         "cardiotonice",
         "miorelaxante",
@@ -476,7 +476,7 @@
     },
     {
       "id": "pcm-044",
-      "intrebare": "În pericardita traumatică (faza congestivă), stetoscopic se percepe:",
+      "intrebare": "44) În pericardita traumatică (faza congestivă), stetoscopic se percepe:",
       "raspunsuri": [
         "zgomot de lichid, de “picătură”",
         "zgomot de frecătură pericardică",
@@ -487,7 +487,7 @@
     },
     {
       "id": "pcm-045",
-      "intrebare": "În care următoarele afecțiuni se observă ectazia jugularelor, fără puls venos?",
+      "intrebare": "45) În care următoarele afecțiuni se observă ectazia jugularelor, fără puls venos?",
       "raspunsuri": [
         "miocardita acută",
         "pericardita traumatică, faza exsudativă",
@@ -498,7 +498,7 @@
     },
     {
       "id": "pcm-046",
-      "intrebare": "Care sunt cele mai frecvente semne clinice observate la pisicile cu hipertiroidism?",
+      "intrebare": "46) Care sunt cele mai frecvente semne clinice observate la pisicile cu hipertiroidism?",
       "raspunsuri": [
         "anorexie și vomitare",
         "anemie și dispnee",
@@ -509,7 +509,7 @@
     },
     {
       "id": "pcm-047",
-      "intrebare": "În ce afecțiune șocul cardiac are intensitate și frecvență crescută?",
+      "intrebare": "47) În ce afecțiune șocul cardiac are intensitate și frecvență crescută?",
       "raspunsuri": [
         "hemopericard",
         "hidropericard",
@@ -520,7 +520,7 @@
     },
     {
       "id": "pcm-048",
-      "intrebare": "Simptomele în insuficiența cardiacă stângă sunt:",
+      "intrebare": "48) Simptomele în insuficiența cardiacă stângă sunt:",
       "raspunsuri": [
         "edeme periferice",
         "tuse și dispnee",
@@ -531,7 +531,7 @@
     },
     {
       "id": "pcm-049",
-      "intrebare": "Zgomotul sistolic este de natură:",
+      "intrebare": "49) Zgomotul sistolic este de natură:",
       "raspunsuri": [
         "vasculo-valvulară",
         "musculo-valvulară",
@@ -542,7 +542,7 @@
     },
     {
       "id": "pcm-050",
-      "intrebare": "Care sunt focarele de ascultație de pe partea stângă a ariei de proiecție cardiacă?",
+      "intrebare": "50) Care sunt focarele de ascultație de pe partea stângă a ariei de proiecție cardiacă?",
       "raspunsuri": [
         "tricuspidian, aortic",
         "pulmonar, aortic, mitral",
@@ -553,7 +553,7 @@
     },
     {
       "id": "pcm-051",
-      "intrebare": "Cum poate fi caracterizat suflul endocardic organic de stenoză?",
+      "intrebare": "51) Cum poate fi caracterizat suflul endocardic organic de stenoză?",
       "raspunsuri": [
         "de intensitate scazută",
         "de intensitate crescută",
@@ -564,7 +564,7 @@
     },
     {
       "id": "pcm-052",
-      "intrebare": "În ce afecțiune apare tusea nocturnă, apoi diurnă, de tip paroxistic?",
+      "intrebare": "52) În ce afecțiune apare tusea nocturnă, apoi diurnă, de tip paroxistic?",
       "raspunsuri": [
         "insuficiența valvei mitrale",
         "efizemul pulmonar",
@@ -575,7 +575,7 @@
     },
     {
       "id": "pcm-053",
-      "intrebare": "În ce boală sunt comune simptomele de poliurie și polakisurie:",
+      "intrebare": "53) În ce boală sunt comune simptomele de poliurie și polakisurie:",
       "raspunsuri": [
         "cistita idiopatică",
         "hidronefroză",
@@ -586,7 +586,7 @@
     },
     {
       "id": "pcm-054",
-      "intrebare": "Care este cea mai frecventă cauză a hiperadrenocorticismului spontan la câini?",
+      "intrebare": "54) Care este cea mai frecventă cauză a hiperadrenocorticismului spontan la câini?",
       "raspunsuri": [
         "tumori ale medulosuprarenalei",
         "tumori ale corticosuprarenalei",
@@ -597,7 +597,7 @@
     },
     {
       "id": "pcm-055",
-      "intrebare": "Congestia renală pasivă evoluează secundar în:",
+      "intrebare": "55) Congestia renală pasivă evoluează secundar în:",
       "raspunsuri": [
         "insuficiența cardiacă stângă",
         "insuficiența cardiacă dreaptă",
@@ -608,7 +608,7 @@
     },
     {
       "id": "pcm-056",
-      "intrebare": "Boala obstructivă ureterală conduce la:",
+      "intrebare": "56) Boala obstructivă ureterală conduce la:",
       "raspunsuri": [
         "hidronefroză",
         "congestie renală activă",
@@ -619,7 +619,7 @@
     },
     {
       "id": "pcm-057",
-      "intrebare": "Incontinența urinară poate fi consecința:",
+      "intrebare": "57) Incontinența urinară poate fi consecința:",
       "raspunsuri": [
         "urolitiazei",
         "hipotiroidismului",
@@ -630,7 +630,7 @@
     },
     {
       "id": "pcm-058",
-      "intrebare": "Ce medicație se utilizează în afecțiunile cardio-respiratorii, cu scopul stimulării centrului respirator bulbar?",
+      "intrebare": "58) Ce medicație se utilizează în afecțiunile cardio-respiratorii, cu scopul stimulării centrului respirator bulbar?",
       "raspunsuri": [
         "paracetamol",
         "cafeină",
@@ -641,7 +641,7 @@
     },
     {
       "id": "pcm-059",
-      "intrebare": "Pahimeningita reprezintă inflamația:",
+      "intrebare": "59) Pahimeningita reprezintă inflamația:",
       "raspunsuri": [
         "arahnoidei",
         "pia mater",
@@ -652,7 +652,7 @@
     },
     {
       "id": "pcm-060",
-      "intrebare": "În meningoencefalitele bacteriene în forma acută, hemoleucograma evidențiază:",
+      "intrebare": "60) În meningoencefalitele bacteriene în forma acută, hemoleucograma evidențiază:",
       "raspunsuri": [
         "limfocitoză",
         "leucopenie",
@@ -663,7 +663,7 @@
     },
     {
       "id": "pcm-061",
-      "intrebare": "Care este medicamentul de primă alegere în tratamentul de urgență al convulsiilor?",
+      "intrebare": "61) Care este medicamentul de primă alegere în tratamentul de urgență al convulsiilor?",
       "raspunsuri": [
         "fenobarbital",
         "gabapentin",
@@ -674,7 +674,7 @@
     },
     {
       "id": "pcm-062",
-      "intrebare": "În care dintre următoarele localizări ale leziunilor măduvei spinării se observă ataxie și pareza a tuturor celor patru membre?",
+      "intrebare": "62) În care dintre următoarele localizări ale leziunilor măduvei spinării se observă ataxie și pareza a tuturor celor patru membre?",
       "raspunsuri": [
         "leziuni ale măduvei cervicale (C1-C5)",
         "leziuni în segmentul lombo-sacral (caudal de L4)",
@@ -685,7 +685,7 @@
     },
     {
       "id": "pcm-063",
-      "intrebare": "La câini, în sindromul meningită-arterită tratamentul se face cu:",
+      "intrebare": "63) La câini, în sindromul meningită-arterită tratamentul se face cu:",
       "raspunsuri": [
         "antibiotice în doze mari",
         "prednisolon în doze imunosupresive",
@@ -696,7 +696,7 @@
     },
     {
       "id": "pcm-064",
-      "intrebare": "Apariția sincopei se datorează:",
+      "intrebare": "64) Apariția sincopei se datorează:",
       "raspunsuri": [
         "scăderii concentrației oxigenului la nivel cardiac",
         "scăderii concentrației de oxigen la nivel cerebral",
@@ -707,7 +707,7 @@
     },
     {
       "id": "pcm-065",
-      "intrebare": "În care dintre localizările leziunilor măduvei spinării reflexul anal este absent?",
+      "intrebare": "65) În care dintre localizările leziunilor măduvei spinării reflexul anal este absent?",
       "raspunsuri": [
         "leziuni ale măduvei cervicale (C1-C5)",
         "leziuni în segmentul lombo-sacral (caudal de L4)",
@@ -718,7 +718,7 @@
     },
     {
       "id": "pcm-066",
-      "intrebare": "Afectarea măduvei în regiunea cervicală se manifestă prin:",
+      "intrebare": "66) Afectarea măduvei în regiunea cervicală se manifestă prin:",
       "raspunsuri": [
         "paraplegie",
         "cvadriplegie flască",
@@ -729,7 +729,7 @@
     },
     {
       "id": "pcm-067",
-      "intrebare": "Care dintre următoarele cauze ale epilepsiei sunt mai frecvent întâlnite la câini?",
+      "intrebare": "67) Care dintre următoarele cauze ale epilepsiei sunt mai frecvent întâlnite la câini?",
       "raspunsuri": [
         "neoplaziile intracraniene",
         "encefalitele",
@@ -740,7 +740,7 @@
     },
     {
       "id": "pcm-068",
-      "intrebare": "În crizele convulsive se administrează:",
+      "intrebare": "68) În crizele convulsive se administrează:",
       "raspunsuri": [
         "scopolamină",
         "diazepam",
@@ -751,7 +751,7 @@
     },
     {
       "id": "pcm-069",
-      "intrebare": "Care dintre următoarele medicamente este utilizat în tratamentul hipotiroidismului la câini?",
+      "intrebare": "69) Care dintre următoarele medicamente este utilizat în tratamentul hipotiroidismului la câini?",
       "raspunsuri": [
         "carbimazol",
         "levotiroxina",
@@ -762,7 +762,7 @@
     },
     {
       "id": "pcm-070",
-      "intrebare": "Care sunt fazele crizei epileptice generalizate:",
+      "intrebare": "70) Care sunt fazele crizei epileptice generalizate:",
       "raspunsuri": [
         "ictală, postictală",
         "preictală, ictală (aură), postictală",
@@ -773,7 +773,7 @@
     },
     {
       "id": "pcm-071",
-      "intrebare": "Ce efect are atropina?",
+      "intrebare": "71) Ce efect are atropina?",
       "raspunsuri": [
         "simpaticolitic",
         "parasimpaticolitic",
@@ -784,7 +784,7 @@
     },
     {
       "id": "pcm-072",
-      "intrebare": "Care sunt semnele clinice mai frecvent întâlnite la câinii cu hipotiroidism?",
+      "intrebare": "72) Care sunt semnele clinice mai frecvent întâlnite la câinii cu hipotiroidism?",
       "raspunsuri": [
         "Polidipsie, polakiurie, polifagie",
         "Polifagie, diaree, slăbire",
@@ -795,7 +795,7 @@
     },
     {
       "id": "pcm-073",
-      "intrebare": "Care dintre următoarele modificări paraclinice sunt caracteristice hipoparatiroidismului?",
+      "intrebare": "73) Care dintre următoarele modificări paraclinice sunt caracteristice hipoparatiroidismului?",
       "raspunsuri": [
         "hipercalcemie asociată cu hipofosfatemie",
         "hipocalcemie asociată cu hiperfosfatemie",
@@ -806,7 +806,7 @@
     },
     {
       "id": "pcm-074",
-      "intrebare": "Care este prima măsură terapeutică recomandată în tratamentul pacienților cu crize adisoniene?",
+      "intrebare": "74) Care este prima măsură terapeutică recomandată în tratamentul pacienților cu crize adisoniene?",
       "raspunsuri": [
         "administrare de fluide în doze mari",
         "administrare de glucocorticoizi",
@@ -817,7 +817,7 @@
     },
     {
       "id": "pcm-075",
-      "intrebare": "Care este cea mai frecventă cauză a menținerii persistente a capului aplecat pe o parte la câini?",
+      "intrebare": "75) Care este cea mai frecventă cauză a menținerii persistente a capului aplecat pe o parte la câini?",
       "raspunsuri": [
         "sindromul vestibular",
         "sindromul de meningită-arterită",
@@ -828,7 +828,7 @@
     },
     {
       "id": "pcm-076",
-      "intrebare": "În diabetul zaharat, paraclinic se evidențiază:",
+      "intrebare": "76) În diabetul zaharat, paraclinic se evidențiază:",
       "raspunsuri": [
         "hipoglicemie, fără glucozurie",
         "hipoglicemie, glucozurie",
@@ -839,7 +839,7 @@
     },
     {
       "id": "pcm-077",
-      "intrebare": "În sindromul de colică ușoară, ephidroza reprezintă un simptom manifestat prin:",
+      "intrebare": "77) În sindromul de colică ușoară, ephidroza reprezintă un simptom manifestat prin:",
       "raspunsuri": [
         "transpirație cu sânge",
         "transpirație localizată",
@@ -850,7 +850,7 @@
     },
     {
       "id": "pcm-078",
-      "intrebare": "Care dintre următoarele medicamente se recomandă în terapia pe termen lung a epilepsiei idiopatică?",
+      "intrebare": "78) Care dintre următoarele medicamente se recomandă în terapia pe termen lung a epilepsiei idiopatică?",
       "raspunsuri": [
         "bromura de potasiu",
         "diazepam",
@@ -861,7 +861,7 @@
     },
     {
       "id": "pcm-079",
-      "intrebare": "Care sunt cele mai frecvente semne clinice întâlnite în leziunile măduvei spinării din regiunea toraco-lombară (T3- L3)?",
+      "intrebare": "79) Care sunt cele mai frecvente semne clinice întâlnite în leziunile măduvei spinării din regiunea toraco-lombară (T3- L3)?",
       "raspunsuri": [
         "pareze și paralizii la nivelul membrelor pelvine",
         "ataxie și pareze la toate cele patru membre.",
@@ -872,7 +872,7 @@
     },
     {
       "id": "pcm-080",
-      "intrebare": "Care sunt simptomele asociate cistitei acute?",
+      "intrebare": "80) Care sunt simptomele asociate cistitei acute?",
       "raspunsuri": [
         "polakisurie și hematurie",
         "oligurie și hemoglobinurie",
@@ -883,7 +883,7 @@
     },
     {
       "id": "pcm-081",
-      "intrebare": "Diagnosticul valvulopatiilor mitrale se poate face prin:",
+      "intrebare": "81) Diagnosticul valvulopatiilor mitrale se poate face prin:",
       "raspunsuri": [
         "electrocardiografie",
         "radiografie",
@@ -894,7 +894,7 @@
     },
     {
       "id": "pcm-082",
-      "intrebare": "După NYHA, insuficiența cardiacă poate fi clasificată în:",
+      "intrebare": "82) După NYHA, insuficiența cardiacă poate fi clasificată în:",
       "raspunsuri": [
         "Gradele I, II, III, IV",
         "Gradele I, II, III, IV, V",
@@ -905,7 +905,7 @@
     },
     {
       "id": "pcm-083",
-      "intrebare": "În timpanismul gazos la rumegătoare, oprirea fermentațiilor se face cu:",
+      "intrebare": "83) În timpanismul gazos la rumegătoare, oprirea fermentațiilor se face cu:",
       "raspunsuri": [
         "acid sulfuric 2%",
         "acid acetic 1%",
@@ -916,7 +916,7 @@
     },
     {
       "id": "pcm-084",
-      "intrebare": "În indigestia spumoasă a rumenului, scădere tensiunii superficiale se face cu:",
+      "intrebare": "84) În indigestia spumoasă a rumenului, scădere tensiunii superficiale se face cu:",
       "raspunsuri": [
         "simeticonă",
         "atropină",
@@ -927,7 +927,7 @@
     },
     {
       "id": "pcm-085",
-      "intrebare": "Alcaloza rumenală acută este consecința rațiilor:",
+      "intrebare": "85) Alcaloza rumenală acută este consecința rațiilor:",
       "raspunsuri": [
         "hiperazotate și hipoglucidice",
         "hiperglucidice și hipoproteice",
@@ -938,7 +938,7 @@
     },
     {
       "id": "pcm-086",
-      "intrebare": "Acidoza rumenală acută este consecința rațiilor:",
+      "intrebare": "86) Acidoza rumenală acută este consecința rațiilor:",
       "raspunsuri": [
         "hiperlipidice și hiperazotate",
         "hiperglucidice",
@@ -949,7 +949,7 @@
     },
     {
       "id": "pcm-087",
-      "intrebare": "În ingluvita catarală se administrează:",
+      "intrebare": "87) În ingluvita catarală se administrează:",
       "raspunsuri": [
         "soluții acidulate",
         "soluții alcaline",
@@ -960,7 +960,7 @@
     },
     {
       "id": "pcm-088",
-      "intrebare": "În bronhopneumoniile micotice se administrează:",
+      "intrebare": "88) În bronhopneumoniile micotice se administrează:",
       "raspunsuri": [
         "antimicotice",
         "cardiotonice",
@@ -971,7 +971,7 @@
     },
     {
       "id": "pcm-089",
-      "intrebare": "Care este riscul supradozării insulinei în tratamentu diabetului zaharat la câini și pisici:",
+      "intrebare": "89) Care este riscul supradozării insulinei în tratamentu diabetului zaharat la câini și pisici:",
       "raspunsuri": [
         "hiperglicemie",
         "hipoglicemie",
@@ -982,7 +982,7 @@
     },
     {
       "id": "pcm-090",
-      "intrebare": "În insuficiența cardiacă dreapta, simptomele sunt:",
+      "intrebare": "90) În insuficiența cardiacă dreapta, simptomele sunt:",
       "raspunsuri": [
         "slăbire, poliurie",
         "edeme periferice, efuziune peritoneală",
@@ -993,7 +993,7 @@
     },
     {
       "id": "pcm-091",
-      "intrebare": "În obstrucția esofagului se constată:",
+      "intrebare": "91) În obstrucția esofagului se constată:",
       "raspunsuri": [
         "jetaj",
         "diaree",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "pcm-092",
-      "intrebare": "În icterul mecanic, fecalele au aspect:",
+      "intrebare": "92) În icterul mecanic, fecalele au aspect:",
       "raspunsuri": [
         "decolorat",
         "hemoragice",
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "pcm-093",
-      "intrebare": "Nefroza amiloidă se caracterizează prin:",
+      "intrebare": "93) Nefroza amiloidă se caracterizează prin:",
       "raspunsuri": [
         "depunerea amiloidului pe pereții arteriolelor glomerulare",
         "depunerea amiloidului în cortexul renal",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "pcm-094",
-      "intrebare": "Care dintre următoarele modificări poate să apară în evoluția valvulopatiei mitrale degenerative:",
+      "intrebare": "94) Care dintre următoarele modificări poate să apară în evoluția valvulopatiei mitrale degenerative:",
       "raspunsuri": [
         "dilatație atrială stângă",
         "dilatație ventriculară dreaptă",
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "pcm-095",
-      "intrebare": "Care dintre următoarele medicamente pot fi utilizate în tratamentul cetozei taurinelor?",
+      "intrebare": "95) Care dintre următoarele medicamente pot fi utilizate în tratamentul cetozei taurinelor?",
       "raspunsuri": [
         "corticosteroizi",
         "mineralocorticoizi",
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "pcm-096",
-      "intrebare": "Toxiemia de gestație a oilor este determinată de:",
+      "intrebare": "96) Toxiemia de gestație a oilor este determinată de:",
       "raspunsuri": [
         "deficitul de precursori pentru neoglucogeneză",
         "excesul de precursori pentru lipogeneză",
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "pcm-097",
-      "intrebare": "În tratamentul cetozei taurinelor se recomandă:",
+      "intrebare": "97) În tratamentul cetozei taurinelor se recomandă:",
       "raspunsuri": [
         "propilenglicol",
         "etilenglicol",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "pcm-098",
-      "intrebare": "După parturiție, în sindromul vacii grase (sindromul ficatului gras) se constată:",
+      "intrebare": "98) După parturiție, în sindromul vacii grase (sindromul ficatului gras) se constată:",
       "raspunsuri": [
         "deteriorarea rapidă a stării de întreținere",
         "îngrășarea excesivă",
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "pcm-099",
-      "intrebare": "Care este modificarea biochimică întâlnită în parezia de parturiție la vaci?",
+      "intrebare": "99) Care este modificarea biochimică întâlnită în parezia de parturiție la vaci?",
       "raspunsuri": [
         "hipocalcemia",
         "hipersecreția de parathormon",
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "pcm-100",
-      "intrebare": "În parezia de parturiția a vacilor se constată:",
+      "intrebare": "100) În parezia de parturiția a vacilor se constată:",
       "raspunsuri": [
         "hiperexcitabilitate nervoasă și hipertonie musculară",
         "depresiune nervoasă și hipotonie musculară",
@@ -1103,7 +1103,7 @@
     },
     {
       "id": "pcm-101",
-      "intrebare": "Care dintre următoarele cauze ar putea să conducă la apariția pareziei de parturiție la vaci?",
+      "intrebare": "101) Care dintre următoarele cauze ar putea să conducă la apariția pareziei de parturiție la vaci?",
       "raspunsuri": [
         "aportul excesiv de calciu în cursul gestației",
         "carență în magneziu pe perioada gestației",
@@ -1114,7 +1114,7 @@
     },
     {
       "id": "pcm-102",
-      "intrebare": "La vaci, osteomalacia este determinată de:",
+      "intrebare": "102) La vaci, osteomalacia este determinată de:",
       "raspunsuri": [
         "carența în fosfor și vitamina D",
         "carența în magneziu",
@@ -1125,7 +1125,7 @@
     },
     {
       "id": "pcm-103",
-      "intrebare": "Care sunt cauzele care conduc la apariția osteofibrozei (hiperparatiroidismul nutrițional secundar)",
+      "intrebare": "103) Care sunt cauzele care conduc la apariția osteofibrozei (hiperparatiroidismul nutrițional secundar)",
       "raspunsuri": [
         "excesul de calciu și carența în fosfor",
         "carența de fosfor și vitamina D",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "pcm-104",
-      "intrebare": "În tratamentul osteofibrozei (hiperparatiroidismul nutrițional secundar) se recomandă:",
+      "intrebare": "104) În tratamentul osteofibrozei (hiperparatiroidismul nutrițional secundar) se recomandă:",
       "raspunsuri": [
         "preparate pe bază de fosfor",
         "preparate pe bază de calciu",
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "pcm-105",
-      "intrebare": "Care este modificarea cea mai frecventă în compoziția laptelui la vacile cu acidoză metabolică latentă alimentară?",
+      "intrebare": "105) Care este modificarea cea mai frecventă în compoziția laptelui la vacile cu acidoză metabolică latentă alimentară?",
       "raspunsuri": [
         "scăderea procentului de grăsime",
         "scăderea procentului de lactoză",
@@ -1158,7 +1158,7 @@
     },
     {
       "id": "pcm-106",
-      "intrebare": "Carența în fier la purcei determină:",
+      "intrebare": "106) Carența în fier la purcei determină:",
       "raspunsuri": [
         "anemie hipocromă microcitară",
         "anemie normocromă macrocitară",
@@ -1169,7 +1169,7 @@
     },
     {
       "id": "pcm-107",
-      "intrebare": "Care dintre următoarele medicamente se recomandă în tratamentul formei dobândite a miasteniei gravis:",
+      "intrebare": "107) Care dintre următoarele medicamente se recomandă în tratamentul formei dobândite a miasteniei gravis:",
       "raspunsuri": [
         "bromură de piridostigmină și corticosteroizi",
         "clorură de potasiu și vitamina E",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "pcm-108",
-      "intrebare": "Care dintre următoarele modificări biochimice se întâlnesc în evoluția miodistrofiilor nutriționale?",
+      "intrebare": "108) Care dintre următoarele modificări biochimice se întâlnesc în evoluția miodistrofiilor nutriționale?",
       "raspunsuri": [
         "creșterea activității serice a creatinkinazei și aspartat aminotransferazei",
         "creșterea activității serice a fosfatazei alcaline și a gama glutamiltransferazei",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "pcm-109",
-      "intrebare": "În encefalomalacia puilor de găină se intervine cu:",
+      "intrebare": "109) În encefalomalacia puilor de găină se intervine cu:",
       "raspunsuri": [
         "vitamina E",
         "vitamina B1",
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "pcm-110",
-      "intrebare": "Paraclinic, în miodistrofia nutrițională a mieilor se constată:",
+      "intrebare": "110) Paraclinic, în miodistrofia nutrițională a mieilor se constată:",
       "raspunsuri": [
         "reducerea activității serice a glutation-peroxidazei",
         "creșterea activității serice a glutation-peroxidazei",
@@ -1213,7 +1213,7 @@
     },
     {
       "id": "pcm-111",
-      "intrebare": "Sindromul de miopatie - dispnee la bovine este determinat de:",
+      "intrebare": "111) Sindromul de miopatie - dispnee la bovine este determinat de:",
       "raspunsuri": [
         "carența în vitamina E și seleniu",
         "carența în fier",
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "pcm-112",
-      "intrebare": "Care este efectul administrării de metoprolol?",
+      "intrebare": "112) Care este efectul administrării de metoprolol?",
       "raspunsuri": [
         "antiaritmic",
         "antispastic",
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "pcm-113",
-      "intrebare": "În miodistrofia nutrițională a mieilor se intervine cu:",
+      "intrebare": "113) În miodistrofia nutrițională a mieilor se intervine cu:",
       "raspunsuri": [
         "salicilat de sodiu",
         "selenit de sodiu",
@@ -1246,7 +1246,7 @@
     },
     {
       "id": "pcm-114",
-      "intrebare": "La păsări, în rahitism se utilizează:",
+      "intrebare": "114) La păsări, în rahitism se utilizează:",
       "raspunsuri": [
         "numai vitamina D2",
         "numai vitamina D3",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "pcm-115",
-      "intrebare": "Care dintre următoarele cauze pot provoca gută la păsări?",
+      "intrebare": "115) Care dintre următoarele cauze pot provoca gută la păsări?",
       "raspunsuri": [
         "excesul de calciu si vitamina D",
         "hipovitaminoza B3",
@@ -1268,7 +1268,7 @@
     },
     {
       "id": "pcm-116",
-      "intrebare": "Diateza exudativă la păsările de curte este determinată de:",
+      "intrebare": "116) Diateza exudativă la păsările de curte este determinată de:",
       "raspunsuri": [
         "carența în seleniu",
         "carența în magneziu",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "pcm-117",
-      "intrebare": "Creșterea intensității zgomotelor cardiace se contată în:",
+      "intrebare": "117) Creșterea intensității zgomotelor cardiace se contată în:",
       "raspunsuri": [
         "hipertrofie cardiaca, febra, hipertiroidism",
         "febra, dilatație cardiacă, la efort",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "pcm-118",
-      "intrebare": "Care dintre următoarele afirmații este corectă în cazul administrării de corticosteroizi la câini?",
+      "intrebare": "118) Care dintre următoarele afirmații este corectă în cazul administrării de corticosteroizi la câini?",
       "raspunsuri": [
         "corticoterapia determină leucocitoză",
         "corticoterapia determină anemie",
@@ -1301,7 +1301,7 @@
     },
     {
       "id": "pcm-119",
-      "intrebare": "Care este efectul inhibitorilor enzimei de conversie a angiotensinei?",
+      "intrebare": "119) Care este efectul inhibitorilor enzimei de conversie a angiotensinei?",
       "raspunsuri": [
         "antiaritmic",
         "hipotensiv",
@@ -1312,7 +1312,7 @@
     },
     {
       "id": "pcm-120",
-      "intrebare": "Pimobendanul se administrează în:",
+      "intrebare": "120) Pimobendanul se administrează în:",
       "raspunsuri": [
         "nefropatii inflamatorii",
         "anemii",
@@ -1323,7 +1323,7 @@
     },
     {
       "id": "pcm-121",
-      "intrebare": "Furosemidul poate determina:",
+      "intrebare": "121) Furosemidul poate determina:",
       "raspunsuri": [
         "hiperpotasiemie",
         "hipopotasiemie",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "pcm-122",
-      "intrebare": "Care afirmație este adevărată în ceea ce privește formele cronice ale rabdomiolizei de efort?",
+      "intrebare": "122) Care afirmație este adevărată în ceea ce privește formele cronice ale rabdomiolizei de efort?",
       "raspunsuri": [
         "semnele clinice apar, de obicei, la scurt timp de la debutul unui efort fizic de intensitate redusă",
         "semnele clinice apar, de obicei, după un efort fizic extenuant",
@@ -1345,7 +1345,7 @@
     },
     {
       "id": "pcm-123",
-      "intrebare": "Furosemidul este diuretic:",
+      "intrebare": "123) Furosemidul este diuretic:",
       "raspunsuri": [
         "de ansă",
         "antialdosteronic",
@@ -1356,7 +1356,7 @@
     },
     {
       "id": "pcm-124",
-      "intrebare": "Adrenalina are efect:",
+      "intrebare": "124) Adrenalina are efect:",
       "raspunsuri": [
         "parasimpaticomimetic",
         "simpaticomimetic",
@@ -1367,7 +1367,7 @@
     },
     {
       "id": "pcm-125",
-      "intrebare": "Betablocantele au efect:",
+      "intrebare": "125) Betablocantele au efect:",
       "raspunsuri": [
         "bradicardic",
         "tahicardic",
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "pcm-126",
-      "intrebare": "Care este efectul metoclopramidului?",
+      "intrebare": "126) Care este efectul metoclopramidului?",
       "raspunsuri": [
         "antivomitiv central",
         "antivomitiv local",
@@ -1389,7 +1389,7 @@
     },
     {
       "id": "pcm-127",
-      "intrebare": "Scopolamina are efect:",
+      "intrebare": "127) Scopolamina are efect:",
       "raspunsuri": [
         "antispastic",
         "antibacterian",
@@ -1400,7 +1400,7 @@
     },
     {
       "id": "pcm-128",
-      "intrebare": "Care este efectul administrării de pantoprazol?",
+      "intrebare": "128) Care este efectul administrării de pantoprazol?",
       "raspunsuri": [
         "reducerea secreției de tripsinogen",
         "reducerea secreției de acid clorhidric",
@@ -1411,7 +1411,7 @@
     },
     {
       "id": "pcm-129",
-      "intrebare": "Care dintre următoarele vitamine trebuie suplimentată în insuficiența pancreatică exocrină?",
+      "intrebare": "129) Care dintre următoarele vitamine trebuie suplimentată în insuficiența pancreatică exocrină?",
       "raspunsuri": [
         "Vitașmina B12",
         "Vitamina C",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "pcm-130",
-      "intrebare": "Care dintre următoarele situații ar putea să conducă la apariția acidozei metabolice latente alimentare?",
+      "intrebare": "130) Care dintre următoarele situații ar putea să conducă la apariția acidozei metabolice latente alimentare?",
       "raspunsuri": [
         "deficitul în carbohidrați din rație",
         "excesul de proteine din rație",
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "pcm-131",
-      "intrebare": "Care dintre următoarele dismetabolii conduce la creșterea incidenței tulburărilor de reproducție?",
+      "intrebare": "131) Care dintre următoarele dismetabolii conduce la creșterea incidenței tulburărilor de reproducție?",
       "raspunsuri": [
         "acidoza metabolică latentă alimentară",
         "osteomalacia",
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "pcm-132",
-      "intrebare": "Parezia de parturiție este favorizată de:",
+      "intrebare": "132) Parezia de parturiție este favorizată de:",
       "raspunsuri": [
         "acidoza metabolică",
         "alcaloza metabolică",
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "pcm-133",
-      "intrebare": "Modificările paraclinice întâlnite în cetoza taurinelor sunt:",
+      "intrebare": "133) Modificările paraclinice întâlnite în cetoza taurinelor sunt:",
       "raspunsuri": [
         "creșterea glicemiei și scăderea concentrației acidului beta-hidroxibutiric din sânge",
         "scăderea glicemiei și creșterea concentrației acidului beta-hidroxibutiric din sânge",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "pcm-134",
-      "intrebare": "Care dintre următoarele dismetabolii nu conduce la scăderea procentului de grăsime din lapte:",
+      "intrebare": "134) Care dintre următoarele dismetabolii nu conduce la scăderea procentului de grăsime din lapte:",
       "raspunsuri": [
         "acidoza metabolică latentă alimentară",
         "hipopotasiemia acută",
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "pcm-135",
-      "intrebare": "Scăderea concentrației de uree din lapte este întâlnită în:",
+      "intrebare": "135) Scăderea concentrației de uree din lapte este întâlnită în:",
       "raspunsuri": [
         "alcaloză metabolică",
         "acidoză metabolică latentă alimentară",
@@ -1488,7 +1488,7 @@
     },
     {
       "id": "pcm-136",
-      "intrebare": "Necroza cortico-cerebrală a vițeilor este determinată de:",
+      "intrebare": "136) Necroza cortico-cerebrală a vițeilor este determinată de:",
       "raspunsuri": [
         "carența în seleniu",
         "carența în vitamina B1",
