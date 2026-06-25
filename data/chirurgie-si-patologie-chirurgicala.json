@@ -1,0 +1,1765 @@
+{
+  "materie": "Chirurgie și Patologie Chirurgicală",
+  "intrebari": [
+    {
+      "id": "cpc-001",
+      "intrebare": "La care din următoarele specii se întâlnește cea mai mare incidență a afecțiunilor neoplazice:",
+      "raspunsuri": [
+        "porc",
+        "vacă",
+        "câine"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-002",
+      "intrebare": "Principiul după care actul operator trebuie efectuat cu “vas închis” se respectă în:",
+      "raspunsuri": [
+        "operația de hernie",
+        "operația de mamectomie în adenocarcinom",
+        "operația în distichiazis"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-003",
+      "intrebare": "Leiomiomul este tumora:",
+      "raspunsuri": [
+        "a țesutului limfatic",
+        "a țesutului adipos",
+        "a țesutului muscular neted"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-004",
+      "intrebare": "Caracteristic tumorilor maligne este aspectul:",
+      "raspunsuri": [
+        "circumscris, încapsulat",
+        "net delimitat",
+        "invaziv-infiltrativ"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-005",
+      "intrebare": "Rabdomiomul este tumora țesutului:",
+      "raspunsuri": [
+        "hepatic",
+        "muscular striat",
+        "nervos"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-006",
+      "intrebare": "În categoria tumorilor epiteliale benigne intră:",
+      "raspunsuri": [
+        "polipii, carcinoamele, papiloamele",
+        "adenocarcinoamele tranziționale",
+        "papiloamele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-007",
+      "intrebare": "În cazul tumorile benigne creșterea este:",
+      "raspunsuri": [
+        "dislocantă fără distrucție",
+        "invazivă",
+        "distructivă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-008",
+      "intrebare": "Neoplaziile sistemului hemolimfatic sunt mai frecvente la:",
+      "raspunsuri": [
+        "pisică",
+        "porc",
+        "cal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-009",
+      "intrebare": "Metastazarea pe cale limfogenă este specifică pentru tumorile:",
+      "raspunsuri": [
+        "maligne epiteliale",
+        "benigne epiteliale",
+        "maligne osoase"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-010",
+      "intrebare": "Seminomul este tumora:",
+      "raspunsuri": [
+        "glandelor salivare",
+        "glandelor parotide",
+        "testiculului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-011",
+      "intrebare": "Care este manifestarea întâlnită în ocluzia intestinului:",
+      "raspunsuri": [
+        "colabarea intestinului",
+        "hipovolemia",
+        "neuropraxia"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-012",
+      "intrebare": "Ocluziile intestinale funcționale sunt consecința:",
+      "raspunsuri": [
+        "dezechilibrării paralitice sau spastice a motilității unui segment intestinal",
+        "compresiunilor extrinseci ale intestinului",
+        "obstacolelor intraluminale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-013",
+      "intrebare": "In timpanismul cecal la cabaline decomprimarea tubului digestiv presupune:",
+      "raspunsuri": [
+        "administrarea de pugative",
+        "sondaj oro-gastric",
+        "gastrocenteza"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-014",
+      "intrebare": "Care simptome se întâlnesc într-o ocluzie intestinală la câine:",
+      "raspunsuri": [
+        "absența defecării",
+        "vomă",
+        "ambele (a și b)"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-015",
+      "intrebare": "Ocluzia mecanică a colonului la cabaline se produce frecvent:",
+      "raspunsuri": [
+        "la curbura diafragmatică",
+        "la flexura pelvină",
+        "la curbura sternală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-016",
+      "intrebare": "Deplasarea distopică, pe partea stângă, a colonului ascendent drept poate avea loc la:",
+      "raspunsuri": [
+        "bovine",
+        "cabaline",
+        "suine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-017",
+      "intrebare": "Prognosticul colapsului laringian la câine este:",
+      "raspunsuri": [
+        "întotdeauna defavorabil",
+        "favorabil din punct de vedere vital la cazurile tratate chirurgical",
+        "toate variantele sunt incorecte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-018",
+      "intrebare": "Papilomatoza cutanată bovină este produsă de virusul:",
+      "raspunsuri": [
+        "BPV (Bovine Papiloma Virus) tip 1",
+        "BPV tip 2",
+        "BPV tip 5"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-019",
+      "intrebare": "Papilomatoza bucală la câine se poate trata prin:",
+      "raspunsuri": [
+        "antibioticoterapie",
+        "administrarea de antiinflamatorii",
+        "excizie și autovaccin"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-020",
+      "intrebare": "Tratamentul conservator al colapsului laringian la câine se bazează preponderent pe:",
+      "raspunsuri": [
+        "oxigenoterapie",
+        "administrarea de antagoniști H2 ai receptorilor histaminici (ranitidină, cimetidină, famotidină), omeprazol și administrarea de antiinflamatorii steroidiene",
+        "toate variantele sunt corecte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-021",
+      "intrebare": "Vindecarea primară a plăgilor operatorii are loc mai repede la:",
+      "raspunsuri": [
+        "cal",
+        "porc",
+        "vacă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-022",
+      "intrebare": "Din patologia vindecării primare a plăgilor face parte:",
+      "raspunsuri": [
+        "cicatricea dureroasă",
+        "necroza marginilor plăgii",
+        "cicatricea atrofică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-023",
+      "intrebare": "Hipertrofia țesutului de granulație localizată la membre se întâlnește mai frecvent la:",
+      "raspunsuri": [
+        "cal",
+        "pisică",
+        "câine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-024",
+      "intrebare": "În gangrena uscată este afectat:",
+      "raspunsuri": [
+        "aportul de sânge prin obliterarea circulației arteriale",
+        "returul venos",
+        "returul limfatic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-025",
+      "intrebare": "Fistulele purulente se caracterizează prin:",
+      "raspunsuri": [
+        "fundul comunicat cu o deschidere naturală",
+        "orificiu strâmt mascat de muguri cărnoși",
+        "orificiu sub formă de pâlnie traiect epitelizat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-026",
+      "intrebare": "Bursita acută poate fi:",
+      "raspunsuri": [
+        "seroasă – serohemoragică supurativă, flegmonoasă",
+        "chistică, indurativă, proliferativă",
+        "nodulară, ulcerativă, neoplazică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-027",
+      "intrebare": "Tratamentul în bursita supurativă se face prin:",
+      "raspunsuri": [
+        "drenaj, antisepsie și antibioticoterapie",
+        "administrare de antiinflamatorii",
+        "administrare de citostatice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-028",
+      "intrebare": "Identificați un procedeu de corectare a lungimii vălului palatin aplicabil în tratamentului chirurgical al colapsului laringian la câine:",
+      "raspunsuri": [
+        "stafilectomia orală",
+        "palatoplastia cu lambou împăturit",
+        "ambele variante sunt corecte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-029",
+      "intrebare": "Într-o hernie abdominală a omentului mare poate fi enunțat un diagnostic de:",
+      "raspunsuri": [
+        "enterocel",
+        "epiplonocel",
+        "cistocel"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-030",
+      "intrebare": "Procedeul de laringoplastia prin lateralizarea cartilajului aritenoid la câine presupune:",
+      "raspunsuri": [
+        "ancorarea epiglotei de baza limbii",
+        "ancorarea cu un fir de sutură a aritenoidului de cricoid",
+        "ambele variante sunt corecte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-031",
+      "intrebare": "În contuzia arterială simptomatologia se caracterizează în primele 10 ore prin?",
+      "raspunsuri": [
+        "paloare, răcirea tegumentelor, parestezie, impotență funcțională în aval",
+        "edem, pareză musculară",
+        "gangrenă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-032",
+      "intrebare": "Tratamentul în contuzia arterială în primele ore este realizat cu:",
+      "raspunsuri": [
+        "antibiotice",
+        "hemostatice",
+        "antispastice, anticoagulante, analgezice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-033",
+      "intrebare": "Varicocelul este:",
+      "raspunsuri": [
+        "inflamația venelor jugulare",
+        "ectazia venelor testiculare",
+        "ectazia venelor hemoroidale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-034",
+      "intrebare": "Limfangita reticulară este:",
+      "raspunsuri": [
+        "inflamația vaselor limfatice periferice superficiale",
+        "inflamația trunchiurilor limfatice",
+        "inflamația limfonodurilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-035",
+      "intrebare": "Evaluarea tumefacției herniale se face prin:",
+      "raspunsuri": [
+        "inspecție și palpație",
+        "ascultație",
+        "variantele a-b sunt corecte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-036",
+      "intrebare": "Diagnosticul diferențial în hernia musculară se bazează pe:",
+      "raspunsuri": [
+        "deformare circumscrisă a cărei conținut se contractă",
+        "deformare nedelimitată caldă, dureroasă",
+        "deformare fluctuentă circumscrisă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-037",
+      "intrebare": "Hiperextensia buletului la mânji (călcătura de urs) afectează de regulă:",
+      "raspunsuri": [
+        "numai membrele toracale",
+        "doar membrele pelvine, excepțional toate membrele",
+        "bipedul lateral stâng sau drept"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-038",
+      "intrebare": "În tendinita acută aseptică rolul fiziopatologic principal îl joacă:",
+      "raspunsuri": [
+        "tulburările circulatorii",
+        "infecția",
+        "leziunile degenerative"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-039",
+      "intrebare": "Obiectivul prioritar în tratamentul tendinitei acute aseptice în primele 2-3 zile este:",
+      "raspunsuri": [
+        "activarea inflamației prin medicație proflogistică",
+        "controlul inflamației prin medicație antiflogistică",
+        "antibioticoterapia"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-040",
+      "intrebare": "Diagnosticul în tenosinovita acută piogenă are la bază:",
+      "raspunsuri": [
+        "deformarea tecii tendinoase, la palpație este fluctuentă, nedureroasă",
+        "tumefacție locală, rece, consistentă, nedureroasă",
+        "tumefacție locală, șchiopătură și starea febrilă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-041",
+      "intrebare": "Compresiunile pe nerv se tratează prin:",
+      "raspunsuri": [
+        "înlăturarea cauzei (compresiunii)",
+        "miorelaxante",
+        "neurolitice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-042",
+      "intrebare": "În secționarea totală a nervului se produce:",
+      "raspunsuri": [
+        "nevrită și miozită în teritoriul inervat de nervul secționat",
+        "tulburări senzitive, motorii și trofice proximal de secțiune",
+        "tulburări senzitive, motorii și trofice distal de secțiune"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-043",
+      "intrebare": "Paralizia de radial se caracterizează prin imposibilitatea efectuării:",
+      "raspunsuri": [
+        "flexiei cotului și umărului",
+        "extensiei cotului, carpului și articulațiilor interfalangiene",
+        "flexiei falangelor, chișiță moale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-044",
+      "intrebare": "După răspunsul la manopera de reducere a conținutului (palpare profundă) herniile abdominale se clasifică în:",
+      "raspunsuri": [
+        "reductibile și ireductibile",
+        "acute și cronice",
+        "mari și mici"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-045",
+      "intrebare": "Deformarea masivă a peretelui abdominal, prin deșirarea stratului musculo-aponevrotic și ieșirea sub piele a unui volum apreciabil din viscerele și organele din cavitatea abdominală caracterizează:",
+      "raspunsuri": [
+        "eventrațiile",
+        "eviscerația",
+        "herniile simple"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-046",
+      "intrebare": "În diagnosticul fracturilor complete recente simptomele cardinale sunt:",
+      "raspunsuri": [
+        "crepitația, deformarea regiunii, mobilitatea în focar, durere, impotența funcțională",
+        "tumefacție, crepitație, durere, hiperreflexivitate",
+        "deformarea regiunii, aplomb defectuos, retracție musculo-tendinoasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-047",
+      "intrebare": "Bandajul gipsat a unei fracturi de radius și ulna trebuie să imobilizeze:",
+      "raspunsuri": [
+        "numai cele două oase",
+        "focarul de fractură și articulația proximală",
+        "focarul de fractură și articulațiile humero-radio-ulnară și antebrahio-carpo-metacarpiană"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-048",
+      "intrebare": "Sindromul wobbler apare la:",
+      "raspunsuri": [
+        "cal și câine",
+        "vacă",
+        "oaie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-049",
+      "intrebare": "Herniile perineale se întâlnesc frecvent la:",
+      "raspunsuri": [
+        "carnasiere",
+        "bovine",
+        "cabaline"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-050",
+      "intrebare": "Osificarea inserției ligamentului nucal pe occipital apare în:",
+      "raspunsuri": [
+        "contuziile repetate ale cefei",
+        "contuziile osului frontal",
+        "aerofagie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-051",
+      "intrebare": "Celiotomia necesară pentru ruminotomie este:",
+      "raspunsuri": [
+        "mediană",
+        "postcostală stângă",
+        "postcostală dreaptă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-052",
+      "intrebare": "La cabaline sindromul de infarctizare intestinală poate fi provocat de:",
+      "raspunsuri": [
+        "supraîncărcarea cu furaje",
+        "perforația intestinului",
+        "migrarea larvelor de Strongilus vulgaris"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-053",
+      "intrebare": "La cabaline hernia inghino-scrotală, forma complicată are o evoluție:",
+      "raspunsuri": [
+        "supra-acută",
+        "acută",
+        "cronică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-054",
+      "intrebare": "Care element constituie o componentă specifică herniilor abdominale:",
+      "raspunsuri": [
+        "manșonul",
+        "sacul",
+        "conductul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-055",
+      "intrebare": "Spavanul este localizat pe:",
+      "raspunsuri": [
+        "oasele carpiene",
+        "oasele tarsiene-metatarsiene",
+        "falange"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-056",
+      "intrebare": "Herniile ombilicale congenitale sunt frecvent acompaniate și de alte defecte congenitale ca:",
+      "raspunsuri": [
+        "hernii inghino-scrotale",
+        "criptorhidie",
+        "ambele variante (a și b) sunt corecte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-057",
+      "intrebare": "Luxația traumatică se caracterizează prin:",
+      "raspunsuri": [
+        "deplasarea ireversibilă spontan a capetelor articulare, deformare și mobilitate anormală",
+        "tumefacția dureroasă, fluctuentă, cu crepitație și impotență funcțională",
+        "distensie fluctuentă, mobilitate normală nedureroasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-058",
+      "intrebare": "Entorsa este:",
+      "raspunsuri": [
+        "inflamația cronică a articulației",
+        "mobilitatea și deplasarea posttraumatică a articulației cu revenire la poziția normală",
+        "mobilitatea și deplasarea posttraumatică remanentă a articulației"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-059",
+      "intrebare": "Kelotomia reprezinta:",
+      "raspunsuri": [
+        "deschiderea cavității abdominale",
+        "deschiderea sacului hernial",
+        "deschiderea pericardului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-060",
+      "intrebare": "În panosteita durerea mai intensă apare la:",
+      "raspunsuri": [
+        "palpația oaselor lungi (diafiza, epifizele)",
+        "mobilizarea articulațiilor",
+        "palpația oaselor scurte (metacarpiene, metatarsiene)"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-061",
+      "intrebare": "Panosteita afectează câinii de:",
+      "raspunsuri": [
+        "tineri de 6-12 luni",
+        "adulți până la 7-8 ani",
+        "bătrâni peste 8 ani"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-062",
+      "intrebare": "Osteita supurativă se tratează prin:",
+      "raspunsuri": [
+        "antiinflamatorii și antibioticoterapie",
+        "intervenție operatorie, drenaj, antisepsie și antibioticoterapie",
+        "nu se tratează, este incurabilă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-063",
+      "intrebare": "Lichidul sinovial la o articulație normală prezintă:",
+      "raspunsuri": [
+        "culoare galbenă (pal) cu turbiditate prezentă",
+        "culoare roșietică uniformă",
+        "culoare galbenă (pal) cu turbiditate absentă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-064",
+      "intrebare": "Proteinele totale (g/dl) în artrita acută sunt:",
+      "raspunsuri": [
+        ">3,0",
+        "<2,0",
+        "<3,0"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-065",
+      "intrebare": "În artrita acută șchiopătura este:",
+      "raspunsuri": [
+        "absentă",
+        "de gradul I și II",
+        "de gradul III și IV"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-066",
+      "intrebare": "În diagnosticul osteoartritelor, cu excepția celor septice, anestezicul se administrează:",
+      "raspunsuri": [
+        "periarticular",
+        "nu se folosește în scop de diagnostic",
+        "intraarticular"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-067",
+      "intrebare": "Perfuzia articulară (lavajul articular) este recomandată în tratamentul:",
+      "raspunsuri": [
+        "artritei septice",
+        "artrozei",
+        "hidartrozei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-068",
+      "intrebare": "Încadrați corespunzător categoriei etiologice omfaloflebita:",
+      "raspunsuri": [
+        "Traumatică",
+        "Congenitală",
+        "Septică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-069",
+      "intrebare": "Din categoria medicației antiinflamatorii cu efect retard utilizată în tratamentul artritelor tipul I la cal face parte:",
+      "raspunsuri": [
+        "triamcinolonul",
+        "hidrocortizonul",
+        "prednisolonul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-070",
+      "intrebare": "Terapia cu polisulfatglicoaminoglicani și cu hialuronat de sodiu este recomandată prioritar în:",
+      "raspunsuri": [
+        "artitele septice",
+        "artritele degenerative",
+        "artritele mediate imun"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-071",
+      "intrebare": "Fisurile palatine, stafiline sau palato-stafiline au un prognostic rezervat care este corelat cu severitatea și localizarea defectului dar și cu riscul apariției complicațiilor:",
+      "raspunsuri": [
+        "cardiace",
+        "respiratorii",
+        "digestive"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-072",
+      "intrebare": "În cazul obstrucțiilor faringiene cu risc de asfixie se recomandă:",
+      "raspunsuri": [
+        "administrarea de analeptice respiratorii",
+        "esofagotomia",
+        "traheotomia de urgență"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-073",
+      "intrebare": "La ce rase de câini apare dermatita umedă cronică a buzelor?",
+      "raspunsuri": [
+        "rase cu buză superioară pendulantă",
+        "la rase toy",
+        "la metiși"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-074",
+      "intrebare": "Selectați metoda de tratament a fracturilor mandibulare care exclude riscul de traumatizare al rădăcinilor dentare și structurilor vasculo-nervoase:",
+      "raspunsuri": [
+        "bandajul gipsat",
+        "osteosinteza intramedulară",
+        "cerclaj interdentar"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-075",
+      "intrebare": "Cum mai este numită paralizia nervului trigemen?",
+      "raspunsuri": [
+        "paralizie idiopatică",
+        "paralizie palpebrală",
+        "paralizie facială masticatorie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-076",
+      "intrebare": "Hematomul epicranian apare posttraumatic ca urmare a:",
+      "raspunsuri": [
+        "unui revărsat sanguin din plexurile coroide",
+        "sângerării venoase între duramater și arahnoidă",
+        "ruperii vaselor sangvine subcutanate din regiunea capului/ craniului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-077",
+      "intrebare": "Care este scopul tratamentului medicamentos în caz de sindrom compresiv encefalic posttraumatic?",
+      "raspunsuri": [
+        "prevenirea dezvoltării edemului cerebral, profilaxia infecțiilor și controlul convulsiilor",
+        "menținerea stării de conștiență a pacientului accidentat",
+        "conservarea funcțiilor vegetative"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-078",
+      "intrebare": "Ce este hipodonția?",
+      "raspunsuri": [
+        "absența unităților dentare la animalele bătrâne",
+        "absența unui număr de la una la cinci unități dentare ale dentiției permanente",
+        "un dinte puțin dezvoltat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-079",
+      "intrebare": "Care din următoarele medicamente folosite în terapia ulcerului cornean are efect inhibitor asupra colagenazelor?",
+      "raspunsuri": [
+        "atropina",
+        "tobramicina",
+        "acetilcisteina"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-080",
+      "intrebare": "În extracțiile dentare prin avulsie direcția de acțiune a forței de extragere este dată de:",
+      "raspunsuri": [
+        "orientarea rădăcinilor",
+        "mărimea dintelui",
+        "experiența și forța operatorului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-081",
+      "intrebare": "Tartrul dentar este localizat:",
+      "raspunsuri": [
+        "numai pe incisivi",
+        "pe întreaga dentiție, supra-și subgingival",
+        "numai pe molari și premolari"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-082",
+      "intrebare": "În dezvoltarea malaciei stromale corneene sunt mai frecvent implicați:",
+      "raspunsuri": [
+        "Stafilococul auriu",
+        "Pseudomonas spp. si Streptococul betahemolitic",
+        "micoplasmele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-083",
+      "intrebare": "Pentru stimularea dentinogenezei și având rol protector în cazul fracturilor dentare se aplică substanțe care conțin:",
+      "raspunsuri": [
+        "hidroxid de calciu",
+        "hidroxid de sodiu",
+        "clorură de potasiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-084",
+      "intrebare": "În pulpita dentară coronară, dintele își schimbă culoarea spre:",
+      "raspunsuri": [
+        "roșu-maroniu",
+        "alb sidefiu",
+        "culoarea nu se modifică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-085",
+      "intrebare": "Torsiunea dentară este:",
+      "raspunsuri": [
+        "așezarea dintelui cu coroana în alveolă",
+        "răsucirea în jurul axului longitudinal",
+        "creșterea deviată față de poziția normală a axului longitudinal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-086",
+      "intrebare": "Empiemul gutural are localizare:",
+      "raspunsuri": [
+        "diverticulele tubelor auditive",
+        "intraarticular",
+        "amigdalele palatine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-087",
+      "intrebare": "Chistul glandei mandibulare se caracterizează prin:",
+      "raspunsuri": [
+        "tumefacție delimitată, fluctuentă, nedureroasă",
+        "edem păstos, neuniform și dureros",
+        "consistență fibroasă, bine delimitată, nedureroasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-088",
+      "intrebare": "În necroza septumului nazal prognosticul este:",
+      "raspunsuri": [
+        "favorabil",
+        "rezervat",
+        "defavorabil"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-089",
+      "intrebare": "În necroza corneților nazali tratamentul este:",
+      "raspunsuri": [
+        "conservator",
+        "nu se tratează",
+        "operator"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-090",
+      "intrebare": "Rabotajul tablei dentare la cabaline devine obligatoriu atunci când suprafața de ocluzie dentară:",
+      "raspunsuri": [
+        "este de 100%",
+        "scade sub 75%",
+        "depășește 95%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-091",
+      "intrebare": "Pentru tratamentul topic al ulcerului cornean se recomandă medicația sub formă de:",
+      "raspunsuri": [
+        "picături",
+        "unguente",
+        "pudre"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-092",
+      "intrebare": "Coloboma palpebrală definește:",
+      "raspunsuri": [
+        "inflamația pleoapei",
+        "discontinuitatea marginii palpebrale prin lipsa unei porțiuni de pleoapă",
+        "aderențele conjunctivo-palpebrale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-093",
+      "intrebare": "În caz de avulsie a globului ocular se recurge la:",
+      "raspunsuri": [
+        "enucleație",
+        "repunere și blefarorafie de protecție",
+        "eviscerație"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-094",
+      "intrebare": "Prezența cililor palpebrali pe muchia internă a marginii palpebrale se numește:",
+      "raspunsuri": [
+        "trichiazis",
+        "distichiazis",
+        "chalazon"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-095",
+      "intrebare": "Testul Schirmer se utilizează în diagnosticul:",
+      "raspunsuri": [
+        "glaucomului",
+        "cheratoconjunctivitei uscate",
+        "uveitei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-096",
+      "intrebare": "Testul cu fluoresceină are rolul de a:",
+      "raspunsuri": [
+        "identifica vascularizația corneană anormală",
+        "pune în evidență defectele epiteliale corneene",
+        "măsura producția de lacrimi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-097",
+      "intrebare": "Sutura plăgilor corneene penetrante se realizează cu ace și fire foarte fine și va prinde:",
+      "raspunsuri": [
+        "corneea în profunzime pe 1/2 până la 2/3 din grosimea ei",
+        "toate straturile corneene inclusiv epiteliul posterior",
+        "doar epiteliul anterior"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-098",
+      "intrebare": "Hipohema desemnează:",
+      "raspunsuri": [
+        "hemoragia intracraniană",
+        "reducerea presiunii sanguine intraoculare",
+        "prezența sângelui/coagulilor de sânge în camera anterioară a globului ocular"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-099",
+      "intrebare": "În invadarea vasculară corneană superficială (cheratite superficiale) vasele au aspect:",
+      "raspunsuri": [
+        "de perie fără ramificații",
+        "arborescent",
+        "globulos"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-100",
+      "intrebare": "În forma cronică de glaucom apar așa numitele striuri ale lui Haab, localizate pe:",
+      "raspunsuri": [
+        "cristalin",
+        "cornee",
+        "iris"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-101",
+      "intrebare": "Vascularizația retiniană de tip holangic se regăsește la:",
+      "raspunsuri": [
+        "cabaline",
+        "câine",
+        "păsări"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-102",
+      "intrebare": "Prin unghiul irido-cornean se drenează:",
+      "raspunsuri": [
+        "lacrimile",
+        "secrețiile patologice conjunctivale",
+        "umoarea apoasă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-103",
+      "intrebare": "Iridocicloplegicele asigură dilatarea pupilei prin acțiunea asupra fibrelor musculare circulare ale irisului. Medicamentul cu acest efect este:",
+      "raspunsuri": [
+        "tetracaina",
+        "tropicamida",
+        "fenilefrina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-104",
+      "intrebare": "Mioticele se recomandă în tratamentul:",
+      "raspunsuri": [
+        "dermoidului",
+        "glaucomului acut",
+        "uveitei acute"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-105",
+      "intrebare": "În care din următoarele afecțiuni este contraindicată corticoterapia:",
+      "raspunsuri": [
+        "blefarita alergică",
+        "uveită",
+        "ulcer cornean"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-106",
+      "intrebare": "În uveita acută pupila este:",
+      "raspunsuri": [
+        "nemodificată",
+        "în mioză",
+        "midriază fixă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-107",
+      "intrebare": "Ce medicament reprezintă baza tratamentului în cheratoconjunctivita sicca de cauză autoimună?",
+      "raspunsuri": [
+        "tropicamida",
+        "ciclosporina A",
+        "pilocarpina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-108",
+      "intrebare": "De ce un reflex pupilar simplu (la lumină) pozitiv nu semnifică că se vede cu acel ochi?",
+      "raspunsuri": [
+        "deoarece fibrele tractusului optic se încrucișează",
+        "deoarece fibrele simpatice și parasimpatice lucrează independent de nervul optic",
+        "deoarece este un reflex subcortical"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-109",
+      "intrebare": "Chiștii epiglotei se diagnostică frecvent la tineretul următoarelor specii:",
+      "raspunsuri": [
+        "cabaline",
+        "suine",
+        "ovine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-110",
+      "intrebare": "La câine, dilatația gastrică cu torsiune (volvulus) are un prognostic:",
+      "raspunsuri": [
+        "favorabil",
+        "rezervat",
+        "grav"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-111",
+      "intrebare": "O ansă intestinală strangulată evoluează spre:",
+      "raspunsuri": [
+        "necroză",
+        "atrofie",
+        "hipertrofie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-112",
+      "intrebare": "Torsiunea stomacului apare mai frecvent la:",
+      "raspunsuri": [
+        "câinii din rasele cu talie mare",
+        "câinii din rasele mici",
+        "feline"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-113",
+      "intrebare": "Ocluzia intestinală prin retenția de meconiu se întâlnește frecvent la:",
+      "raspunsuri": [
+        "căței",
+        "mânji",
+        "pisoi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-114",
+      "intrebare": "La un cal cu abdomen chirurgical acut aflat în stare de șoc este contraindicată:",
+      "raspunsuri": [
+        "administrarea de neuroleptice fenotiazinice",
+        "administrarea de analgezice",
+        "fluido-terapia"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-115",
+      "intrebare": "Extirparea canalului urac se face în:",
+      "raspunsuri": [
+        "hemoragia ombilicală",
+        "ulcerul ombilical",
+        "omfalourie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-116",
+      "intrebare": "In care hernie la cabalinele adulte este imposibilă refacerea chirurgicală a integrității peretelui abdominal:",
+      "raspunsuri": [
+        "ventro-laterală",
+        "ombilică",
+        "ventrală cu dezinserția tendonului pubian"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-117",
+      "intrebare": "Care entitate se întâlnește în patologia abomasului la bovine:",
+      "raspunsuri": [
+        "dislocarea în partea stângă a abdomenului",
+        "dilatația simplă cu deplasare posterioară (dreapta)",
+        "ambele variantele sunt corecte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-118",
+      "intrebare": "La o toracocenteză se obține un lichid lactescent în:",
+      "raspunsuri": [
+        "hemotorax",
+        "chilotorax",
+        "piotorax"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-119",
+      "intrebare": "În discopații, modificările degenerative (ale discului intervertebral) interesează mai întâi:",
+      "raspunsuri": [
+        "inelul fibros",
+        "nucleul pulpos",
+        "ligamentul vertebral longitudinal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-120",
+      "intrebare": "Herniile inghinale și inghino-scrotale prezintă un traiect hernial reprezentat de:",
+      "raspunsuri": [
+        "canalul vaginal",
+        "spațiile intermusculare",
+        "traiectul subcutanat (tunelul subcutanat)"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-121",
+      "intrebare": "În compresiunea medulară cervicală ventrală unică la câine pentru decompresiune se va recurge la:",
+      "raspunsuri": [
+        "laminectomie dorsală",
+        "hemilaminectomie",
+        "tehnica șanțului ventral"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-122",
+      "intrebare": "Medicația antiinflamatorie steroidiană utilizată în tratamentul discopatiilor la rasele condrodistrofice va fi asociată obligatoriu cu:",
+      "raspunsuri": [
+        "plimbare doar în lesă",
+        "controlul greutății corporale",
+        "repaus în cușcă pe perioada terapiei"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-123",
+      "intrebare": "De apariția sindromului Cauda Eqvina poate fi responsabilă:",
+      "raspunsuri": [
+        "instabilitate lombo-sacrală",
+        "hernie discală L1-L2",
+        "fractură de bazin cu compresiunea nervului sciatic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-124",
+      "intrebare": "Printre cele mai frecvente manifestări în sindromul cozii de cal (Cauda Eqvina) se numără:",
+      "raspunsuri": [
+        "durere în regiunea toracală",
+        "durere la hiperflexia regiunii cervicale",
+        "durere în regiunea lombo-sacrală accentuată la hiperextensie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-125",
+      "intrebare": "După răspunsul la manopera de reducere a conținutului (palpare profundă) herniile abdominale se clasifică în:",
+      "raspunsuri": [
+        "reductibile și ireductibile",
+        "acute și cronice",
+        "mari și mici"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-126",
+      "intrebare": "Atrezia anală este mai frecventă la:",
+      "raspunsuri": [
+        "pisici",
+        "purcei",
+        "viței"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-127",
+      "intrebare": "Selectați procedeul aplicabil în colapsul traheal:",
+      "raspunsuri": [
+        "aplicarea de stenturi",
+        "traheocenteza",
+        "toracostomia"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-128",
+      "intrebare": "Rupturile rectale la cabaline sunt localizate cu predilecție:",
+      "raspunsuri": [
+        "25-30 de cm cranial de anus",
+        "pe colonul transvers",
+        "pe colonul ascendent"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-129",
+      "intrebare": "Lobectomia este procedeul aplicat în:",
+      "raspunsuri": [
+        "stenoza arterei pulmonare",
+        "abcesul pulmonar",
+        "persistența canalului arterial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-130",
+      "intrebare": "Ulcerul ombilical apare mai frecvent la:",
+      "raspunsuri": [
+        "purcei",
+        "mânji",
+        "viței"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-131",
+      "intrebare": "Poziția caracteristică a membrelor la cal în forma acută a pododermatitei aseptice difuze cu afectarea tuturor membrelor este:",
+      "raspunsuri": [
+        "sub el dinainte sub el dinapoi",
+        "campat dinainte sub el dinapoi",
+        "aplomb normal la membrele toracale și modificat la cele pelvine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-132",
+      "intrebare": "Trimajul inițial în pododermatita aseptică difuză la cal, cu bascularea falangei distale, constă în:",
+      "raspunsuri": [
+        "subțierea peretelui dorsal, în pensă, până la zona albă (lamele epidermale)",
+        "crearea de renuri de baraj sub marginea coronară",
+        "scurtarea peretelui cutiei de corn a copitei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-133",
+      "intrebare": "Pododermatita circumscrisă (ulcerul solei) afectează mai frecvent:",
+      "raspunsuri": [
+        "onglonul lateral de la membrele pelvine la vacile adulte",
+        "onglonul medial de la membrele toracale la juninci",
+        "ambele ongloane, indiferent de membre și vârsta animalului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-134",
+      "intrebare": "Prognosticul rezervat în flegmonul grebănului este determinat de:",
+      "raspunsuri": [
+        "exudatul purulent în cantitate mare",
+        "instalarea rapidă a antibiorezistenței",
+        "prezența spațiilor conjunctive supra- și subscapulare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-135",
+      "intrebare": "Pericardotomia la bovine este o metodă chirurgicală de tratament aplicată în:",
+      "raspunsuri": [
+        "reticulopericardita traumatică",
+        "torsiunea abomasului",
+        "cardiomiopatia ischemică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-136",
+      "intrebare": "La un cal cu sindrom de abdomen acut, acoperirea cu mucus a mănușii în explorația transrectală, indică:",
+      "raspunsuri": [
+        "enterită",
+        "ocluzie intestinală",
+        "peritonită"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-137",
+      "intrebare": "În urma unei plăgi toracice penetrante, între coastele V-VI dreapta, pneumotoraxul devine bilateral:",
+      "raspunsuri": [
+        "la cal și câini slabi",
+        "la vacă",
+        "oaie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-138",
+      "intrebare": "În pododermatita aseptică difuză se va recurge la administrarea inițială (timp de 2 săptămâni) de:",
+      "raspunsuri": [
+        "Isoxsuprine hydrochloride",
+        "flunixin-meglumine si/sau fenilbutazonă",
+        "acepromazină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-139",
+      "intrebare": "Cea mai frecventa complicație a chistilor epiglotici este:",
+      "raspunsuri": [
+        "pneumonia ab ingestis",
+        "anorexia",
+        "colapsul traheal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-140",
+      "intrebare": "Mecanismul de producere a invaginației intestinale este:",
+      "raspunsuri": [
+        "torsiunea",
+        "telescoparea",
+        "flexia"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-141",
+      "intrebare": "Plăgile rectului apar mai frecvent la:",
+      "raspunsuri": [
+        "feline",
+        "bovine",
+        "cabaline"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-142",
+      "intrebare": "La un cal cu abdomen acut frecvența cardiacă de 40-60 bătăi/minut are semnificația unui prognostic:",
+      "raspunsuri": [
+        "favorabil",
+        "rezervat",
+        "grav"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-143",
+      "intrebare": "Care afecțiune este implicată în Sindromul respirator al raselor brahicefalice:",
+      "raspunsuri": [
+        "colapsul traheal",
+        "narile stenotice",
+        "ambele afecțiuni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-144",
+      "intrebare": "Valoarea proteinei totale din lichidul peritoneal normal este:",
+      "raspunsuri": [
+        "0 g/dl",
+        "2 g/dl",
+        "4 g/dl"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-145",
+      "intrebare": "La un cal cu Sindrom de abdomen chirurgical acut un timp de reumplere capilara (TRC) de 3-4 secunde indica un prognostic:",
+      "raspunsuri": [
+        "favorabil",
+        "rezervat",
+        "grav"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-146",
+      "intrebare": "Torsiunile de lob pulmonar se intalnesc la:",
+      "raspunsuri": [
+        "cabaline",
+        "rumegatoare",
+        "carnasiere"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-147",
+      "intrebare": "Condropatia aritenoidului evolueaza initial:",
+      "raspunsuri": [
+        "asimptomatic",
+        "cu cornaj",
+        "cu tuse si febra"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-148",
+      "intrebare": "Hipoplazia epiglotei este mai frecventa la:",
+      "raspunsuri": [
+        "pisică",
+        "bovine",
+        "cabaline"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-149",
+      "intrebare": "Cele patru zone de risc chirurgical ale peretelui abdominal sunt:",
+      "raspunsuri": [
+        "linia alba; coarda flancului; diafragma pelvina; tendonul prepubian",
+        "ombilicală; perineală; inghinală; triunghiul herniar al flancului",
+        "mezogastrica; prepubiana; xifoidiana; inghinala"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-150",
+      "intrebare": "Apariția enterolitiazei colonului la cabaline este favorizată de:",
+      "raspunsuri": [
+        "consumul ridicat de fân de lucernă",
+        "ingestia de nisip",
+        "parazitismul cu Anoplocephala perfoliata"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-151",
+      "intrebare": "Anizocoria reprezinta:",
+      "raspunsuri": [
+        "modificarea formei pupilei",
+        "inegalitatea pupilara",
+        "culoare diferita a irisului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-152",
+      "intrebare": "În invadarea vasculară corneană profundă (uveita anterioara) vasele au aspect:",
+      "raspunsuri": [
+        "de perie fără ramificații",
+        "arborescent",
+        "de vârf de săgeată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-153",
+      "intrebare": "Îmbătrânirea cristalinului, cu alte cuvinte scleroza lenticulară sau nucleară apare la toate speciile după vârsta mijlocie cu excepția:",
+      "raspunsuri": [
+        "păsărilor",
+        "cabalinelor",
+        "cainilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-154",
+      "intrebare": "Hipopionul desemnează:",
+      "raspunsuri": [
+        "pierderea transparenței umorii apoase",
+        "prezența sângelui în camera anterioară",
+        "prezența puroiului în camera anterioară"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-155",
+      "intrebare": "Ce test este folosit pentru a pune în evidență o perforație corneană de dimensiuni foarte mici?",
+      "raspunsuri": [
+        "testul cu parafină",
+        "testul Seidel",
+        "testul cu Schirmer"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-156",
+      "intrebare": "Lagoftalmia reprezintă:",
+      "raspunsuri": [
+        "aderența conjunctivei palpebrale la cea bulbară",
+        "imposibilitatea închiderii complete a fantei palpebrale",
+        "inexistența fantei palpebrale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-157",
+      "intrebare": "Prin gonioscopie se examineaza:",
+      "raspunsuri": [
+        "presiunea intraoculară",
+        "unghiul irido-cornean",
+        "dimensiunea pupilei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-158",
+      "intrebare": "În afecțiunile oculare antibioticele administrate topic se vor aplica:",
+      "raspunsuri": [
+        "maxim de trei ori pe zi",
+        "de cel puțin 4 ori pe zi",
+        "o dată la 24 de ore"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-159",
+      "intrebare": "Ce structuri anatomice include reflexul sensibil de clipire?",
+      "raspunsuri": [
+        "nervii optic (aferent) și facial (motor)",
+        "nervii trigemen (aferent) și facial (motor)",
+        "nervii facial (aferent) și trigemen (motor)"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpc-160",
+      "intrebare": "Omfalitele care evoluează ca gangrene umede sau flegmoane au un prognostic:",
+      "raspunsuri": [
+        "favorabil",
+        "rezervat",
+        "grav"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    }
+  ]
+}
