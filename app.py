@@ -378,21 +378,22 @@ def ecran_configurare(materii: dict[str, list[dict]]) -> None:
     mod = "examen" if mod_label.startswith("📝") else "antrenament"
 
     selectie: dict[str, int] = {}
-    with st.form("config"):
-        for nume, intrebari in materii.items():
-            total = len(intrebari)
-            selectie[nume] = st.slider(
-                f"{nume}  ·  {total} grile disponibile",
-                min_value=0,
-                max_value=total,
-                value=min(3, total),
-            )
-        trimis = st.form_submit_button(
-            "Începe ▶", use_container_width=True, type="primary"
+    for nume, intrebari in materii.items():
+        total = len(intrebari)
+        selectie[nume] = st.slider(
+            f"{nume}  ·  {total} grile disponibile",
+            min_value=0,
+            max_value=total,
+            value=min(8, total),
         )
 
     total_ales = sum(selectie.values())
     st.info(f"Total grile selectate: **{total_ales}**")
+
+    with st.form("config"):
+        trimis = st.form_submit_button(
+            "Începe ▶", use_container_width=True, type="primary"
+        )
 
     if trimis:
         if total_ales == 0:
