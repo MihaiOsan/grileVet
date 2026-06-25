@@ -1,0 +1,1600 @@
+{
+  "materie": "Boli Infecțioase",
+  "intrebari": [
+    {
+      "id": "bi-001",
+      "intrebare": "Tuberculoza bovinelor este produsă de:",
+      "raspunsuri": [
+        "Mycobacterium tuberculosis",
+        "Mycobacterium avium",
+        "Mycobacterium bovis"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-002",
+      "intrebare": "Micobacteriile se colorează prin metoda:",
+      "raspunsuri": [
+        "Giemsa",
+        "Ziehl-Neelsen",
+        "cu albastru de metilen"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-003",
+      "intrebare": "Acțiunea alergizantă a micobacteriilor este dată de:",
+      "raspunsuri": [
+        "lipide",
+        "poliglucide",
+        "fracțiuni proteice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-004",
+      "intrebare": "Leziunea microscopică specifică tuberculozei este:",
+      "raspunsuri": [
+        "granulomul",
+        "infiltrația limfohistiocitară",
+        "calcificarea"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-005",
+      "intrebare": "Complexul primar complet este alcătuit din:",
+      "raspunsuri": [
+        "afectul primar",
+        "afectul primar și leziunile din limfonoduri",
+        "numai leziunile din limfonoduri"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-006",
+      "intrebare": "Leziunile morfopatologice în tuberculoză pot fi:",
+      "raspunsuri": [
+        "de tip fibrinos și hemoragic",
+        "de tip exsudativ și proliferativ",
+        "de tip neoplazic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-007",
+      "intrebare": "Tuberculoza perlată este reprezentată de:",
+      "raspunsuri": [
+        "serozita granulomatoasă",
+        "bronhopneumonia acino-nodulară",
+        "pleurita fibrinoasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-008",
+      "intrebare": "Epidemio-supravegherea în tuberculoza bovinelor se face prin:",
+      "raspunsuri": [
+        "teste serologice",
+        "teste bacteriologice",
+        "teste alergice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-009",
+      "intrebare": "Reacțiile nespecifice în tuberculoza bovinelor sunt:",
+      "raspunsuri": [
+        "paralergice și pseudoalergice",
+        "alergice de tip imediat",
+        "cu etiologie neprecizată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-010",
+      "intrebare": "Brucelele se colorează prin metodele:",
+      "raspunsuri": [
+        "Giemsa",
+        "Gram",
+        "OMS și Stamp"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-011",
+      "intrebare": "Brucelele au în compoziție antigene:",
+      "raspunsuri": [
+        "de suprafață și de profunzime",
+        "puțin studiate",
+        "numai de profunzime"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-012",
+      "intrebare": "În ecologia brucelelor există:",
+      "raspunsuri": [
+        "numai gazde primare",
+        "gazde primare și gazde secundare",
+        "numai vectori"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-013",
+      "intrebare": "În bruceloze răspunsul imun postinfecțios este:",
+      "raspunsuri": [
+        "de tip umoral și celular",
+        "numai de tip umoral",
+        "numai de tip alergic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-014",
+      "intrebare": "În materialele patologice brucelele sunt identificate prin:",
+      "raspunsuri": [
+        "reacția de fixare a complementului",
+        "reacții de aglutinare",
+        "examen bacterioscopic, examen bacteriologic, tehnica PCR"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-015",
+      "intrebare": "În bruceloze testele serologice sunt efectuate:",
+      "raspunsuri": [
+        "în scop de diagnostic și de depistare",
+        "numai în scop de diagnostic",
+        "anticorpii nu sunt activi in vitro"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-016",
+      "intrebare": "În bruceloza bovinelor avortul apare, la femele, cu frecvența maximă între lunile de gestație:",
+      "raspunsuri": [
+        "2-3",
+        "6-8",
+        "3-5"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-017",
+      "intrebare": "Epididimita infecțioasă a berbecilor este produsă de:",
+      "raspunsuri": [
+        "Brucella melitensis",
+        "Brucella ovis",
+        "Brucella bovis"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-018",
+      "intrebare": "Epididimita infecțioasă a berbecilor evoluează:",
+      "raspunsuri": [
+        "inaparent",
+        "acut",
+        "cu formă acută și cronică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-019",
+      "intrebare": "În epididimita infecțioasă a berbecilor examenul serologic se face prin:",
+      "raspunsuri": [
+        "Reacția de aglutinare rapidă pe lamă",
+        "RFC",
+        "Reacția de aglutinare lentă în tuburi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-020",
+      "intrebare": "Bacillus anthracis produce:",
+      "raspunsuri": [
+        "spori și capsulă",
+        "pigmenți verzii în mediile de cultură",
+        "alergie de tip întârziat"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-021",
+      "intrebare": "În formele septicemice ale antraxului, leziunea semnificativă este la:",
+      "raspunsuri": [
+        "pulmoni și pleură",
+        "splină",
+        "ficat și rinichi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-022",
+      "intrebare": "În antrax, confirmarea diagnosticului se face prin:",
+      "raspunsuri": [
+        "examene serologice și alergice",
+        "examen bacterioscopic și bacteriologic",
+        "examene necropsice și serologice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-023",
+      "intrebare": "Tulpina vaccinală în antrax este:",
+      "raspunsuri": [
+        "VR2",
+        "1190 R",
+        "B19"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-024",
+      "intrebare": "Leptospirele au corpul format din:",
+      "raspunsuri": [
+        "cilindru protoplasmatic și un ax central",
+        "capsulă și spor",
+        "capsulă și corp bacterian"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-025",
+      "intrebare": "În leptospiroze animalele bolnave sunt:",
+      "raspunsuri": [
+        "cu septicemie",
+        "cu infecții localizate",
+        "leptospiremice și leptospirurice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-026",
+      "intrebare": "În leptospiroze patogeneza cuprinde:",
+      "raspunsuri": [
+        "septicemia",
+        "etapa sanguină, etapa hepatică și etapa renală",
+        "numai etapa renală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-027",
+      "intrebare": "În leptospiroze evidențierea anticorpilor se face prin:",
+      "raspunsuri": [
+        "reacția de aglutinare lentă în tuburi",
+        "reacția de imunodifuzie",
+        "reacția de microaglutinare-liză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-028",
+      "intrebare": "La femelele gestante uterul este permeabil pentru leptospire:",
+      "raspunsuri": [
+        "în prima jumătate a gestației",
+        "în a doua jumătate a gestației",
+        "în tot timpul gestației"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-029",
+      "intrebare": "Suinele reprezintă gazde naturale pentru:",
+      "raspunsuri": [
+        "Leptospira pomona și tarassovi",
+        "Leptospira canicola și icterohaemorrhagiae",
+        "Leptospira hardjo și gripotyphosa"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-030",
+      "intrebare": "Serovarul specific bovinelor este:",
+      "raspunsuri": [
+        "Leptospira pomona",
+        "Leptospira serjoe",
+        "Leptospira hardjo"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-031",
+      "intrebare": "La bovine forma atipică a leptospirozei este produsă de:",
+      "raspunsuri": [
+        "toate serovarurile patogene",
+        "Leptospira hardjo",
+        "Leptospira canicola și Leptospira pomona"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-032",
+      "intrebare": "La câini tifosul canin (forma uremică) este produs de:",
+      "raspunsuri": [
+        "Leptospira pomona",
+        "Leptospira hardjo",
+        "Leptospira canicola"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-033",
+      "intrebare": "La câini icterul infecțios este produs:",
+      "raspunsuri": [
+        "de Leptospira icterohemoragiae și Leptospira canicola",
+        "de Leptospira pomona și tarrasovi",
+        "numai de Leptospira icterohemoragiae"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-034",
+      "intrebare": "Animalele turbate elimină virusul rabic:",
+      "raspunsuri": [
+        "prin excreții",
+        "prin salivă",
+        "nu elimină virusul rabic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-035",
+      "intrebare": "În Europa rezervorul silvatic, al turbării, este reprezentat de:",
+      "raspunsuri": [
+        "mamiferele sălbatice",
+        "mamiferele domestice și sălbatice",
+        "vulpea și liliecii insectivori și fructivori"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-036",
+      "intrebare": "În turbare cea mai severă cale de infecție este:",
+      "raspunsuri": [
+        "calea respiratorie",
+        "calea mucoaselor",
+        "calea cutanată"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-037",
+      "intrebare": "Dromomania întâlnită în turbare, la câini, apare în:",
+      "raspunsuri": [
+        "faza de stare",
+        "faza prodromică",
+        "faza terminală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-038",
+      "intrebare": "Corpusculii Babeș-Negri apar la câine în:",
+      "raspunsuri": [
+        "boala Carré",
+        "boala Aujeszky",
+        "turbare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-039",
+      "intrebare": "Metoda oficială de diagnostic în turbare este:",
+      "raspunsuri": [
+        "imunofluorescența",
+        "bioproba",
+        "examenul virusologic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-040",
+      "intrebare": "Vaccinarea antirabică, în România, este obligatorie:",
+      "raspunsuri": [
+        "la câini și pisici peste 3 luni cu vaccinuri inactivate",
+        "la toate mamiferele domestice cu tulpini avianizate",
+        "numai la vulpi cu vaccin viu administrat pe cale orală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-041",
+      "intrebare": "Virusurile influențelor au glicoproteine de suprafață reprezentate:",
+      "raspunsuri": [
+        "de proteinele matrix",
+        "de hemaglutinine și neuraminidaze",
+        "de proteine nestructurale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-042",
+      "intrebare": "În influența porcului leziunea histopatologică specifică este:",
+      "raspunsuri": [
+        "bronhopneumonia hemoragică",
+        "bronhopneumonia fibrinoasă",
+        "bronșiolita obliterantă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-043",
+      "intrebare": "Influența calului este produsă de:",
+      "raspunsuri": [
+        "Influența virus B",
+        "două subtipuri, respectiv H7N7 și H3N8",
+        "Influența virus B și Influența virus C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-044",
+      "intrebare": "Patogenitatea subtipurilor de influența virus aviar este apreciată după:",
+      "raspunsuri": [
+        "morbiditate și mortalitate",
+        "evoluția clinică și leziunile anatomopatologice",
+        "criteriul antigenic, situsul de clivaj și testul de virulență"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-045",
+      "intrebare": "În influența aviară sunt caracteristice:",
+      "raspunsuri": [
+        "poliserozita fibrinoasă",
+        "ficatul bronzat",
+        "edemul subcutanat al capului și gâtului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-046",
+      "intrebare": "Prionii au în compoziția lor:",
+      "raspunsuri": [
+        "numai proteine",
+        "proteine și lipide",
+        "sialoglicoproteine"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-047",
+      "intrebare": "În sistemul nervos prionii produc:",
+      "raspunsuri": [
+        "numai procese inflamatorii",
+        "numai leziuni de tip degenerativ",
+        "numai leziuni de tip necrotic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-048",
+      "intrebare": "Leziunea histopatologică specifică bolilor prionice este:",
+      "raspunsuri": [
+        "encefalomielita limfohistiocitară",
+        "vacuolizarea spongiformă",
+        "necroza substanței cenușii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-049",
+      "intrebare": "La ovine scrapie evoluează cu următoarele forme:",
+      "raspunsuri": [
+        "prodromică și de stare",
+        "supraacută și acută",
+        "pruriginoasă și atipică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-050",
+      "intrebare": "În scrapie diagnosticul se confirmă:",
+      "raspunsuri": [
+        "prin identificarea agentului etiologic",
+        "prin identificarea anticorpilor",
+        "prin analiza genotipică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-051",
+      "intrebare": "În Encefalopatia spongiformă bovină prionii sunt prezenți:",
+      "raspunsuri": [
+        "în limfă și sânge",
+        "în secreții, excreții și învelitori fetale",
+        "în sistemul nervos central, ganglionii nervoși, retină și ileonul terminal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-052",
+      "intrebare": "Prin testele imunohistochimice prionii bovini sunt decelabili:",
+      "raspunsuri": [
+        "în sistemul nervos, înaintea modificărilor histologice",
+        "în sânge și limfă",
+        "în organele parenchimatoase"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-053",
+      "intrebare": "Boala de Lyme se transmite:",
+      "raspunsuri": [
+        "prin contact direct",
+        "prin surse secundare",
+        "orizontal prin vectori"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-054",
+      "intrebare": "În boala de Lyme, la animalele infectate, se produce:",
+      "raspunsuri": [
+        "o reacție inflamatorie generală a organismului",
+        "o alergie de tip întârziat",
+        "o leziune de tip spongiform în sistemul nervos"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-055",
+      "intrebare": "La câini imunoprofilaxia bolii Lyme se bazează pe:",
+      "raspunsuri": [
+        "vaccinuri vii avianizate",
+        "vaccinuri vii atenuate pe culturi celulare",
+        "vaccinuri recombinate subunitare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-056",
+      "intrebare": "Virusurile variolelor sunt:",
+      "raspunsuri": [
+        "neurotrope",
+        "epiteliotrope",
+        "poliorganotrope"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-057",
+      "intrebare": "În patogeneza variolelor întâlnim următoarele etape:",
+      "raspunsuri": [
+        "erupția primară, viremia, erupția secundară și leucopenia",
+        "viremia și leucopenia",
+        "numai erupția secundară"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-058",
+      "intrebare": "În variola ovină întâlnim:",
+      "raspunsuri": [
+        "numai forma evolutivă tipică",
+        "numai forma evolutivă atipică",
+        "atât forma evolutivă tipică cât și atipică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-059",
+      "intrebare": "Porumbeii se vaccinează contra variolei cu:",
+      "raspunsuri": [
+        "virusul columbar",
+        "virusul galinar",
+        "virusul de curcă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-060",
+      "intrebare": "Găinile se vaccinează contra variolei cu:",
+      "raspunsuri": [
+        "virusul columbar și galinar",
+        "virusul de curcă",
+        "cu virus inactivat"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-061",
+      "intrebare": "Virusul febrei aftoase se caracterizează prin:",
+      "raspunsuri": [
+        "lipsa pluralității antigenice",
+        "prezența hemaglutininelor și a neuraminidazelor",
+        "pluralitate antigenică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-062",
+      "intrebare": "Forma benignă a febrei aftoase evoluează cu:",
+      "raspunsuri": [
+        "localizare genitală, respiratorie și digestivă",
+        "localizare bucală, mamară și podală",
+        "localizare digestivă, genitală și oculară"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-063",
+      "intrebare": "În febra aftoasă, aftele lipsesc în:",
+      "raspunsuri": [
+        "localizarea respiratorie și digestivă",
+        "localizarea podală și mamară",
+        "localizarea predominant cardiacă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-064",
+      "intrebare": "În cadrul diagnosticului de laborator, al febrei aftoase, se efectuează:",
+      "raspunsuri": [
+        "examene histologice și imunohistochimice",
+        "examene imunohistochimice și bioproba",
+        "identificarea virusului și detectarea anticorpilor specifici"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-065",
+      "intrebare": "În boala Aujeszky, rezervorul natural de virus îl reprezintă:",
+      "raspunsuri": [
+        "ierbivorele",
+        "suinele și șobolanii",
+        "carnivorele sălbatice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-066",
+      "intrebare": "Pentru câine și pisică sursele de infecție în boala Aujeszky sunt:",
+      "raspunsuri": [
+        "animalele bolnave",
+        "animalele purtătoare și eliminatoare",
+        "carnea și organele de la porci infectați și rozătoarele infectate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-067",
+      "intrebare": "La suine, tulpinile virusului bolii Aujeszky sunt:",
+      "raspunsuri": [
+        "poliorganotrope",
+        "neurotrope",
+        "enterotrope"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-068",
+      "intrebare": "La purceii sugari simptomele dominante în boala Aujeszky sunt:",
+      "raspunsuri": [
+        "digestive",
+        "nervoase",
+        "respiratorii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-069",
+      "intrebare": "La bovine, ovine și câini simptomul dominant în boala Aujeszky este:",
+      "raspunsuri": [
+        "criza epileptiformă",
+        "pruritul",
+        "ataxia"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-070",
+      "intrebare": "La suine vaccinarea în boala Aujeszky se face cu:",
+      "raspunsuri": [
+        "vaccinuri cu tulpini inactivate",
+        "vaccinuri cu tulpini atenuate în mod natural",
+        "vaccinuri cu tulpini avianizate și deletate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-071",
+      "intrebare": "Vaccinurile deletate contra bolii Aujeszky:",
+      "raspunsuri": [
+        "au pierdut unele glicoproteine și timidinkinaza",
+        "au fost atenuate pe culturi celulare",
+        "au fost atenuate pe animale de laborator"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-072",
+      "intrebare": "În paratuberculoză, la bovine, simptomele dominante sunt:",
+      "raspunsuri": [
+        "diareea cronică și slăbirea progresivă",
+        "mamita și tulburările respiratorii",
+        "mărirea în volum a limfonodurilor superficiale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-073",
+      "intrebare": "În paratuberculoză leziunea caracteristică este:",
+      "raspunsuri": [
+        "serozita granulomatoasă",
+        "enterita hemoragico-necrotică",
+        "enterita proliferativ-granulomatoasă difuză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-074",
+      "intrebare": "În paratuberculoză examenul serologic se bazează pe:",
+      "raspunsuri": [
+        "reacții de aglutinare",
+        "reacții de precipitare și imunofluorescență",
+        "RFC și ELISA"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-075",
+      "intrebare": "În pasteureloza bovină edemul este:",
+      "raspunsuri": [
+        "invadant, cald și dureros",
+        "absent",
+        "rece și insensibil"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-076",
+      "intrebare": "În pasteureloză, în forma acută pectorală (pulmonară) la bovine și suine, leziunile sunt de tip:",
+      "raspunsuri": [
+        "tumoral",
+        "fibrinos",
+        "granulomatos"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-077",
+      "intrebare": "În pasteureloza bovină, în zonele endemice, măsura profilactică de bază este:",
+      "raspunsuri": [
+        "antibioprevenția",
+        "serumizarea antipasteurelică",
+        "vaccinarea antipasteurelică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-078",
+      "intrebare": "În pasteureloza suinelor, forma acută, diagnosticul diferențial se face față de:",
+      "raspunsuri": [
+        "glosantrax",
+        "pneumonie enzootică",
+        "salmoneloză"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-079",
+      "intrebare": "Hepatita miliară necrotică apare în:",
+      "raspunsuri": [
+        "boala de Newcastle",
+        "pasteureloza aviară",
+        "influența aviară"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-080",
+      "intrebare": "În pasteureloze examenul bacterioscopic (colorația cu albastru de metilen) pune în evidență:",
+      "raspunsuri": [
+        "gruparea și forma pasteurelelor",
+        "prezența sporilor și a capsulei",
+        "fenomenul de bipolaritate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-081",
+      "intrebare": "Principalele proprietăți biochimice la E. coli sunt:",
+      "raspunsuri": [
+        "producția de hidrogen sulfurat",
+        "producția de hemolizine și de gaz",
+        "producția de indol și fermentarea lactozei"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-082",
+      "intrebare": "La E. coli endotoxina este reprezentată de:",
+      "raspunsuri": [
+        "antigenul somatic O",
+        "antigenele K",
+        "adezinele fimbriale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-083",
+      "intrebare": "Enterita colibacilară a vițeilor este produsă de:",
+      "raspunsuri": [
+        "E. coli enteroinvaziv",
+        "tulpini de E. coli încadrate în patotipul APEC",
+        "E. coli enterotoxigen, E. coli enteropatogen și E. coli enterohemoragic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-084",
+      "intrebare": "Profilaxia specifică în colibaciloza purceilor se realizează prin:",
+      "raspunsuri": [
+        "vaccinarea purceilor după fătare",
+        "vaccinarea scroafelor în a doua jumătate a gestației",
+        "vaccinarea scroafelor în prima jumătate a gestației"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-085",
+      "intrebare": "În etiologia enterotoxiemiei colibacilare intervin tulpini de E. coli care produc:",
+      "raspunsuri": [
+        "verotoxine și hemolizine β",
+        "exotoxine",
+        "exotoxine și septicemie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-086",
+      "intrebare": "Poliserozita fibrinoasă este prezentă în:",
+      "raspunsuri": [
+        "micoplasmoza aviară",
+        "pasteureloza aviară",
+        "colisepticemia aviară"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-087",
+      "intrebare": "Principalele proprietăți biochimice ale salmonelelor sunt:",
+      "raspunsuri": [
+        "producția de indol și fermentarea lactozei",
+        "numai producția de indol",
+        "producția de hidrogen sulfurat și metabolizarea citratului de amoniu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-088",
+      "intrebare": "Salmonelele au în structură:",
+      "raspunsuri": [
+        "antigene somatice, flagelare și de înveliș",
+        "numai antigene somatice",
+        "antigene flagelare și de înveliș"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-089",
+      "intrebare": "Salmonelele acționează local și general:",
+      "raspunsuri": [
+        "prin virulență",
+        "prin virulență și toxicitate",
+        "numai prin toxicitate"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-090",
+      "intrebare": "Salmoneloza suinelor are evoluție:",
+      "raspunsuri": [
+        "numai septicemică",
+        "numai localizată",
+        "septicemică și localizată"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-091",
+      "intrebare": "Leziunea constantă întâlnită în salmoneloza suinelor este:",
+      "raspunsuri": [
+        "diateza hemoragică",
+        "splină hiperplazică",
+        "nefrita hemoragică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-092",
+      "intrebare": "La galinacee paratifoza afectează:",
+      "raspunsuri": [
+        "numai adulte",
+        "numai puii",
+        "puii, tineretul și adulte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-093",
+      "intrebare": "În profilaxia paratifozei utilizarea florei de barieră presupune:",
+      "raspunsuri": [
+        "administrarea de prebiotice, probiotice și a microflorei de excludere competitivă",
+        "administrarea de vaccinuri vii atenuate pe cale orală",
+        "administrarea preventivă a unor antibiotice și sulfamide"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-094",
+      "intrebare": "Dermatita urticariformă întâlnită în rujet este în:",
+      "raspunsuri": [
+        "forma acută",
+        "forma cronică",
+        "forma subacută"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-095",
+      "intrebare": "În tratamentul rujetului se utilizează de preferință:",
+      "raspunsuri": [
+        "peniciline retard",
+        "neomicină",
+        "gentamicină"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-096",
+      "intrebare": "Semnele clinice de tetanos sunt date de:",
+      "raspunsuri": [
+        "tetanolizină",
+        "tetanospasmină",
+        "toate cele trei fracțiuni toxice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-097",
+      "intrebare": "În tetanos, tratamentul specific se face cu:",
+      "raspunsuri": [
+        "ser antitetanic",
+        "antibiotice",
+        "anatoxină"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-098",
+      "intrebare": "Tratamentul etiologic în tetanos are ca obiective:",
+      "raspunsuri": [
+        "oprirea producției de toxină și neutralizarea toxinei elaborate",
+        "distrugerea agentului etiologic",
+        "suprimarea tetaniei și calmarea animalului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-099",
+      "intrebare": "Dizenteria anaerobă a mieilor este produsă de:",
+      "raspunsuri": [
+        "Clostridium septicum",
+        "Clostridium chauvoei",
+        "Clostridium perfringens, tipul B"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-100",
+      "intrebare": "La ovine, boala rinichiului moale este produsă de:",
+      "raspunsuri": [
+        "Clostridium perfringens, tipul B și C",
+        "Clostridium perfringens, tipul D",
+        "Clostridium septicum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-101",
+      "intrebare": "Dizenteria anaerobă a purceilor este produsă de:",
+      "raspunsuri": [
+        "Clostridium perfringens, tipul B",
+        "Clostridium perfringens, tipul A și D",
+        "Clostridium perfringens, tipul C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-102",
+      "intrebare": "În dizenteria anaerobă a mieilor leziunea caracteristică este:",
+      "raspunsuri": [
+        "atrofia uniformă a vilozităților intestinale",
+        "colitiflita difteroidă",
+        "jejunita hemoragico-necrotică cu bule de gaz"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-103",
+      "intrebare": "Pentru profilaxia specifică a dizenteriei anaerobe a mieilor se vaccinează:",
+      "raspunsuri": [
+        "oile lactante și mieii în primele 7 zile de viață",
+        "oile gestante în a doua jumătate a gestației",
+        "mieii în primele 7 zile de viață"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-104",
+      "intrebare": "În micoplasmoza respiratorie aviară, leziunea principală este:",
+      "raspunsuri": [
+        "pneumonia hemoragică",
+        "poliserozita fibrinoasă",
+        "aerosaculita fibrinoasă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-105",
+      "intrebare": "În profilaxia specifică a bolii Marek se folosesc:",
+      "raspunsuri": [
+        "vaccinuri heteroloage și omoloage administrate la puii de o zi",
+        "vaccinuri heteroloage și omoloage administrate la găinile adulte",
+        "vaccinuri inactivate administrate la tineret"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-106",
+      "intrebare": "Tulpinile virusului bolii de Newcastle sunt:",
+      "raspunsuri": [
+        "cu pluralitate antigenică",
+        "cu patogenitate variabilă și identice antigenic",
+        "uniforme antigenic și patogenic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-107",
+      "intrebare": "Fracțiunile antigenice ale virusului bolii de Newcastle sunt:",
+      "raspunsuri": [
+        "neuraminidazele",
+        "fracțiuni ale capsidei",
+        "hemaglutinina și nucleoproteina"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-108",
+      "intrebare": "Tipul evolutiv Doyle în boala de Newcastle este produs de:",
+      "raspunsuri": [
+        "tulpini mezogene",
+        "tulpini velogene enterotrope",
+        "tulpini velogene pneumotrope"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-109",
+      "intrebare": "Leziunea patognomonică în boala de Newcastle este:",
+      "raspunsuri": [
+        "inflamația hemoragico-necrotică a sacilor cecali",
+        "proventriculita hemoragico-necrotică",
+        "enterita hemoragico-necrotică în focare (plăci)"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-110",
+      "intrebare": "Metoda oficializată pentru diagnosticul bolii de Newcastle este:",
+      "raspunsuri": [
+        "reacția de inhibare a hemaglutinării",
+        "reacția de imunofluorescență",
+        "testul imunoenzimatic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-111",
+      "intrebare": "În imunoprofilaxia bolii de Newcastle se folosesc cu precădere:",
+      "raspunsuri": [
+        "tulpinile velogene",
+        "tulpinile mezogene",
+        "tulpinile lentogene"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-112",
+      "intrebare": "În laringotraheita infecțioasă aviară incluziile Seifried se evidențiază:",
+      "raspunsuri": [
+        "în celulele epiteliului traheal în fazele incipiente ale bolii",
+        "în celulele epiteliului traheal în fazele finale ale bolii",
+        "în celulele epiteliale ale sacilor aerieni"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-113",
+      "intrebare": "Agentul etiologic al pleuropneumoniei infecțioase a porcului este:",
+      "raspunsuri": [
+        "Mycoplasma hiopneumonie",
+        "Pasteurella multocida",
+        "Actinobacillus pleuropneumoniae"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-114",
+      "intrebare": "În formele supracute și acute ale pleuropneumoniei infecțioase a porcului există:",
+      "raspunsuri": [
+        "pneumonie fibrinoasă",
+        "pneumonie hemoragică și hemoragico-necrotică",
+        "pneumonie granulomatoasă și serozită granulomatoasă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-115",
+      "intrebare": "Diagnosticul pleuropneumoniei infecțioase a porcului se confirmă prin:",
+      "raspunsuri": [
+        "examen bacteriologic și serologic",
+        "examen histologic",
+        "bioprobă și examen histologic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-116",
+      "intrebare": "În piobaciloza porcului leziunea dominantă este:",
+      "raspunsuri": [
+        "bronhopneumonia purulentă",
+        "artrita purulentă",
+        "abcesul încapsulat cu diferite localizări"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-117",
+      "intrebare": "Dizenteria spirochetică a porcului afectează:",
+      "raspunsuri": [
+        "purceii sugari",
+        "purceii după înțărcare",
+        "numai porcii adulți"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-118",
+      "intrebare": "În pesta porcină, forma acută, dermatita este:",
+      "raspunsuri": [
+        "absentă",
+        "necrotică",
+        "hemoragică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-119",
+      "intrebare": "În pesta porcină întâlnim:",
+      "raspunsuri": [
+        "splenomegalie",
+        "splină hiperplazică",
+        "infarcte marginale hemoragice în splină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-120",
+      "intrebare": "Pentru diagnosticul de laborator în pesta porcină, în țara noastră examenul de rutină este:",
+      "raspunsuri": [
+        "imunofluorescența",
+        "RFC-ul",
+        "testul imunoenzimatic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-121",
+      "intrebare": "În gastroenterita virotică transmisibilă a porcului virusul produce:",
+      "raspunsuri": [
+        "enterită hemoragico-necrotică",
+        "colită difteroidă",
+        "atrofia vilozităților intestinale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-122",
+      "intrebare": "Pentru diagnosticul rapid în TGE se folosește:",
+      "raspunsuri": [
+        "imunofluorescența",
+        "virusneutralizarea",
+        "examenul virusologic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-123",
+      "intrebare": "Leucoza enzootică bovină se transmite:",
+      "raspunsuri": [
+        "numai orizontal",
+        "numai vertical",
+        "vertical și orizontal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-124",
+      "intrebare": "În evoluția clinică a leucozei enzootice bovine se disting:",
+      "raspunsuri": [
+        "stadiul de purtător asimptomatic, stadiul limfonodular și stadiul de leucemie limfoidă",
+        "stadiul limfonodular",
+        "numai stadiul de leucemie limfoidă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-125",
+      "intrebare": "În LEB este dominantă alterarea seriei:",
+      "raspunsuri": [
+        "monocitare",
+        "eritrocitare",
+        "limfocitară"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-126",
+      "intrebare": "După diferențierea celulelor tumorale sunt recunoscute în leucoza enzootică bovină:",
+      "raspunsuri": [
+        "tipul cu celule nediferențiate, histiocitar, limfoblastic și prolimfocitar-limfocitar",
+        "tipul histiocitar și limfoblastic",
+        "tipul prolimfocitar-limfocitar"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-127",
+      "intrebare": "În cazul examenului hematologic, în leucoza enzootică bovină, se prelucrează probele cu număr de limfocite:",
+      "raspunsuri": [
+        "între 4000 – 9000",
+        "indiferent de numărul de limfocite",
+        "sub 4000 și peste 9000"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-128",
+      "intrebare": "În mamita gangrenoasă a oilor și caprelor se folosește în terapie:",
+      "raspunsuri": [
+        "serul antigangrenos polivalent",
+        "tratamentul chirurgical",
+        "antibioticoterapia și tratamentul chirurgical"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-129",
+      "intrebare": "Prevenirea agalaxiei contagioase a oilor și caprelor se realizează prin:",
+      "raspunsuri": [
+        "vaccinare și măsuri generale",
+        "numai prin măsuri generale",
+        "antibioprevenție"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-130",
+      "intrebare": "În gurmă, cei mai sensibili sunt:",
+      "raspunsuri": [
+        "mânjii între 3 luni și 2 ani",
+        "caii adulți",
+        "mânjii în prima lună de viață"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-131",
+      "intrebare": "În gurmă, limfonodurile submandibulare sunt:",
+      "raspunsuri": [
+        "nemodificate",
+        "mărite, dure și insensibile",
+        "mărite, calde, dureroase și abcedează"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-132",
+      "intrebare": "În piosepticemia mânjilor leziunea caracteristică este la:",
+      "raspunsuri": [
+        "ficat și splină",
+        "ficat, splină, pulmoni",
+        "rinichi"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-133",
+      "intrebare": "În anemia infecțioase ecvină, leziunile caracteristice sunt:",
+      "raspunsuri": [
+        "splina mărită și ficatul de stază",
+        "bronhopneumonia și pleurita fibrinoasă",
+        "gastroenterita hemoragico-necrotică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-134",
+      "intrebare": "Leziunea histologică de bază în anemia infecțioasă ecvină este:",
+      "raspunsuri": [
+        "inflamația granulomatoasă",
+        "hemosideroza în ficat",
+        "de tip neoplazic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-135",
+      "intrebare": "Metoda oficializată în diagnosticul anemiei infecțioase ecvine este:",
+      "raspunsuri": [
+        "examenul virusologic",
+        "examenul alergic și hematologic",
+        "testul Coggins"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-136",
+      "intrebare": "Rinopneumonia ecvină evoluează cu:",
+      "raspunsuri": [
+        "forma respiratorie și abortigenă",
+        "forma respiratorie și digestivă",
+        "numai forma respiratorie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-137",
+      "intrebare": "În rinopneumonia ecvină, la avortoni leziunea principală este:",
+      "raspunsuri": [
+        "diateza hemoragică",
+        "exsudate în cavități",
+        "hepatita miliară necrotică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-138",
+      "intrebare": "Hepatita infecțioasă a câinilor este produsă de:",
+      "raspunsuri": [
+        "Canine adenovirus 1",
+        "Canine adenovirus 2",
+        "ambele virusuri"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-139",
+      "intrebare": "Hipoglicemia și glicozuria este prezentă în:",
+      "raspunsuri": [
+        "boala lui Carré",
+        "paroviroză",
+        "hepatita infecțioasă a câinilor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-140",
+      "intrebare": "Sindromul de miocardită apare în:",
+      "raspunsuri": [
+        "hepatita infecțioasă a câinilor",
+        "parvoviroza câinilor",
+        "boala lui Carré"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-141",
+      "intrebare": "La câini keratita apare în:",
+      "raspunsuri": [
+        "leptospiroză și turbare",
+        "parvoviroză și boala lui Aujeszky",
+        "boala lui Carré și hepatita infecțioasă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-142",
+      "intrebare": "Incluziile oxifile Lentz apar la câini în:",
+      "raspunsuri": [
+        "turbare",
+        "boala Aujeszky",
+        "boala Carré"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-143",
+      "intrebare": "În plasmocitoza nurcilor hipergammaglobulinemia este evidențiată prin:",
+      "raspunsuri": [
+        "RFC",
+        "testul iodului",
+        "RAL"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-144",
+      "intrebare": "Leziunea constantă în boala edemelor este:",
+      "raspunsuri": [
+        "edemul pleoapelor",
+        "edemul mezenterului colonului spiralat",
+        "edemul peretelui stomacal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "bi-145",
+      "intrebare": "Din punct de vedere histologic, leziunile din boala Marek se caracterizează prin:",
+      "raspunsuri": [
+        "inflamație granulomatoasă",
+        "polimorfism celular",
+        "monomorfism celular"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    }
+  ]
+}
