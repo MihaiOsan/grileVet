@@ -1,0 +1,60 @@
+{
+  "materie": "Farmacologie",
+  "intrebari": [
+    {
+      "id": "far-001",
+      "intrebare": "Care clasă de medicamente este folosită pentru combaterea infecțiilor bacteriene?",
+      "raspunsuri": [
+        "Antiinflamatoarele",
+        "Antibioticele",
+        "Antihistaminicele"
+      ],
+      "corect": "b",
+      "explicatie": "Antibioticele inhibă creșterea sau distrug bacteriile."
+    },
+    {
+      "id": "far-002",
+      "intrebare": "Ce reprezintă termenul „doză letală 50 (DL50)”?",
+      "raspunsuri": [
+        "Doza care vindecă 50% dintre animale",
+        "Doza care produce moartea a 50% dintre animalele testate",
+        "Doza administrată de 50 de ori"
+      ],
+      "corect": "b",
+      "explicatie": "DL50 este doza la care 50% din populația testată moare, fiind un indicator de toxicitate."
+    },
+    {
+      "id": "far-003",
+      "intrebare": "Care cale de administrare are efectul cel mai rapid?",
+      "raspunsuri": [
+        "Orală",
+        "Intravenoasă",
+        "Subcutanată"
+      ],
+      "corect": "b",
+      "explicatie": "Administrarea intravenoasă introduce substanța direct în circulație, având efect imediat."
+    },
+    {
+      "id": "far-004",
+      "intrebare": "Ce este un medicament antipiretic?",
+      "raspunsuri": [
+        "Un medicament care scade febra",
+        "Un medicament care crește tensiunea",
+        "Un medicament care stimulează apetitul"
+      ],
+      "corect": "a",
+      "explicatie": "Antipireticele reduc temperatura corporală ridicată (febra)."
+    },
+    {
+      "id": "far-005",
+      "intrebare": "Care substanță este un anestezic general frecvent folosit la animale?",
+      "raspunsuri": [
+        "Lidocaina",
+        "Izofluranul",
+        "Aspirina"
+      ],
+      "corect": "b",
+      "explicatie": "Izofluranul este un anestezic inhalator folosit pe scară largă în medicina veterinară."
+    }
+  ]
+}

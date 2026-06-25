@@ -1,0 +1,60 @@
+{
+  "materie": "Fiziologie",
+  "intrebari": [
+    {
+      "id": "fiz-001",
+      "intrebare": "Care hormon reglează nivelul glicemiei prin scăderea acesteia?",
+      "raspunsuri": [
+        "Glucagonul",
+        "Insulina",
+        "Adrenalina"
+      ],
+      "corect": "b",
+      "explicatie": "Insulina, secretată de pancreas, scade nivelul glucozei din sânge."
+    },
+    {
+      "id": "fiz-002",
+      "intrebare": "Ce gaz este transportat de hemoglobină în principal?",
+      "raspunsuri": [
+        "Oxigenul",
+        "Azotul",
+        "Heliul"
+      ],
+      "corect": "a",
+      "explicatie": "Hemoglobina leagă și transportă oxigenul de la plămâni la țesuturi."
+    },
+    {
+      "id": "fiz-003",
+      "intrebare": "Care este temperatura corporală normală medie la câine?",
+      "raspunsuri": [
+        "36,5 °C",
+        "38,5 °C",
+        "40,5 °C"
+      ],
+      "corect": "b",
+      "explicatie": "Temperatura normală la câine este de aproximativ 38–39 °C."
+    },
+    {
+      "id": "fiz-004",
+      "intrebare": "Ce organ produce bila?",
+      "raspunsuri": [
+        "Pancreasul",
+        "Splina",
+        "Ficatul"
+      ],
+      "corect": "c",
+      "explicatie": "Bila este produsă de ficat și depozitată în vezica biliară."
+    },
+    {
+      "id": "fiz-005",
+      "intrebare": "Care este rolul principal al rinichilor?",
+      "raspunsuri": [
+        "Filtrarea sângelui și formarea urinei",
+        "Producerea hormonilor sexuali",
+        "Digestia proteinelor"
+      ],
+      "corect": "a",
+      "explicatie": "Rinichii filtrează sângele, elimină deșeurile și reglează echilibrul hidric."
+    }
+  ]
+}
