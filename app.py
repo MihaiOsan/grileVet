@@ -372,7 +372,7 @@ def ecran_configurare(materii: dict[str, list[dict]]) -> None:
 
     mod_label = st.radio(
         "Mod de lucru",
-        ["📝 Examen — răspunsuri la final", "⚡ Antrenament — răspuns imediat"],
+        [ "⚡ Antrenament — răspuns imediat","📝 Examen — răspunsuri la final"],
         horizontal=False,
     )
     mod = "examen" if mod_label.startswith("📝") else "antrenament"
