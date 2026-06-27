@@ -1,0 +1,1325 @@
+{
+  "materie": "Toxicologie și Toxicoze",
+  "intrebari": [
+    {
+      "id": "tox-001",
+      "intrebare": "1) Edetaminul poate fi utilizat în intoxicația cu:",
+      "raspunsuri": [
+        "fosfor",
+        "plumb",
+        "oxalați"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-002",
+      "intrebare": "2) În intoxicația cu sare la suine se recomandă:",
+      "raspunsuri": [
+        "Soluții electrolitice și purgativ salin",
+        "Gluconat de calciu, apă în reprize și purgativ uleios",
+        "Gluconat de calciu, apă în reprize și purgativ salin"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-003",
+      "intrebare": "3) În intoxicația cu fungicide ditiocarbamice se vor administra:",
+      "raspunsuri": [
+        "Tranchilizante cu structură fenotiazinică și atropină",
+        "Atropină și oxime",
+        "Tranchilizante (exclus cele cu structură fenotiazinică) și/sau atropină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-004",
+      "intrebare": "4) Antidotul după absorbție în intoxicația cu preparate pe bază de fier este:",
+      "raspunsuri": [
+        "DMP urmat de Desferioxamină",
+        "Gluconat de calciu",
+        "Desferioxamină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-005",
+      "intrebare": "5) În intoxicația cu fosfură de zinc se administrează per os:",
+      "raspunsuri": [
+        "Bicarbonat de sodiu și un purgativ salin",
+        "Cărbune medicinal și un purgativ uleios",
+        "Acid acetic 3% și un purgativ salin"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-006",
+      "intrebare": "6) În intoxicația cu insecticide organofosforice este contraindicată administrarea de:",
+      "raspunsuri": [
+        "Cofeină",
+        "Tranchilizante fenotiazinice",
+        "Atropină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-007",
+      "intrebare": "7) Ferocianura de sodiu este antidot pentru:",
+      "raspunsuri": [
+        "cupru",
+        "zinc",
+        "seleniu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-008",
+      "intrebare": "8) Pentru combaterea tulburărilor cardiace din intoxicația cu insecticide organoclorurate se va administra:",
+      "raspunsuri": [
+        "Cofeină",
+        "Strofantină",
+        "Pentetrazol"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-009",
+      "intrebare": "9) Pentru combaterea tulburărilor cardiace din intoxicația cu insecticide organofosforice se va administra:",
+      "raspunsuri": [
+        "Cofeină",
+        "Strofantină",
+        "Digoxin"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-010",
+      "intrebare": "10) În intoxicația cu ANTU se va administra în doze mărite:",
+      "raspunsuri": [
+        "vitamina A",
+        "vitamina C",
+        "vitamina B1 și B6"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-011",
+      "intrebare": "11) Antidotul după absorbție în intoxicația cu oxalați este:",
+      "raspunsuri": [
+        "D-Penicilamina",
+        "Edetaminul",
+        "Gluconatul de calciu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-012",
+      "intrebare": "12) Cel mai bun antidot după absorbție în intoxicația cu arsen este:",
+      "raspunsuri": [
+        "Dimercaptopropanolul",
+        "Tiosulfatul de sodiu",
+        "Rongalita"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-013",
+      "intrebare": "13) Pentru combaterea tulburărilor cardiace din intoxicația cu insecticide piretrinoide se va administra:",
+      "raspunsuri": [
+        "Cofeină",
+        "Strofantină",
+        "Pentetrazol"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-014",
+      "intrebare": "14) Antidotul după absorbție în intoxicația cu Amaranthus retroflexus este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "sulfatul de cupru",
+        "gluconatul de calciu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-015",
+      "intrebare": "15) Tratamentul antidotic specific în intoxicația cu insecticide piretrinoide constă din:",
+      "raspunsuri": [
+        "atropină",
+        "atropină cu oxime",
+        "nu există"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-016",
+      "intrebare": "16) Antidotul specific înainte de absorbție pentru fosfor este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "acidul acetic 3%",
+        "sulfatul de cupru"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-017",
+      "intrebare": "17) Care este antidotul specific după absorbție în intoxicația cu plante care conțin glicozizi cianogenetici:",
+      "raspunsuri": [
+        "albastru de metilen urmat de tiosulfat de sodiu",
+        "tiosulfat de sodiu urmat de albastru de metilen",
+        "albastru de metilen urmat de azotit de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-018",
+      "intrebare": "18) Tratamentul intoxicației cu sulfină va cuprinde în mod obligatoriu:",
+      "raspunsuri": [
+        "Atropină",
+        "Heparină",
+        "Fitomenadion"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-019",
+      "intrebare": "19) Toxogoninul se administrează în intoxicația cu:",
+      "raspunsuri": [
+        "organofosforice",
+        "carbamice și organofosforice",
+        "organoclorurate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-020",
+      "intrebare": "20) Pentru transformarea methemoglobinei în hemoglobină se administrează:",
+      "raspunsuri": [
+        "albastru de metilen",
+        "tiosulfat de sodiu precedat de nitrit de sodiu",
+        "tiosulfat de sodiu urmat de nitrit de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-021",
+      "intrebare": "21) Pentru prevenirea intoxicației cu fluor se va administra în rație:",
+      "raspunsuri": [
+        "sulfat de cupru",
+        "molibdat de amoniu",
+        "săruri de calciu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-022",
+      "intrebare": "22) Pentru combaterea semnelor nicotinice în intoxicația cu insecticide organofosforice se administrează:",
+      "raspunsuri": [
+        "Atropină",
+        "Pilocarpină",
+        "Procaină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-023",
+      "intrebare": "23) În intoxicația cu insecticide organoclorurate se va folosi ca antidot înainte de absorbție:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "taninul",
+        "cărbunele medicinal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-024",
+      "intrebare": "24) În intoxicația cronică cu azotați se va combate:",
+      "raspunsuri": [
+        "hiperglicemia",
+        "hipertiroidismul",
+        "hipovitaminoza A"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-025",
+      "intrebare": "25) În intoxicația cronică cu azotați se va combate:",
+      "raspunsuri": [
+        "hipoglicemia",
+        "hipotiroidismul",
+        "hipovitaminoza C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-026",
+      "intrebare": "26) În ce concentrație se va folosi ca antidot permanganatul de potasiu per os:",
+      "raspunsuri": [
+        "0,01",
+        "1‰",
+        "0,1‰"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-027",
+      "intrebare": "27) Antidotul specific înainte de absorbție în intoxicația cu insecticide organofosforice este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "acidul acetic 3%",
+        "apa albuminată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-028",
+      "intrebare": "28) Antidotul înainte de absorbție în intoxicația cu uree este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "acidul acetic 3%",
+        "apa albuminată"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-029",
+      "intrebare": "29) Antidotul după absorbție în intoxicația cu uree este:",
+      "raspunsuri": [
+        "acidul glutamic",
+        "acidul barbituric",
+        "acidul acetic 3%"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-030",
+      "intrebare": "30) Antidotul înainte de absorbție în intoxicația cu plumb este:",
+      "raspunsuri": [
+        "sulfatul de magneziu",
+        "sulfatul de cupru",
+        "sărurile de molibden"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-031",
+      "intrebare": "31) Antidotul în intoxicația cu Melilotus spp este:",
+      "raspunsuri": [
+        "vitamina C și albastrul de metilen",
+        "gluconatul de calciu",
+        "vitamina K1"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-032",
+      "intrebare": "32) Acidul arsanilic este antidotul specific înainte de absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "seleniu",
+        "plumb",
+        "mercur"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-033",
+      "intrebare": "33) Uleiul de parafină este antidot specific înainte de absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "iodoform",
+        "petrol și derivați",
+        "plumb"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-034",
+      "intrebare": "34) Dimercaptopropanolul este contraindicat in intoxicațiile cu:",
+      "raspunsuri": [
+        "arsen",
+        "mercur",
+        "cadmiu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-035",
+      "intrebare": "35) La câine, în intoxicația cu taliu, este contraindicată Dithizona:",
+      "raspunsuri": [
+        "pisică",
+        "câine",
+        "porc"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-036",
+      "intrebare": "36) Oxidul de magneziu se administrează ca antidot specific înainte de absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "arsen",
+        "plumb",
+        "mercur"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-037",
+      "intrebare": "37) În intoxicația cu formol se administrează:",
+      "raspunsuri": [
+        "apă albuminată",
+        "apă saponată",
+        "apă amoniacală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-038",
+      "intrebare": "38) În intoxicația cu detergenți cationici se administrează:",
+      "raspunsuri": [
+        "apă saponată",
+        "apă albuminată",
+        "apă de var"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-039",
+      "intrebare": "39) Antidotul farmacodinamic în intoxicația cu taliu este:",
+      "raspunsuri": [
+        "clorura de potasiu",
+        "clorura de calciu",
+        "clorura de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-040",
+      "intrebare": "40) În supradozarea cu substanțe curarizante se recomandă:",
+      "raspunsuri": [
+        "Miostin",
+        "Nicetamidă",
+        "Efedrină"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-041",
+      "intrebare": "41) Tratamentul antidotic specific în intoxicația cu lichid antigel la câine constă din:",
+      "raspunsuri": [
+        "alcool etilic 20% iv",
+        "alcool etilic 20% iv asociat cu bicarbonat de sodiu 5% iv",
+        "Fenobarbital"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-042",
+      "intrebare": "42) Tratamentul antidotic specific în intoxicația cu paracetamol constă din:",
+      "raspunsuri": [
+        "albastru de metilen",
+        "tiosulfat de sodiu",
+        "vitamina K1"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-043",
+      "intrebare": "43) In intoxicația subacută cu seleniu se recomandă:",
+      "raspunsuri": [
+        "DMP",
+        "Edetamin",
+        "Tiosulfat de sodium"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-044",
+      "intrebare": "44) În intoxicația cu plumb, protocolul în tratamentul antidotic după absorbție este:",
+      "raspunsuri": [
+        "Edetamin asociat cu D-Penicilamină timp de 7 zile și, apoi, per os, DMP timp de 5 săptămâni",
+        "DMP asociat cu D-Penicilamină timp de 7 zile și, apoi, per os, Edetamin timp de 5 săptămâni",
+        "Edetamin asociat cu DMP timp de 7 zile și, apoi, per os D-Penicilamină timp de 5 săptămâni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-045",
+      "intrebare": "45) Tratamentul antidotic specific în intoxicația cu azotați și azotiți este:",
+      "raspunsuri": [
+        "albastru de metilen sol 1-2% în glucoză sol 5%, iv",
+        "albastru de metilen sol 1-2% în tiosulfat de sodiu 10%, iv",
+        "albastru de metilen sol 1-2% în nitrit de sodiu 10%, iv"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-046",
+      "intrebare": "46) Antidotul specific în intoxicația cu măselariță este:",
+      "raspunsuri": [
+        "Atropina",
+        "Pilocarpina",
+        "Procaina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-047",
+      "intrebare": "47) Antidotul specific după absorbție în intoxicația cu fertilizante potasice este:",
+      "raspunsuri": [
+        "clorura de calciu",
+        "clorura de magneziu",
+        "clorura de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-048",
+      "intrebare": "48) Vitamina B12 este antidot în intoxicația cu:",
+      "raspunsuri": [
+        "acid cianhidric",
+        "acid barbituric",
+        "acid clorhidric"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-049",
+      "intrebare": "49) Taninul nu se recomandă ca antidot în intoxicațiile cu:",
+      "raspunsuri": [
+        "atropină",
+        "stricnină",
+        "aconitină"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-050",
+      "intrebare": "50) Permanganatul de potasiu nu precipită:",
+      "raspunsuri": [
+        "atropina",
+        "stricnina",
+        "aconitina"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-051",
+      "intrebare": "51) Antidotul specific înainte de absorbție în intoxicația cu zinc este:",
+      "raspunsuri": [
+        "ferocianura de sodiu",
+        "hidratul feric",
+        "bicarbonatul de sodiu"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-052",
+      "intrebare": "52) Cel mai bun antidot după absorbție în intoxicația cu zinc este:",
+      "raspunsuri": [
+        "Edetaminul",
+        "Dimercaptopropanolul",
+        "D-Penicilamina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-053",
+      "intrebare": "53) Tratamentul antidotic specific în intoxicația cu molibden constă din:",
+      "raspunsuri": [
+        "sulfat de cupru și clorură de sodiu",
+        "sulfat de magneziu și clorură de sodiu",
+        "sulfat de sodiu și clorură de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-054",
+      "intrebare": "54) În intoxicația cu mercur se impune tratamentul:",
+      "raspunsuri": [
+        "insuficienței cardiace",
+        "insuficienței renale",
+        "insuficienței hepatice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-055",
+      "intrebare": "55) Pentru limitarea efectelor hemolizei din intoxicația cu cupru se recomandă:",
+      "raspunsuri": [
+        "Prednisolon și alcalinizarea urinei",
+        "Prednisolon și acidifierea urinei",
+        "Protectoare hepatice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-056",
+      "intrebare": "56) În intoxicația cu preparate pe bază de fier administrate pe cale orală se recomandă spălături gastrice cu:",
+      "raspunsuri": [
+        "carbonat de sodiu 1% sau fosfat disodic 5%",
+        "bicarbonat de sodiu 1% sau fosfat disodic 5%",
+        "apa de var"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-057",
+      "intrebare": "57) În intoxicația cu colți de malț se combate:",
+      "raspunsuri": [
+        "colapsul periferic",
+        "insuficiența renală",
+        "insuficiența hepatică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-058",
+      "intrebare": "58) În intoxicația cu detergenți anionici, insuficiența respiratorie se combate cu:",
+      "raspunsuri": [
+        "albastru de metilen",
+        "lobelină",
+        "nevrostenice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-059",
+      "intrebare": "59) Tratamentul simptomatic în intoxicația cu salicilați constă din combaterea:",
+      "raspunsuri": [
+        "acidozei",
+        "alcalozei",
+        "insuficienței renale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-060",
+      "intrebare": "60) În intoxicația cu fenilbutazonă se previne instalarea:",
+      "raspunsuri": [
+        "insuficienței renale",
+        "insuficienței respiratorii",
+        "insuficienței cardiace"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-061",
+      "intrebare": "61) Antidotul Fuchs este utilizat ca antidot înainte de absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "plumb",
+        "arsen",
+        "mercur"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-062",
+      "intrebare": "62) În forma acută a ergotismului se administrează:",
+      "raspunsuri": [
+        "Atropină",
+        "Ergometrinmaleat",
+        "Fenobarbital"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-063",
+      "intrebare": "63) Antidotul în intoxicația cu detergenți cationici este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "apa saponată",
+        "apa amoniacală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-064",
+      "intrebare": "64) Apa albuminată nu precipită:",
+      "raspunsuri": [
+        "plumbul",
+        "taliul",
+        "mercurul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-065",
+      "intrebare": "65) Care este cel mai bun vomitiv central pentru porc:",
+      "raspunsuri": [
+        "Veratrina",
+        "Apomorfina",
+        "Sulfatiazolul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-066",
+      "intrebare": "66) Care este cel mai bun vomitiv central pentru câine:",
+      "raspunsuri": [
+        "Apomorfina",
+        "Veratrina",
+        "Sulfatiazolul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-067",
+      "intrebare": "67) Iodul este antidot în intoxicația cu:",
+      "raspunsuri": [
+        "atropină",
+        "erbicide cu structură dipiridil",
+        "baze"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-068",
+      "intrebare": "68) Amidonul este antidot în intoxicația cu:",
+      "raspunsuri": [
+        "iod",
+        "plumb",
+        "oxalați"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-069",
+      "intrebare": "69) În intoxicația cu clorați se administrează:",
+      "raspunsuri": [
+        "vitamina C",
+        "vitamina A",
+        "vitamina B1"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-070",
+      "intrebare": "70) Laptele de magneziu singur sau asociat cu compuși pe bază de fier poate fi utilizat ca antidot înainte de absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "plumb",
+        "arsen",
+        "mercur"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-071",
+      "intrebare": "71) Antidotul farmacodinamic specific după absorbție în intoxicația cu stricnină este:",
+      "raspunsuri": [
+        "Fenobarbitalul",
+        "Flaxedilul",
+        "Atropina asociată cu oxime"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-072",
+      "intrebare": "72) În intoxicația cu ANTU, tratamentul simptomului dominant se face cu:",
+      "raspunsuri": [
+        "atropină sau miofilin",
+        "pilocarpină",
+        "atropină și oxime"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-073",
+      "intrebare": "73) Cel mai bun antidot după absorbție în intoxicația cu arsen este:",
+      "raspunsuri": [
+        "Dimercaptopropanolul",
+        "Rongalita",
+        "Co-EDTA"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-074",
+      "intrebare": "74) Oximele se administrează în intoxicația cu:",
+      "raspunsuri": [
+        "insecticide organofosforice",
+        "insecticide carbamice",
+        "insecticide organoclorurate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-075",
+      "intrebare": "75) Spălarea tegumentului în cazul contactului cu insecticide organofosforice se va face cu:",
+      "raspunsuri": [
+        "apă cu săpun sau apă cu detergent",
+        "sulfat de cupru sol 0,2%",
+        "apă albuminată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-076",
+      "intrebare": "76) În intoxicația cu raticide anticoagulante se utilizează ca antidot farmacodinamic:",
+      "raspunsuri": [
+        "vitamina K3",
+        "Fitomenadion",
+        "vitamina C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-077",
+      "intrebare": "77) Antidotul înainte de absorbție al iodului este:",
+      "raspunsuri": [
+        "apa saponată",
+        "mucilagul de amidon",
+        "mucilagul de in"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-078",
+      "intrebare": "78) Antidotul specific al alcoolului metilic este:",
+      "raspunsuri": [
+        "Fenobarbitalul",
+        "Alcoolul etilic",
+        "Cofeina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-079",
+      "intrebare": "79) Antidotul pentru azotatul de argint este:",
+      "raspunsuri": [
+        "clorura de potasiu",
+        "clorura de calciu",
+        "clorura de sodiu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-080",
+      "intrebare": "80) Antidotul specific după absorbție pentru cupru este:",
+      "raspunsuri": [
+        "Tiosulfatul de sodiu",
+        "Co-EDTA",
+        "D-Penicilamina"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-081",
+      "intrebare": "81) Yohimbina clorhidrică se utilizează ca antidot în intoxicația cu:",
+      "raspunsuri": [
+        "atropină",
+        "pilocarpină",
+        "adrenalină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-082",
+      "intrebare": "82) Acidoza provocată de unele substanțe toxice se combate cu:",
+      "raspunsuri": [
+        "citrat de sodiu",
+        "lactat de sodiu",
+        "tiosulfat de sodiu"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-083",
+      "intrebare": "83) În intoxicația cu clorați antidotul specific înainte de absorbție este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu 5% asociat cu cărbune medicinal",
+        "tiosulfat de sodiu asociat cu bicarbonat de sodiu 5%",
+        "clorură de calciu"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-084",
+      "intrebare": "84) În intoxicația cu naftalină se vor face lavaje gastrice cu:",
+      "raspunsuri": [
+        "bicarbonat de sodiu 3% în care se suspendă cărbune medicinal",
+        "tiosulfat de sodiu",
+        "citrat de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-085",
+      "intrebare": "85) În intoxicația cu Conium maculatum se combate prioritar:",
+      "raspunsuri": [
+        "insuficiența cardiacă",
+        "insuficiența renală",
+        "insuficiența respiratorie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-086",
+      "intrebare": "86) Combaterea tulburărilor cardiace în intoxicația cu plante care conțin glicozizi cardiotonici se face cu:",
+      "raspunsuri": [
+        "Clorură de potasiu",
+        "Cofeină",
+        "Pentetrazol"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-087",
+      "intrebare": "87) În intoxicațiile cu plante care conțin toxalbumine se tratează:",
+      "raspunsuri": [
+        "insuficiența hepatică",
+        "insuficiența renală",
+        "insuficiența cardiacă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-088",
+      "intrebare": "88) Antidotul specific, înainte de absorbție în intoxicația cu mercur este:",
+      "raspunsuri": [
+        "Hidratul feric",
+        "Ferocianura de sodiu",
+        "Formaldehidsulfoxilatul de sodiu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-089",
+      "intrebare": "89) În intoxicația cu acid boric, perborat de sodiu, borat de sodiu se va combate:",
+      "raspunsuri": [
+        "insuficiența respiratorie",
+        "insuficiența hepatică",
+        "insuficiența renală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-090",
+      "intrebare": "90) Antidotul specific după absorbție în intoxicația cu ioduri este:",
+      "raspunsuri": [
+        "bicarbonatul de sodiu",
+        "tiosulfatul de sodiu",
+        "lactatul de sodiu"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-091",
+      "intrebare": "91) Tratamentul antidotic specific în intoxicația cu cloramină este similar celui din intoxicația cu:",
+      "raspunsuri": [
+        "glicozizi cardiotonici",
+        "glicozizi cianogenetici",
+        "alcaloizi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-092",
+      "intrebare": "92) În intoxicația cu cadmiu este contraindicată administrarea de:",
+      "raspunsuri": [
+        "Edetamin",
+        "Dimercaptopropanol",
+        "D-Penicilamină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-093",
+      "intrebare": "93) Antidotul farmacodinamic în intoxicația cu ciuperci Amanita spp este:",
+      "raspunsuri": [
+        "Atropina",
+        "Fenobarbitalul",
+        "Edetaminul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-094",
+      "intrebare": "94) În intoxicația cu insecticide organofosforice se folosesc ca reactivatori de colinesterază:",
+      "raspunsuri": [
+        "Procaina",
+        "Atropina",
+        "Oximele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-095",
+      "intrebare": "95) În cazul intoxicației cu raticide anticoagulante este necesar să se recurgă la spălăturile gastrice cu suspensie de cărbune medicinal?",
+      "raspunsuri": [
+        "Da, deoarece nu există antidot specific înainte de absorbție",
+        "Nu, deoarece, din momentul ingerării și până la apariția semnelor clinice, trece o perioadă mare de timp și toxicul nu se mai găsește în tubul digestiv",
+        "Nu, deoarece există antidot specific înainte de absorbție"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-096",
+      "intrebare": "96) În intoxicația cu uree acidul acetic sol 3-5% se prepară în:",
+      "raspunsuri": [
+        "apă distilată",
+        "sol 20% glucoză",
+        "ser fiziologic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-097",
+      "intrebare": "97) În cazul intoxicației cu fosfură de zinc, pentru edemul pulmonar, vitamina C se va administra:",
+      "raspunsuri": [
+        "în doze masive",
+        "în doze uzuale",
+        "de preferat a nu se va administra, deoarece poate agrava starea de acidoză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-098",
+      "intrebare": "98) Pentru eliminarea rapidă a complexului format în urma administrării de Edetamin, acesta se va administra ca:",
+      "raspunsuri": [
+        "atare",
+        "sol 0,5% în glucoză 5%",
+        "sol 2% în ser fiziologic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-099",
+      "intrebare": "99) Diureza osmotică acidifiantă se realizează prin administrarea de:",
+      "raspunsuri": [
+        "bicarbonat de sodiu sol 14‰",
+        "glucoză sol 10%",
+        "Diurocard"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-100",
+      "intrebare": "100) Sulfatul de sodiu este un purgativ:",
+      "raspunsuri": [
+        "uleios",
+        "salin",
+        "nu este purgativ"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-101",
+      "intrebare": "101) Pentru prevenirea intoxicației cu seleniu, în rație se administrează:",
+      "raspunsuri": [
+        "vitamine complex B",
+        "acid arsanilic",
+        "săruri de calciu"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-102",
+      "intrebare": "102) Digoxinul se poate folosi pentru combaterea insuficienței cardiace în intoxicațiile cu insecticide:",
+      "raspunsuri": [
+        "organoclorurate și piretrinoide",
+        "organofosforice",
+        "carbamice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-103",
+      "intrebare": "103) În cazul mușcăturii de viperă, în ce concentrație se va injecta perifocal permanganatul de potasiu:",
+      "raspunsuri": [
+        "sol. 1‰",
+        "sol. 0,1‰",
+        "sol. 1%"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-104",
+      "intrebare": "104) În cazul intoxicației cu stricnină, ca diuretic, se folosește de preferință:",
+      "raspunsuri": [
+        "glucoză 20%",
+        "Furosemid",
+        "Diurocard"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-105",
+      "intrebare": "105) Dimercaptopropanolul este contraindicat a se administra în intoxicația cu:",
+      "raspunsuri": [
+        "mercur",
+        "plumb",
+        "cadmiu și seleniu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-106",
+      "intrebare": "106) Oximele se utilizează în cazul intoxicației cu organofosforice pentru:",
+      "raspunsuri": [
+        "combaterea semnelor nicotinice",
+        "combaterea semnelor muscarinice",
+        "reactivarea sintezei de colinesterază"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-107",
+      "intrebare": "107) Apa saponată poate fi utilizată ca antidot în intoxicația cu:",
+      "raspunsuri": [
+        "săruri ale metalelor grele",
+        "detergenți anionici",
+        "alcaloizi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-108",
+      "intrebare": "108) Desferioxamina se folosește ca antidot specific după absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "mercur",
+        "fier",
+        "plumb"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-109",
+      "intrebare": "109) D-penicilamina este utilizată ca antidot specific după absorbție în intoxicația cu:",
+      "raspunsuri": [
+        "alcaloizi",
+        "insecticide organoclorurate",
+        "cupru"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-110",
+      "intrebare": "110) Rezultate bune în tratamentul intoxicației cronice cu seleniu se pot obține prin administrarea de:",
+      "raspunsuri": [
+        "molibdat de amoniu",
+        "sulfat de sodiu",
+        "acid arsanilic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-111",
+      "intrebare": "111) În intoxicația cu fosfuri metalice se administrează per os:",
+      "raspunsuri": [
+        "bicarbonat de sodiu",
+        "cărbune medicinal și purgativ uleios",
+        "oțet"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-112",
+      "intrebare": "112) În forma acută a ergotismului se va aplica tratament obligatoriu cu:",
+      "raspunsuri": [
+        "Atropină",
+        "Ergometrinmaleat",
+        "Fenobarbital"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-113",
+      "intrebare": "113) În intoxicația cu Papaver sp. la bovine, se va administra:",
+      "raspunsuri": [
+        "Morfină",
+        "Combelen sau Acepromazină",
+        "Cofeină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-114",
+      "intrebare": "114) Care din următoarele purgative nu se folosesc în intoxicația cu insecticide organofosforice:",
+      "raspunsuri": [
+        "pilocarpina",
+        "sulfatul de magneziu",
+        "sulfatul de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-115",
+      "intrebare": "115) În intoxicația cu insecticide organofosforice, atropina se administrează:",
+      "raspunsuri": [
+        "o dată pe zi",
+        "de trei ori pe zi",
+        "de câte ori reapar semnele clinice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-116",
+      "intrebare": "116) 2PAM se administrează în intoxicația cu:",
+      "raspunsuri": [
+        "organomercuriale",
+        "organofosforice",
+        "organoclorurate"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-117",
+      "intrebare": "117) Antidotul în intoxicația cu uree este:",
+      "raspunsuri": [
+        "bicarbonat de sodiu",
+        "apă albuminată",
+        "oțet"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-118",
+      "intrebare": "118) În intoxicația cu amfetamină, ca antidot farmacodinamic se folosește:",
+      "raspunsuri": [
+        "cofeina",
+        "vitamina C",
+        "barbiturice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-119",
+      "intrebare": "119) Nicetamida se folosește în intoxicația cu:",
+      "raspunsuri": [
+        "excitante ale SNC",
+        "deprimante ale SNC",
+        "organoclorurate"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "tox-120",
+      "intrebare": "120) Efedrina se poate utiliza ca antidot în intoxicația cu:",
+      "raspunsuri": [
+        "oxalați",
+        "organofosforice",
+        "opiacee"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    }
+  ]
+}
