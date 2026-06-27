@@ -227,7 +227,7 @@ def get_materii() -> dict[str, list[dict]]:
 
 def init_state() -> None:
     st.session_state.setdefault("etapa", "configurare")
-    st.session_state.setdefault("mod", "examen")
+    st.session_state.setdefault("mod", "antrenament")
     st.session_state.setdefault("dark", False)
     st.session_state.setdefault("admin", False)
     st.session_state.setdefault("otp_cod", None)
