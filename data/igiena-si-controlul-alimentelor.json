@@ -1,0 +1,2370 @@
+{
+  "materie": "Igiena Tehnologia și Controlul Produselor Alimentare de Origine Animală și Sănătate Publică",
+  "intrebari": [
+    {
+      "id": "csv-001",
+      "intrebare": "1) Limita maximă admisă pentru numărul total de germeni aerobi mezofili și numărul total de celule somatice din laptele de vacă este de:",
+      "raspunsuri": [
+        "100.000 ufc/ml și 400.000 celule/ml",
+        "100.000 ufc/ml și 500.000 celule/ml",
+        "200.000 ufc/ml și 400.000 celule/ml"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-002",
+      "intrebare": "2) În timpul transportului laptelui (colectat zilnic) temperatura nu trebuie să depășească:",
+      "raspunsuri": [
+        "6° C",
+        "7° C",
+        "10° C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-003",
+      "intrebare": "3) Balonarea timpurie este o alterație produsă de multiplicarea în brânzeturi a:",
+      "raspunsuri": [
+        "bacteriilor sporulate",
+        "bacteriilor coliforme",
+        "drojdiilor"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-004",
+      "intrebare": "4) În cazul brânzeturilor cu defecte pronunțate sau cu alterații se procedează astfel:",
+      "raspunsuri": [
+        "se dau în consum condiționat (limitând termenul de valabilitate)",
+        "se dau în consum fără restricții",
+        "se confiscă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-005",
+      "intrebare": "5) În ce stare chimică se găsesc proteinele în lapte:",
+      "raspunsuri": [
+        "soluție adevărată",
+        "soluție coloidală",
+        "emulsie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-006",
+      "intrebare": "6) În ce stare chimică se găsește grăsimea în lapte:",
+      "raspunsuri": [
+        "soluție adevărată",
+        "soluție coloidală",
+        "emulsie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-007",
+      "intrebare": "7) În ce stare chimică se găsește lactoza în lapte:",
+      "raspunsuri": [
+        "soluție adevărată",
+        "soluție coloidală",
+        "emulsie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-008",
+      "intrebare": "8) Procesarea laptelui crud cu un număr mare de celule somatice poate determina apariția, în laptele de tip UHT, a următoarelor modificări:",
+      "raspunsuri": [
+        "aspect filant și gust de acru",
+        "modificări de consistență – consistență de gel",
+        "modificări de miros și gust – miros și gust de rânced"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-009",
+      "intrebare": "9) Care dintre componentele substanței uscate din lapte înregistrează variații cantitative mai mari, sub influența unor factori fenotipici:",
+      "raspunsuri": [
+        "proteinele",
+        "cazeina",
+        "substanța grasă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-010",
+      "intrebare": "10) La care dintre specii globulele de grăsime din lapte au diametrul cel mai mare:",
+      "raspunsuri": [
+        "bivolițe",
+        "vaci",
+        "oi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-011",
+      "intrebare": "11) Pe care dintre proprietățile cazeinei se bazează fabricarea brânzeturilor:",
+      "raspunsuri": [
+        "instabilitatea termică",
+        "coagulare enzimatică",
+        "precipitare la punctul izoelectric a cazeinei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-012",
+      "intrebare": "12) Marca de sănătate în cazul laptelui și a produselor pe bază de lapte poate fi aplicată:",
+      "raspunsuri": [
+        "pe produs sau pe ambalaj (dacă produsul este ambalat individual)",
+        "pe ambalaj",
+        "pe produs sau pe ambalaj (dacă produsul este ambalat individual) sau pe o etichetă fixată pe ambalaj"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-013",
+      "intrebare": "13) Fosfataza alcalină este enzima folosită pentru confirmarea efectuării pasteurizării:",
+      "raspunsuri": [
+        "joase a laptelui",
+        "medii a laptelui",
+        "înalte a laptelui"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-014",
+      "intrebare": "14) Dintre proteinele laptelui, coagulează sub influența cheagului:",
+      "raspunsuri": [
+        "lactalbumina",
+        "cazeina",
+        "lactoglobulina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-015",
+      "intrebare": "15) Determinarea densității relative a laptelui crud se face la:",
+      "raspunsuri": [
+        "în primele două ore după muls",
+        "la cel puțin două ore după muls",
+        "la orice interval de timp după muls"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-016",
+      "intrebare": "16) Temperatura corectă la care se raportează densitatea laptelui crud este:",
+      "raspunsuri": [
+        "20° C",
+        "15° C",
+        "25° C"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-017",
+      "intrebare": "17) Factorul de corecție al densității, pentru o diferență de temperatură de 1° C față de temperatura ideală la care se face determinarea, este de:",
+      "raspunsuri": [
+        "0,02",
+        "0,002",
+        "0,0002"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-018",
+      "intrebare": "18) Aciditatea globală a laptelui se exprimă în:",
+      "raspunsuri": [
+        "grade Törner",
+        "grade pH",
+        "centipoises"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-019",
+      "intrebare": "19) În caz de mamite, clorurile din lapte:",
+      "raspunsuri": [
+        "scad cantitativ",
+        "se mențin la valori normale",
+        "cresc cantitativ"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-020",
+      "intrebare": "20) Conținutul procentual mediu de substanță uscată din laptele provenit de la specii diferite este următorul:",
+      "raspunsuri": [
+        "vacă 12,5, oaie 19, capră 12, bivoliță 16",
+        "vacă 12, oaie 19, capră 12,5, bivoliță 16",
+        "vacă 12,5, oaie 16, capră 12, bivoliță 19"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-021",
+      "intrebare": "21) Proporția acizilor grași din compoziția grăsimii laptelui conferă două caracteristici esențiale procesului alterativ și anume:",
+      "raspunsuri": [
+        "se oxidează mult mai ușor în prezența oxigenului și a luminii și nu apar modificări de miros și gust ca urmare a creșterii cantității de acizi grași",
+        "procesele alterative se manifestă prin modificări de miros și gust",
+        "este rezistentă la oxidare, iar procesele alterative se manifestă prin modificări de miros și gust"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-022",
+      "intrebare": "22) Numărul de celule din laptele provenit din glanda mamară sănătoasă este crescut:",
+      "raspunsuri": [
+        "la sfârșitul mulsului, la mulsul de seară",
+        "la începutul mulsului și la mulsul de dimineață",
+        "numărul de celule suportă doar variații individuale și dependent de specie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-023",
+      "intrebare": "23) Care dintre următoarele specii de bacterii sporulate produce coagularea dulce a laptelui:",
+      "raspunsuri": [
+        "Bacillus subtilis",
+        "Clostridium butiricum",
+        "Bacillus cereus"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-024",
+      "intrebare": "24) Dacă laptele are un număr mare de germeni aerobi mezofili asociat cu un număr mare de celule somatice cauza ar putea fi:",
+      "raspunsuri": [
+        "igienizarea necorespunzătoare a mameloanelor și a glandei mamare înainte de muls",
+        "neîndepărtarea primelor jeturi de lapte și igienizarea necorespunzătoare a vaselor folosite la colectarea și la transportul laptelui",
+        "inflamația glandei mamare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-025",
+      "intrebare": "25) Dacă laptele are un număr mic de germeni aerobi mezofili și un număr mare de celule somatice cauza ar putea fi:",
+      "raspunsuri": [
+        "igienizarea necorespunzătoare a mameloanelor și a glandei mamare înainte de muls",
+        "igienizarea necorespunzătoare a vaselor folosite la colectarea și la transportul laptelui",
+        "prezența reziduurilor de antibiotice sau substanțe inhibitoare în lapte"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-026",
+      "intrebare": "26) Ce se întâmplă cu laptele care sosește la unitatea de prelucrare și la examenul de laborator se depistează prezența reziduurilor de antibiotice:",
+      "raspunsuri": [
+        "se refuză de la recepție",
+        "se utilizează pt. obținerea brânzeturilor cu fermentare în vană",
+        "se stochează 36 de ore apoi se prelucrează"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-027",
+      "intrebare": "27) În laptele proaspăt muls (la ieșirea din glanda mamară), recoltat în condiții corespunzătoare de igienă, numărul total de germeni variază între:",
+      "raspunsuri": [
+        "100 – 1000 ufc/ml",
+        "1000 – 10 000 ufc/ml",
+        "10 000 – 100 000 ufc/ml"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-028",
+      "intrebare": "28) Există diferențe în ceea ce privește numărul de celule din laptele de vacă și cel de capră, în lipsa afecțiunilor glandei mamare:",
+      "raspunsuri": [
+        "da, numărul de celule este mai mare în laptele de capră",
+        "nu există diferențe",
+        "numărul de celule este mai mare în laptele de vacă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-029",
+      "intrebare": "29) Operația de pasteurizare a laptelui se poate defini ca:",
+      "raspunsuri": [
+        "operația de încălzire a laptelui la diferite temperaturi, urmată de răcirea bruscă, în scopul distrugerii microflorei patogene, a microflorei de alterație și a enzimelor",
+        "operația de încălzire a laptelui la diferite temperaturi în scopul distrugerii microflorei patogene, a microflorei de alterație și a enzimelor",
+        "operația de încălzire a laptelui la diferite temperaturi în scopul distrugerii microflorei patogene și de alterație"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-030",
+      "intrebare": "30) Care este cauza apariției aspectului grișos al smântânii:",
+      "raspunsuri": [
+        "omogenizare necorespunzătoare după însămânțare",
+        "utilizarea smântânii materie primă cu aciditate prea mare",
+        "utilizarea maielelor cu capacitate acidifiantă crescută"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-031",
+      "intrebare": "31) În cazul în care primele jeturi de lapte de la o vacă sănătoasă nu sunt îndepărtate, acestea pot contribui la contaminarea laptelui cu aproximativ:",
+      "raspunsuri": [
+        "100 ufc/ml",
+        "1000 ufc/ml",
+        "10 000 ufc/ml"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-032",
+      "intrebare": "32) Germinarea sporilor bacterieni prezenți în lapte și produsele lactate are loc la valori ale factorului aw de:",
+      "raspunsuri": [
+        "0,7 – 0,9",
+        "0,95 – 1,0",
+        "0,5 – 0,7"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-033",
+      "intrebare": "33) Cantitatea de spori fungici crește în aerul din interiorul adăposturilor până la 10³ spori/m³:",
+      "raspunsuri": [
+        "în timpul administrării fânului",
+        "în timpul administrării concentratelor",
+        "în timpul administrării silozurilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-034",
+      "intrebare": "34) În laptele mamitic, lactoza:",
+      "raspunsuri": [
+        "crește cantitativ",
+        "se menține la nivel normal",
+        "scade cantitativ"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-035",
+      "intrebare": "35) Care enzimă specifică laptelui are proprietăți antimicrobiene:",
+      "raspunsuri": [
+        "xantinoxidaza",
+        "superoxidismutaza",
+        "lactoperoxidaza"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-036",
+      "intrebare": "36) Gustul amar al iaurtului se poate datora:",
+      "raspunsuri": [
+        "utilării unor specii de bacterii lactice intens proteolitice, contaminare cu bacterii coliforme, micrococi, drojdii",
+        "depășirii temperaturii de incubație incubație (peste 45° C)",
+        "ambele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-037",
+      "intrebare": "37) Care este aciditatea maximă a untului de masă tip A în rețeaua comercială:",
+      "raspunsuri": [
+        "2,8 grade aciditate",
+        "2,5 grade aciditate",
+        "2 grade aciditate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-038",
+      "intrebare": "38) Care este sancțiunea care se aplică în cazul untului a cărui aciditate depășește limita maximă admisă:",
+      "raspunsuri": [
+        "se regenerează prin malaxare cu apă rece",
+        "se confiscă",
+        "nu se aplică nici o sancțiune, deoarece nu prezintă pericol pentru consumator"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-039",
+      "intrebare": "39) Automatele de lapte trebuie construite astfel încât:",
+      "raspunsuri": [
+        "să nu permită vânzarea laptelui în cazul întreruperii curentului",
+        "să nu permită vânzarea laptelui în cazul întreruperii curentului și dacă temperatura acestuia a crescut peste valoarea de 4° C",
+        "să nu permită vânzarea laptelui în cazul întreruperii curentului și dacă temperatura acestuia a crescut peste valoarea de 6° C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-040",
+      "intrebare": "40) În abator este obligatoriu ca apa să fie furnizată la trei temperaturi:",
+      "raspunsuri": [
+        "apă rece, la 37° C și la 62° C",
+        "apă rece, la 37° C și la 83° C",
+        "apă rece, la 62° C și la 83° C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-041",
+      "intrebare": "41) În cadrul abatorului este obligatoriu să existe:",
+      "raspunsuri": [
+        "cel puțin un sistem de canalizare, care deservește sectorul sanitar și industrial",
+        "două sisteme de canalizare, distincte și separate",
+        "unul sau două sisteme de canalizare, dependent de mărimea unității"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-042",
+      "intrebare": "42) În abator, apa nepotabilă poate fi folosită la:",
+      "raspunsuri": [
+        "igienizarea spațiilor tehnologice",
+        "stingerea incendiilor",
+        "spălarea depozitelor frigorifice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-043",
+      "intrebare": "43) Asigurarea bunăstării animalelor pe parcursul transportului revine:",
+      "raspunsuri": [
+        "medicului veterinar care supraveghează îmbarcarea animalelor",
+        "medicului veterinar de abator",
+        "persoanelor care transportă animalele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-044",
+      "intrebare": "44) Dieta alimentară la bovine se recomandă, înainte de tăiere, cu:",
+      "raspunsuri": [
+        "12 ore",
+        "24 ore",
+        "48 ore"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-045",
+      "intrebare": "45) Dieta hidrică se recomandă, înainte de tăiere, cu cel mult:",
+      "raspunsuri": [
+        "1 oră",
+        "3 ore",
+        "6 ore"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-046",
+      "intrebare": "46) Uscarea după dușare (înainte de asomare) este obligatorie la:",
+      "raspunsuri": [
+        "suine",
+        "bovine",
+        "ambele specii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-047",
+      "intrebare": "47) Temperatura apei de opărire pentru porci este de:",
+      "raspunsuri": [
+        "60-62° C",
+        "70-72° C",
+        "80-82° C"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-048",
+      "intrebare": "48) În cazul în care animalele nu au fost supuse inspecției ante-mortem:",
+      "raspunsuri": [
+        "carnea este declarată improprie pentru consum uman",
+        "carnea se admite necondiționat în consum",
+        "carnea este admisă în consum după analize bacteriologice și bacterioscopice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-049",
+      "intrebare": "49) În cazul tăierii de urgență a animalelor în afara abatorului:",
+      "raspunsuri": [
+        "nu se permite îndepărtarea stomacului și a intestinelor",
+        "se permite îndepărtarea stomacului și a intestinelor la fața locului, sub supravegherea unui medic veterinar",
+        "se permite îndepărtarea stomacului și a intestinelor fără a fi necesară prezența medicului veterinar, oricum animalul ajunge în abator"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-050",
+      "intrebare": "50) În cazul tăierii de urgență a animalelor în afara abatorului, dacă trec mai mult de două ore între tăiere și sosirea la abator:",
+      "raspunsuri": [
+        "animalul trebuie să fie refrigerat",
+        "animalul trebuie să fie congelat",
+        "nu este specificată nici o măsură specială"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-051",
+      "intrebare": "51) În caz de bronhopneumonie nepurulentă și negangrenoasă, când carnea și subprodusele necomestibile nu prezintă modificări organoleptice:",
+      "raspunsuri": [
+        "se confiscă pulmonul, iar carnea și subprodusele comestibile se dau în consum fără restricții",
+        "se confiscă pulmonul, iar carnea și subprodusele comestibile se dau în consum cu valoare nutritivă redusă",
+        "se confiscă pulmonul, iar carnea și subprodusele comestibile se dau în consum dacă examenul bacteriologic este favorabil"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-052",
+      "intrebare": "52) Secționarea maseterilor interni și externi este obligatorie:",
+      "raspunsuri": [
+        "la bovinele în vârstă de sub șase săptămâni",
+        "la bovinele în vârstă de peste șase săptămâni",
+        "la toate rumegătoarele, indiferent de vârstă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-053",
+      "intrebare": "53) Conform legii, când nu sunt modificate, la suine se examinează în mod curent după tăiere, prin inspecție, palpație și secționare:",
+      "raspunsuri": [
+        "limfonodurile bronhice stângi",
+        "limfonodurile perirectale",
+        "limfonodurile mediastinale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-054",
+      "intrebare": "54) Secțiunile obligatorii după tăiere la porc, pentru depistarea chistilor de cisticerci, se fac în:",
+      "raspunsuri": [
+        "mușchii maseteri",
+        "mușchii limbii",
+        "mușchii cefei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-055",
+      "intrebare": "55) Limfonodurile submaxilare, parotidiene și retrofaringiene se examinează obligatoriu prin inspecție, palpație și secționare la:",
+      "raspunsuri": [
+        "ovine",
+        "bovine",
+        "suine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-056",
+      "intrebare": "56) Când nu este modificată, după tăiere, splina se examinează obligatoriu prin:",
+      "raspunsuri": [
+        "inspecție",
+        "inspecție și palpație",
+        "inspecție, palpație și secționare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-057",
+      "intrebare": "57) Cărnurile cu colorație galbenă de origine alimentară, colorație care diminuează în intensitate după 24 ore de aerisire:",
+      "raspunsuri": [
+        "se dau în consum fără restricții",
+        "se confiscă",
+        "se dau în consum cu valoare nutritivă redusă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-058",
+      "intrebare": "58) Carnea de la vițeii sub 21 de zile (sau care au plaga ombilicală necicatrizată):",
+      "raspunsuri": [
+        "se dă în consum condiționat",
+        "se confiscă",
+        "se dă în consum cu valoare nutritivă redusă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-059",
+      "intrebare": "59) În cazul în care a fost diagnosticată salmoneloza după tăiere:",
+      "raspunsuri": [
+        "carnea se confiscă și se distruge",
+        "carnea se poate da în consum condiționat, după tratament termic",
+        "carnea se procesează în preparate din carne"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-060",
+      "intrebare": "60) În cazul leptospirozei confirmată bacteriologic, dacă nu sunt modificări ale carcasei:",
+      "raspunsuri": [
+        "carnea și subprodusele se confiscă în totalitate",
+        "carnea și subprodusele se pot da în consum după sterilizarea prin fierbere",
+        "carnea și subprodusele se dau în consum fără restricții"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-061",
+      "intrebare": "61) Bovinele suspecte de contaminare cu rabie, dacă de la mușcătura infectantă au trecut mai puțin de 6 zile:",
+      "raspunsuri": [
+        "se țin sub observație",
+        "se trimit la tăiere",
+        "se ucid"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-062",
+      "intrebare": "62) În caz de suspiciune și confirmare a pestei porcine clasice într-un abator sau mijloc de transport se iau următoarele măsuri:",
+      "raspunsuri": [
+        "toate animalele suspecte se izolează și se trimit la ferma de origine",
+        "toate animalele suspecte vor fi ucise fără întârziere",
+        "toate animalele suspecte se sacrifică și se dau în consum fără restricții"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-063",
+      "intrebare": "63) Carnea provenită de la porcii cu pestă:",
+      "raspunsuri": [
+        "poate fi dirijată în consum după congelare",
+        "poate fi dirijată în consum după sterilizare",
+        "se confiscă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-064",
+      "intrebare": "64) Precizați care este decizia corectă în abator, dacă au fost depistați cisticerci în musculatură:",
+      "raspunsuri": [
+        "confiscarea totală a carcasei, organelor și a masei gastrointestinale în infestația generalizată sau în cazul infestației slabe însoțită de modificări ale cărnii",
+        "dirijare condiționată pentru consum alimentar uman a cărnii și organelor, indiferent de gradul infestației",
+        "consum fără restricții în cazul infestației slabe, dacă nu sunt modificări organoleptice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-065",
+      "intrebare": "65) În cazul prezenței chistilor hidatici în musculatură și organe:",
+      "raspunsuri": [
+        "carnea și organele infestate se confiscă și se denaturează",
+        "carnea și organele infestate se dau în consum fără restricții",
+        "carnea și organele infestate se condiționează prin tratament termic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-066",
+      "intrebare": "66) Examenul cărnurilor pentru depistarea prezenței trichinelelor este obligatoriu:",
+      "raspunsuri": [
+        "pentru carnea de porc",
+        "pentru carnea de porc și vânat",
+        "pentru carnea tuturor speciilor receptive destinate consumului alimentar uman"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-067",
+      "intrebare": "67) În caz de cărbune emfizematos:",
+      "raspunsuri": [
+        "se confiscă zona tumorală",
+        "se confiscă animalul în totalitate",
+        "carnea se dă condiționat în consum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-068",
+      "intrebare": "68) În caz de melanoză tumorală generalizată:",
+      "raspunsuri": [
+        "carnea se dă în consum fără restricții",
+        "se confiscă în totalitate carnea și organele",
+        "carnea și organele se dau în consum după sterilizare termică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-069",
+      "intrebare": "69) Supraîncărcarea grasă a ficatului la miei îngrășați intensiv:",
+      "raspunsuri": [
+        "prezintă risc pentru consumator",
+        "nu prezintă risc",
+        "fenomenul nu se produce"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-070",
+      "intrebare": "70) Adipoxantoza:",
+      "raspunsuri": [
+        "prezintă risc pentru consumator",
+        "nu prezintă risc",
+        "antrenează modificări care pot deveni motiv de confiscare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-071",
+      "intrebare": "71) În caz de icter:",
+      "raspunsuri": [
+        "endarterele se colorează",
+        "endarterele nu se colorează",
+        "se colorează doar în adipoxantoză"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-072",
+      "intrebare": "72) În situația unor colorații medicamentoase a cărnurilor:",
+      "raspunsuri": [
+        "acestea se confiscă",
+        "se dau condiționat în consum",
+        "se dau în consum după un timp de aerisire și refrigerare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-073",
+      "intrebare": "73) Asomarea prin lovitură puternică penetrativă în cap:",
+      "raspunsuri": [
+        "se aplică numai la animalele tinere (suine, miei, iezi, iepuri)",
+        "nu este admisă legal",
+        "este admisă cu derogare specială din partea Autorității Sanitare Veterinare, pentru ovine și caprine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-074",
+      "intrebare": "74) În abator, se prelevează și se trimit la laboratoare abilitate pentru diagnosticul ESB probe de creier:",
+      "raspunsuri": [
+        "de la toate bovinele sănătoase în vârstă de peste 12 luni sacrificate în regim de tăiere normală",
+        "de la toate bovinele sănătoase în vârstă de peste 24 luni sacrificate în regim de tăiere normală",
+        "de la toate bovinele sănătoase în vârstă de peste 30 luni sacrificate în regim de tăiere normală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-075",
+      "intrebare": "75) În rujet, dacă nu există modificări organoleptice:",
+      "raspunsuri": [
+        "carnea și organele se dau în consum fără restricții",
+        "carnea, organele și sângele se confiscă, împreună cu toate carcasele învecinate de pe linie",
+        "carnea se poate da în consum condiționat, după sterilizare, iar organele cu leziuni și sângele se confiscă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-076",
+      "intrebare": "76) Carnea și subprodusele comestibile provenite de la animalele cu leziuni localizate de leucoză:",
+      "raspunsuri": [
+        "pot fi utilizate la fabricarea produselor din carne, cu condiția realizării temperaturii de minim 72° C, timp de 120 de minute în centrul termic al acestora",
+        "pot fi utilizate la fabricarea produselor din carne, cu condiția realizării temperaturii de minim 72° C, timp de 60 de minute în centrul termic al acestora",
+        "se denaturează și se distrug"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-077",
+      "intrebare": "77) În ascaridoză cele mai frecvente leziuni detectate în abator sunt:",
+      "raspunsuri": [
+        "pe ficat: focare stelate, cenușii albicioase",
+        "în cord: granuloame în peretele miocardic",
+        "în musculatura striată: formațiuni cazeificate sau calcificate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-078",
+      "intrebare": "78) În caz de antrax diagnosticat la recepția bovinelor în abator, conduita corectă este următoarea:",
+      "raspunsuri": [
+        "animalele bolnave se taie de urgență, în sala sanitară",
+        "animalele bolnave se ucid și se ecarisează",
+        "animalele bolnave se izolează și se tratează specific"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-079",
+      "intrebare": "79) Carnea de la animalele diagnosticate la inspecția post-mortem cu bruceloză acută:",
+      "raspunsuri": [
+        "se dă în consum fără restricții",
+        "este declarată improprie pentru consum",
+        "se dă în consum după tratament termic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-080",
+      "intrebare": "80) Care din următoarele proteine conferă culoarea roșie cărnii?",
+      "raspunsuri": [
+        "albumina",
+        "mioglobina",
+        "actina"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-081",
+      "intrebare": "81) Timpul de maturare este diferit dependent de cantitatea de catepsine din carne:",
+      "raspunsuri": [
+        "pește > pasăre > porc >bovine",
+        "peste> porc> pasăre> bovine",
+        "pasăre >pește> porc >bovine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-082",
+      "intrebare": "82) Care este pH-ul cărnii în etapa de rigiditate musculară?",
+      "raspunsuri": [
+        "în jur de 5.5",
+        "în jur de 6,0",
+        "peste 7,0"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-083",
+      "intrebare": "83) Modificarea pH-ului (reducerea valorii acestuia) din faza de rigiditate este:",
+      "raspunsuri": [
+        "defavorabil dezvoltării majorității microorganismelor",
+        "favorabil dezvoltării microorganismelor",
+        "nu are influență"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-084",
+      "intrebare": "84) Fezandarea cărnurilor reprezintă un proces de:",
+      "raspunsuri": [
+        "autoliză asociată cu modificări produse de enzimele microbiene",
+        "autoliză",
+        "putrefacție avansată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-085",
+      "intrebare": "85) Care este conținutul de proteine al cărnii de bovine?",
+      "raspunsuri": [
+        "10 +/- 2%",
+        "20 +/- 2%",
+        "28 +/- 2%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-086",
+      "intrebare": "86) Alterarea carcasei provenită de la animalele tăiate în abator începe:",
+      "raspunsuri": [
+        "de la suprafață către profunzime",
+        "din profunzime către suprafață",
+        "din ambele sensuri"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-087",
+      "intrebare": "87) În alterarea putrefactivă valoarea pH-ului cărnii:",
+      "raspunsuri": [
+        "crește",
+        "scade",
+        "nu se modifică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-088",
+      "intrebare": "88) Acumularea de gaze în țesuturile cărnii, cu senzația de crepitație la palpare, se poate întâlni în cazul:",
+      "raspunsuri": [
+        "putrefacției anaerobe",
+        "putrefacției aerobe",
+        "fermentației acide"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-089",
+      "intrebare": "89) Care tip de congelare este recomandată pentru carnea în carcasă?",
+      "raspunsuri": [
+        "congelarea rapidă",
+        "congelarea lentă",
+        "oricare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-090",
+      "intrebare": "90) Care trebuie să fie temperatura optimă de păstrare a cărnii congelate în depozitele frigorifice?",
+      "raspunsuri": [
+        "cel puțin -18° C",
+        "în jur de -12° C",
+        "în jur de -6° C"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-091",
+      "intrebare": "91) Care din următoarele organe au cel mai bogat conținut de glicogen?",
+      "raspunsuri": [
+        "rinichiul",
+        "pulmonul",
+        "ficatul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-092",
+      "intrebare": "92) Care este principala categorie de proteine din șorici?",
+      "raspunsuri": [
+        "albuminele",
+        "colagenul",
+        "globulinele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-093",
+      "intrebare": "93) Care din următoarele ingrediente ale amestecului de sărare, folosit în tehnologia preparatelor din carne, are potențial toxic?",
+      "raspunsuri": [
+        "polifosfații",
+        "nitriții",
+        "ambele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-094",
+      "intrebare": "94) Când în profunzimea compoziției salamurilor semiafumate se găsesc fragmente de slănină de culoare gălbuie și gust rânced, printre fragmente de slănină cu caractere normale poate fi vorba de:",
+      "raspunsuri": [
+        "râncezirea produsului datorită condițiilor necorespunzătoare de păstrare",
+        "activitate microbiană",
+        "folosirea de slănină râncedă amestecată cu slănina normală, în procesul tehnologic de fabricație"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-095",
+      "intrebare": "95) Când la scurt timp de la fabricație se constată balonarea salamurilor cu miros pronunțat neplăcut și cu răzbuzarea compoziției pe suprafața de secțiune, poate fi vorba de:",
+      "raspunsuri": [
+        "dezvoltare galopantă a bacteriilor anaerobe gazogene",
+        "dezvoltare de bacterii aerobe",
+        "înglobare de aer în timpul umplerii în membrană"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-096",
+      "intrebare": "96) Care din următorii indicatori fizico- chimici ilustrează oxidarea avansată a grăsimii (râncezirea)?",
+      "raspunsuri": [
+        "indicele de aciditate",
+        "indicele de peroxizi",
+        "reacția Kreis"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-097",
+      "intrebare": "97) Care trebuie să fie destinația grăsimii atunci când reacția Kreis este intens pozitivă?",
+      "raspunsuri": [
+        "consum condiționat",
+        "consum fără restricții",
+        "excludere din consum"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-098",
+      "intrebare": "98) Conservele sterilizate, ambalate în cutii metalice închise ermetic, sunt stabilizate d.p.d.v. microbiologic în condiții normale de păstrare?",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "parțial"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-099",
+      "intrebare": "99) După umplere, închiderea cutiilor de conserve trebuie făcută:",
+      "raspunsuri": [
+        "imediat",
+        "la sfârșitul programului de lucru",
+        "oricând"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-100",
+      "intrebare": "100) După închidere, cutiile de conserve trebuie sterilizate la temperatura de:",
+      "raspunsuri": [
+        "100° C",
+        "110° C",
+        "121° C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-101",
+      "intrebare": "101) După sterilizarea conservelor este necesară:",
+      "raspunsuri": [
+        "răcirea imediată în apă",
+        "răcirea lentă prin menținere la temperatura camerei",
+        "nu este necesară răcirea"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-102",
+      "intrebare": "102) Care tip de bombaj este cel mai pronunțat, de obicei bilateral și ireversibil?",
+      "raspunsuri": [
+        "bombajul chimic",
+        "bombajul fizic",
+        "ambele"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-103",
+      "intrebare": "103) Condițiile de temperatură pentru păstrarea conservelor sterilizate în regiunile cu climă temperată, trebuie să fie:",
+      "raspunsuri": [
+        "0-6° C",
+        "0-25° C",
+        "sub 0° C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-104",
+      "intrebare": "104) Conținutul depășit de metale grele sau alte substanțe străine cu potențial nociv prevăzute în normele oficiale, impune:",
+      "raspunsuri": [
+        "excluderea din consum a lotului respectiv de conserve",
+        "consum în timp scurt",
+        "alte condiționări ale consumului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-105",
+      "intrebare": "105) În abatoarele de păsări conform legislației este obligatorie separarea în spațiu sau în timp a următoarelor operații:",
+      "raspunsuri": [
+        "asomarea, sângerarea",
+        "asomarea, sângerarea, deplumarea sau jupuirea",
+        "asomarea, sângerarea, deplumarea sau jupuirea, opărire, expedierea"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-106",
+      "intrebare": "106) Temperatura maximă în spațiile de tranșare, dezosare, fasonare, feliere etc. trebuie să fie de:",
+      "raspunsuri": [
+        "10° C",
+        "4° C",
+        "12° C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-107",
+      "intrebare": "107) Conform legislației în vigoare este permisă sacrificarea păsărilor în ferme:",
+      "raspunsuri": [
+        "nu, este permisă doar în spații special amenajate",
+        "da este permisă, nu prezintă nici un risc",
+        "da, este permisă dar numai cu avizul autorității competente și pentru anumite categorii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-108",
+      "intrebare": "108) Odihna păsărilor înainte de sacrificare este:",
+      "raspunsuri": [
+        "obligatorie, timp de 2 ore",
+        "nu este obligatorie pentru că durata transportului e scurtă",
+        "obligatorie 1 oră"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-109",
+      "intrebare": "109) Sângerarea păsărilor în abator trebuie să se facă:",
+      "raspunsuri": [
+        "în primele 12 secunde după asomare",
+        "în primele 60 de secunde după asomare",
+        "în primele 30 de minute după asomare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-110",
+      "intrebare": "110) Este obligatorie efectuarea controlului sanitar veterinar după sacrificarea păsărilor?",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "nu există reglementări"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-111",
+      "intrebare": "111) În laringotraheita infecțioasă a păsărilor se aplică următoarele sancțiuni:",
+      "raspunsuri": [
+        "se confiscă organele cu leziuni iar carnea se dă în consum după sterilizare",
+        "se confiscă organele cu leziuni iar carnea se dă în consum fără restricții",
+        "carnea și organele se dau în consum fără restricții"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-112",
+      "intrebare": "112) Care este sancțiunea care se aplică carcaselor de pasăre murdare sau contaminate?",
+      "raspunsuri": [
+        "se dau în consum fără restricții",
+        "se igienizează și apoi se dau în consum",
+        "se confiscă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-113",
+      "intrebare": "113) Care elemente de structură constituie mijloace de protecție ale conținutului oului?",
+      "raspunsuri": [
+        "pelicula uscată de mucus de pe suprafața cojii",
+        "coaja și membranele cochiliere",
+        "toate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-114",
+      "intrebare": "114) La oul vechi gălbenușul își mai păstrează poziția centrală?",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "parțial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-115",
+      "intrebare": "115) Conținutul de colesterol din grăsimea gălbenușului este mai mare decât în celelalte grăsimi animale?",
+      "raspunsuri": [
+        "mai mic",
+        "mai mare",
+        "asemănător"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-116",
+      "intrebare": "116) Proteinele din ou conțin toți aminoacizii esențiali?",
+      "raspunsuri": [
+        "da și în proporție echilibrată",
+        "da, dar în proporție profund dezechilibrată",
+        "numai o parte"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-117",
+      "intrebare": "117) La examenul ovoscopic gălbenușul oului cu semne evidente de alterare își mai păstrează individualitatea?",
+      "raspunsuri": [
+        "da",
+        "parțial",
+        "nu, este amestecat cu albușul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-118",
+      "intrebare": "118) La care specie de păsări riscul de contaminare cu salmonele al oului este mai mare?",
+      "raspunsuri": [
+        "rață",
+        "găină",
+        "curcă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-119",
+      "intrebare": "119) De ce este necesar ca alimentele direct consumabile să nu fie păstrate în același spațiu cu ouăle crude?",
+      "raspunsuri": [
+        "riscul de contaminare cu salmonete",
+        "riscul de impurificare prin spargerea ouălor",
+        "riscul de preluare a impurităților de pe coaja ouălor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-120",
+      "intrebare": "120) Este admisă valorificarea în consum a peștelui scos mort din apă?",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "depinde de cauză"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-121",
+      "intrebare": "121) Comercializarea produselor din pescuit este permisă:",
+      "raspunsuri": [
+        "doar în spații special amenajate",
+        "și în spații deschise cu condiția reducerii timpului de desfacere",
+        "doar în spații special amenajate supuse controlului sanitar veterinar"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-122",
+      "intrebare": "122) Păstrat în aceleași condiții peștele se alterează mai repede decât carnea altor specii de animale?",
+      "raspunsuri": [
+        "mult mai repede",
+        "mai greu",
+        "la fel"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-123",
+      "intrebare": "123) Mucusul cutanat și cel branhial de la pești constituie un mediu prielnic pentru dezvoltarea bacteriilor proteolitice?",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "fără semnificație"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-124",
+      "intrebare": "124) Când la peștele întreg (neeviscerat) se constată balonare cu eventuală crepitație a musculaturii, cu prolabarea porțiunii terminale prin anus, când pe secțiune se eliberează gaze urât mirositoare, iar masa viscerală este macerată, poate fi vorba de:",
+      "raspunsuri": [
+        "putrefacție anaerobă",
+        "fermentație acidă",
+        "defecte nealternative"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-125",
+      "intrebare": "125) Care trebuie să fie destinația peștelui cu putrefacție anaerobă?",
+      "raspunsuri": [
+        "consum în timp scurt",
+        "consum condiționat prin îndepărtarea porțiunilor cu aspect organoleptic modificat",
+        "excluderea din consum, distrugerea și igienizarea severă a suprafețelor cu care a venit în contact"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-126",
+      "intrebare": "126) Care sunt zaharurile a căror proporție de miere este de 90% din total zaharurilor, sau mai mult?",
+      "raspunsuri": [
+        "glucoza și fructoza",
+        "zaharoza",
+        "maltoza"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-127",
+      "intrebare": "127) Cu excepția mierii de salcâm, cristalizarea celorlalte sorturi de miere este un proces:",
+      "raspunsuri": [
+        "natural",
+        "artificial",
+        "întâmplător"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-128",
+      "intrebare": "128) Fluidifierea mierii cristalizate pentru a fi posibilă ambalarea în recipiente de desfacere trebuie făcută la temperatura de:",
+      "raspunsuri": [
+        "40-50° C cu expunere îndelungată",
+        "70-80° C",
+        "în jur de 100° C"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-129",
+      "intrebare": "129) Care sunt criteriile pentru aprecierea degradării mierii prin încălzirea la temperatură înaltă?",
+      "raspunsuri": [
+        "cantitatea relativ mare de hidroximetilfurfurol",
+        "indicele enzimatic “zero” sau cu mult sub limita naturală",
+        "modificări organoleptice, în special dispariția sau slăbirea aromei și chiar contractarea gustului de caramel"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-130",
+      "intrebare": "130) Toxiinfecțiile alimentare produse de stafilococi se datorează:",
+      "raspunsuri": [
+        "prezenței stafilococilor în produs",
+        "prezenței enterotoxinei stafilococice în produs",
+        "ambele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-131",
+      "intrebare": "131) Cum se procedează în abator în cazul în care la păsări se izolează S. enteritidis și/sau S. typhimurium?",
+      "raspunsuri": [
+        "se sacrifică la finalul procesului tehnologic, iar carnea și organele se confiscă și se denaturează",
+        "se sacrifică la finalul procesului tehnologic și se procesează sub supraveghere sanitară veterinară în produse tratate termic",
+        "se sacrifică fără restricții și se procesează sub supraveghere sanitară veterinară în produse tratate termic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-132",
+      "intrebare": "132) Care este sancțiunea care se aplică carcaselor de pasăre cu leziuni mecanice extinse?",
+      "raspunsuri": [
+        "se dau în consum fără restricții",
+        "se igienizează și apoi se dau în consum",
+        "se confiscă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-133",
+      "intrebare": "133) În compoziția cărnii de pește conținutul de colesterol este:",
+      "raspunsuri": [
+        "în cantitate egală cu cel din gălbenușul de ou",
+        "de 100 de ori mai mic",
+        "carnea de pește nu conține colesterol"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-134",
+      "intrebare": "134) În cazul peștilor rigiditatea musculară apare:",
+      "raspunsuri": [
+        "într-un timp lung, 4 – 5 ore de la scoaterea din apă",
+        "într-un timp relativ lung, 3 – 4 ore de la scoaterea din apă",
+        "într-un timp scurt, 1 –2 ore de la scoaterea din apă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-135",
+      "intrebare": "135) Efectul conservant al clorurii de sodiu adăugată în preparatele din carne se bazează pe:",
+      "raspunsuri": [
+        "creșterea presiunii osmotice și reducerea cantității de apă liberă",
+        "modificarea potențialului redox",
+        "modificarea pH-ului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-136",
+      "intrebare": "136) Substanțele cu efect bactericid și antioxidant din compoziția fumului sunt:",
+      "raspunsuri": [
+        "fenolii",
+        "fenolii, acizii și aldehidele",
+        "hidrocarburile și fenolii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-137",
+      "intrebare": "137) Încingerea sau fermentația acidă a cărnurilor se datorează:",
+      "raspunsuri": [
+        "dezvoltării bacteriilor psihrotrofe",
+        "proceselor avansate de autoliză",
+        "dezvoltării bacteriilor din genul Clostridium"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-138",
+      "intrebare": "138) Produsele din pescuit care au fost congelate se pot decongela și apoi recongela?",
+      "raspunsuri": [
+        "da, cu condiția ca să se facă o singură dată",
+        "da, de câte ori e nevoie",
+        "nu, această acțiune nu este permisă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-139",
+      "intrebare": "139) Produsele din pescuit congelate din punct de vedere al prospețimii:",
+      "raspunsuri": [
+        "sunt produse cu o prospețime relativă",
+        "trebuie să îndeplinească aceiași parametrii de prospețime ca și produsele refrigerate",
+        "nu există precizări în acest sens"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-140",
+      "intrebare": "140) Perioada maximă de conservabilitate a peștelui refrigerat la temperatură de 4º C (din momentul pescuitului și până la vânzare) este de:",
+      "raspunsuri": [
+        "24 ore vara și 48 ore iarna",
+        "48 ore vara și 72 ore iarna",
+        "24 ore vara și 72 ore iarna"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-141",
+      "intrebare": "141) Reacția Maillard, apărută în cadrul tratării termice al laptelui, are la bază:",
+      "raspunsuri": [
+        "sensibilitatea termică a lactozei",
+        "solubilitatea lactozei la temperaturi înalte",
+        "deshidratarea materiei grase"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-142",
+      "intrebare": "142) Legea de balans a lui Porcher este asociată cu:",
+      "raspunsuri": [
+        "diminuarea conținutului de lactoză și creșterea conținutului de cloruri",
+        "creșterea conținutului de lactoză și creșterea conținutului de cloruri",
+        "diminuarea semnificativă a proteinelor din lactoser"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-143",
+      "intrebare": "143) Sinteza mamară a acizilor grași din laptele rumegătoarelor se realizează pornind de la:",
+      "raspunsuri": [
+        "acetat și 3 – hidroxibutirat",
+        "3 acetat și hidroxibutirat",
+        "acid butiric și lauric"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-144",
+      "intrebare": "144) În cursul tratamentelor termice cazeina se descompune în:",
+      "raspunsuri": [
+        "cazeina K și cazeina ß",
+        "cazeină și oxid de calciu",
+        "acid hidroxibutiric și lactoglobuline"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-145",
+      "intrebare": "145) Care dintre substanțele de mai jos coagulează în mediul acid:",
+      "raspunsuri": [
+        "vitaminele liposolubile",
+        "ß lactoglobulina",
+        "cazeina"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-146",
+      "intrebare": "146) Falsificarea laptelui crud prin adăugare de lapte smântânit duce la:",
+      "raspunsuri": [
+        "creșterea cantității de grăsime",
+        "scăderea cantității de grăsime",
+        "creșterea cantității de substanță totală degresată"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-147",
+      "intrebare": "147) Procesul tehnologic de obținere al chefirului presupune:",
+      "raspunsuri": [
+        "o intensă fermentație lactică",
+        "o fermentație acetică și una alcoolică",
+        "o dublă fermentație acido-lactică și alcoolică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-148",
+      "intrebare": "148) În procesul de coagulare a laptelui are loc:",
+      "raspunsuri": [
+        "transformarea fosfocazeinatului de calciu (insolubil) în paracazeinat de calciu (solubil)",
+        "transformarea fosfocazeinatului de calciu (solubil) în paracazeinat de calciu (insolubil)",
+        "precipitarea proteinelor din lactoser"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-149",
+      "intrebare": "149) Ovomucoidul din ou:",
+      "raspunsuri": [
+        "este o proteină din albuș și inactivează tripsina",
+        "este o proteină din gălbenuș cu efect antirahitic",
+        "este o glicoproteină din structura cojii"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-150",
+      "intrebare": "150) Indicele diastazic",
+      "raspunsuri": [
+        "exprimă indicele enzimatic al mierii",
+        "este o constantă care definește rezistența electrică a laptelui",
+        "reprezintă raportul dintre cantitatea de proteine și grăsimi din ou"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-151",
+      "intrebare": "151) Care dintre afirmațiile de mai jos este adevărată?",
+      "raspunsuri": [
+        "salmonelele sunt considerate bacterii termorezistente",
+        "salmoneloza umană are o perioadă de incubație de o săptămână",
+        "patogenitatea salmonelelor se manifestă prin virulență și toxicitate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-152",
+      "intrebare": "152) Care dintre următoarele simptome nu sunt prezente în salmoneloza umană?",
+      "raspunsuri": [
+        "febra",
+        "descărcări diareice",
+        "dureri articulare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-153",
+      "intrebare": "153) Toxicitatea salmonelelor se datorează:",
+      "raspunsuri": [
+        "reproducerii lor intraeritrocitare",
+        "elaborării de exotoxine și endotoxine",
+        "producerii de opsonine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-154",
+      "intrebare": "154) Care dintre următoarele mecanisme nu sunt caracteristice virulenței salmonelelor:",
+      "raspunsuri": [
+        "adeziunea la enterocite",
+        "internalizarea",
+        "fagocitarea eritrocitelor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-155",
+      "intrebare": "155) În cadrul etapei de izolare selectivă salmonelele se cultivă pe mediul:",
+      "raspunsuri": [
+        "agar cu sânge",
+        "ALOA și PALCAM",
+        "XLD și Rambach"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-156",
+      "intrebare": "156) Profilaxia de bază în salmoneloză se bazează pe:",
+      "raspunsuri": [
+        "consumul de alimente insuficient tratate termic",
+        "procesarea termică eficientă a alimentelor",
+        "consumul de alimente cu puțină grăsime"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-157",
+      "intrebare": "157) Escherichia coli este considerat un germen:",
+      "raspunsuri": [
+        "patogen minor",
+        "anaerob",
+        "ubicvitar și epifit al tubului digestiv la mamifere"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-158",
+      "intrebare": "158) Care dintre următoarele tipuri de antigene nu se regăsesc la E. coli?",
+      "raspunsuri": [
+        "capsulare K",
+        "de reproducere Y",
+        "falgelare H"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-159",
+      "intrebare": "159) Care dintre următoarele tulpini de E. coli sunt cele mai patogene pentru om:",
+      "raspunsuri": [
+        "enteroinvazive (EIEC)",
+        "enterotubulare",
+        "enterohemoragice (EHEC)"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-160",
+      "intrebare": "160) Shiga-toxigenic E. coli din serogrupul O157:H7 se caracterizează prin:",
+      "raspunsuri": [
+        "este un epifit al tubului gastrointestinal al omului",
+        "se transmite, în principal, de la păsări la om",
+        "este cel mai patogen pentru om"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-161",
+      "intrebare": "161) Toxiinfecțiile date de E. coli evoluează:",
+      "raspunsuri": [
+        "afebril",
+        "după o perioadă de incubație de două luni",
+        "cu tulburări nervoase și de echilibru"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-162",
+      "intrebare": "162) Care dintre următoarele medii de cultură se utilizează în cadrul tehnicii de izolare a E. coli?",
+      "raspunsuri": [
+        "mediul Rambach",
+        "agarul TBX",
+        "bulionul de roșii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-163",
+      "intrebare": "163) Care dintre următoarele specii de listerii prezintă patogenitate pentru om:",
+      "raspunsuri": [
+        "Listeria hominis",
+        "Listeria emberescu",
+        "Listeria monocytogenes"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-164",
+      "intrebare": "164) Listeriolizina O este o proteină cu efect hemolitic elaborat de:",
+      "raspunsuri": [
+        "Salmonella enterica",
+        "L. monocytogenes",
+        "E. coli"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-165",
+      "intrebare": "165) Care dintre patogenii enumerați mai jos poate avea o perioadă de incubație de 70 de zile în mecanismul de producere al bolii?",
+      "raspunsuri": [
+        "Salmonella enterica",
+        "Listeria monocytogenes",
+        "Toxoplasma gondii"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-166",
+      "intrebare": "166) Care dintre entitățile morbide enumerate mai jos pot evolua sistemic la om?",
+      "raspunsuri": [
+        "salmoneloza",
+        "hidatidoza",
+        "listerioza"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-167",
+      "intrebare": "167) Care dintre patogenii enumerați mai jos are capacitate de multiplicare la temperatura de refrigerare?",
+      "raspunsuri": [
+        "Campylobacter jejuni",
+        "Salmonella bongori",
+        "Listeria monocytogenes"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-168",
+      "intrebare": "168) Care dintre următoarele medii selective se utilizează pentru izolarea listeriilor?",
+      "raspunsuri": [
+        "VRBG și Rambach",
+        "ALOA și Palcam",
+        "ASEA și VIPER"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-169",
+      "intrebare": "169) Care dintre următoarele specii de Campylobacter prezintă patogenitate pentru om?",
+      "raspunsuri": [
+        "Campylobacter enterocolitica",
+        "Campylobacter spiralis",
+        "Campylobacter jejuni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-170",
+      "intrebare": "170) În prezent, cele mai răspândite enterite de natură bacteriană la oameni în UE sunt date de:",
+      "raspunsuri": [
+        "salmonele",
+        "campilobacterii",
+        "trichinele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-171",
+      "intrebare": "171) Campylobacter spp. este considerat un microorganism:",
+      "raspunsuri": [
+        "strict anaerob",
+        "homofermentativ",
+        "microaerofil"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-172",
+      "intrebare": "172) Principala sursă de infecție în cazul campilobacteriozei umane este considerată:",
+      "raspunsuri": [
+        "carnea de porc",
+        "brânza proaspătă de vacă",
+        "carnea de pui"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-173",
+      "intrebare": "173) Care dintre afirmațiile de mai jos sunt adevărate?",
+      "raspunsuri": [
+        "Campylobacter se poate multiplica la temperatura de refrigerare",
+        "Campylobacter este un microorganism sensibil la tratamentele termice ale alimentelor",
+        "Campylobacter se transmite numai prin consum de carne crudă de porc"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-174",
+      "intrebare": "174) Care dintre patogenii de mai jos poate să producă sindromul Guillain-Barré la om?",
+      "raspunsuri": [
+        "Listeria",
+        "Campylobacter",
+        "Clostridium"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-175",
+      "intrebare": "175) Semnele clinice întâlnite în campilobacterioza umană frecvent pot fi confundate cu:",
+      "raspunsuri": [
+        "bronhopneumonia catarală",
+        "tendinita cvadricepsului femural",
+        "apendicita acută"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-176",
+      "intrebare": "176) Care dintre următoarele specii de yersinii prezintă potențial infectant pentru om?",
+      "raspunsuri": [
+        "Yersinia enterocolitica",
+        "Yersinia viticola",
+        "Yersinia monocitogenica"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-177",
+      "intrebare": "177) Yersinia enterocolitica este un patogen cu tropism:",
+      "raspunsuri": [
+        "gastrointestinal",
+        "hepatic",
+        "nervos"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-178",
+      "intrebare": "178) Cele mai importante surse ale infecțiilor umane cu yersinii sunt reprezentate de:",
+      "raspunsuri": [
+        "carnea de pasăre",
+        "carnea de porc și produsele derivate",
+        "brânza telemea"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-179",
+      "intrebare": "179) Toxicitatea yersiniilor se manifestă prin producere de:",
+      "raspunsuri": [
+        "neurotoxine",
+        "enterotoxine termostabilă",
+        "ambele variante sunt corecte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-180",
+      "intrebare": "180) Care dintre următoarele microorganisme se pot multiplica la temperatura de refrigerare alături de L. monocytogenes?",
+      "raspunsuri": [
+        "Campylobacter",
+        "E. coli",
+        "Yersinia"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-181",
+      "intrebare": "181) Enterotoxina termostabilă Yst este produsă de :",
+      "raspunsuri": [
+        "L. monocytogenes",
+        "Staphylococcus aureus",
+        "Yersinia enterocolitica"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-182",
+      "intrebare": "182) Tabloul clinic dominant în yersinioză este:",
+      "raspunsuri": [
+        "diareea apoasă sau sangvinolentă",
+        "cefaleea",
+        "apariția de plăgi hemoragice la nivelul pielii"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-183",
+      "intrebare": "183) Staphylococcus aureus la oameni produce:",
+      "raspunsuri": [
+        "toxiinfecții alimentare",
+        "intoxicații alimentare",
+        "ambele variante sunt corecte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-184",
+      "intrebare": "184) Staphylococcus aureus produce:",
+      "raspunsuri": [
+        "enterotoxină termolabilă",
+        "toxine cu efect hemolitic",
+        "enterotoxină termostabilă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-185",
+      "intrebare": "185) Enterotoxina stafilococică:",
+      "raspunsuri": [
+        "produce eritroliză",
+        "acționează asupra sistemului nervos central",
+        "produce orbire"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-186",
+      "intrebare": "186) Perioada de incubație în cadrul intoxicațiilor alimentare date de S. aureus este:",
+      "raspunsuri": [
+        "de ordinul orelor",
+        "o săptămână",
+        "două luni"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-187",
+      "intrebare": "187) Care dintre următoarele afirmații este adevărată:",
+      "raspunsuri": [
+        "enterotoxina stafilococică se inactivează cu ușurință la pasteurizare",
+        "S. aureus este un microorganism termosensibil",
+        "S. aureus se dezvoltă foarte bine la temperatura de refrigerare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-188",
+      "intrebare": "188) Enterotoxina stafilococică stimulează:",
+      "raspunsuri": [
+        "centrul gândirii cognitive",
+        "centrul vomei de la nivel de SNC",
+        "reflexul patelar"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-189",
+      "intrebare": "189) Tulpinile de E. coli enterohemoragice produc:",
+      "raspunsuri": [
+        "intoxicații alimentare",
+        "tulburări oculare",
+        "toxiinfecții alimentare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-190",
+      "intrebare": "190) Cele mai frecvente intoxicații alimentare cu S. aureus sunt datorate consumului de:",
+      "raspunsuri": [
+        "brânzeturi cu toxină preformată",
+        "smântână fermentată",
+        "lapte tratat UHT"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-191",
+      "intrebare": "191) Calea majoră de infestare în trichineloză are loc prin:",
+      "raspunsuri": [
+        "consum de lapte crud",
+        "consum de carne crudă sau insuficient tratată termic",
+        "consum de carne fiartă și răcită brusc"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-192",
+      "intrebare": "192) Alegeți afirmația adevărată:",
+      "raspunsuri": [
+        "larvele de Trichinella închistate își pierd viabilitatea la -18 ºC în doar câteva ore",
+        "larvele de Trichinella sunt rezistente la fierbere",
+        "larvele de Trichinella se inactivează cu ușurință prin fierbere timp de 15 minute"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-193",
+      "intrebare": "193) Tabloul clinic al trichinelozei este dominat de:",
+      "raspunsuri": [
+        "descărcări diareice cu mucus serosangvinolent în fecale",
+        "triada febră-edem-mialgie",
+        "tulburări nervoase la nivel SNC-ului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-194",
+      "intrebare": "194) Care dintre următoarele Regulamente Europene reglementează evidențierea larvelor de Trichinella?",
+      "raspunsuri": [
+        "Reg. 2075/2005",
+        "Reg. 1375/2015",
+        "Reg. 853/2004"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-195",
+      "intrebare": "195) Care dintre speciile enumerate mai jos nu sunt monitorizate pentru prezența larvelor de Trichinella?",
+      "raspunsuri": [
+        "a.cabaline",
+        "suine",
+        "ovine"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-196",
+      "intrebare": "196) Selectați afirmația adevărată:",
+      "raspunsuri": [
+        "Toxoplasma gondii se poate identifica la microscop în etalatul direct de carne în cadrul examenului trichineloscopic",
+        "T. gondii a fost primul protozoar semnalat în lume",
+        "T. gondii parazitează intracelular și sistemic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-197",
+      "intrebare": "197) Conform clasificării făcute de EFSA T. gondii este considerat un patogen cu risc:",
+      "raspunsuri": [
+        "crescut",
+        "moderat",
+        "scăzut"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-198",
+      "intrebare": "198) Care dintre variantele de mai jos poate fi considerată o metodă eficientă de prevenire a infecției cu T. gondii?",
+      "raspunsuri": [
+        "respectarea protocolului de deparazitare a gazdelor intemediare",
+        "procesarea termică a alimentelor",
+        "conservarea obligatorie prin congelare a cărnii înainte de darea în consum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-199",
+      "intrebare": "199) Pentru care dintre următoarele categorii de consumatori toxoplasmoza reprezintă o boală cu risc major?",
+      "raspunsuri": [
+        "femeile gravide",
+        "copiii de până la 18 ani",
+        "persoanele adulte imunocompetente"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-200",
+      "intrebare": "200) Care dintre toxiinfecțiile alimentare de mai jos apare cel mai frecvent în rândul țărilor din Uniunea Europeană:",
+      "raspunsuri": [
+        "salmoneloza",
+        "listerioza",
+        "campilobacterioza"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-201",
+      "intrebare": "201) Care din grupele de substanțe medicamentoase enumerate mai jos constituie obiectivul programului național de supraveghere sanitară veterinară a reziduurilor din lanțul alimentar?",
+      "raspunsuri": [
+        "hormonii nesteroizi",
+        "acidul lactic",
+        "acidul piruvic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-202",
+      "intrebare": "202) Programul național de supraveghere sanitară veterinară a reziduurilor din lanțul alimentar presupune:",
+      "raspunsuri": [
+        "prelevări de probe de către un medic veterinar din cadrul ANSVSA",
+        "recoltări de probe de către un inspector desemnat de autoritatea competentă sau medicul veterinar zonal",
+        "recoltări de probe de către un medic veterinar oficial din cadrul DSVSAJ"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-203",
+      "intrebare": "203) În cadrul programului național de supraveghere ale reziduurilor din lanțul alimentar probele recoltate se vor expedia spre laborator însoțite de:",
+      "raspunsuri": [
+        "contraprobă",
+        "proces verbal de recoltare",
+        "notă de cosntatare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-204",
+      "intrebare": "204) Autorizația sanitară veterinară pentru comerț intracomunitar se eliberează de către:",
+      "raspunsuri": [
+        "Direcția Sanitară Veterinară și pentru Siguranța Alimentelor Județean (DSVSAJ)",
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor (ANSVSA)",
+        "EFSA din cadrul Uniunii Europene"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-205",
+      "intrebare": "205) Producătorii care își desfășoară activitate de vânzare cu amănuntul trebuie să fie:",
+      "raspunsuri": [
+        "autorizați și înregistrați sanitar veterinar",
+        "autorizați sanitar veterinar",
+        "doar înregistrați sanitar veterinar"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-206",
+      "intrebare": "206) Eliberarea documentului de autorizație sanitară veterinară se face în baza analizei:",
+      "raspunsuri": [
+        "aprecierii obiective a aparaturii de lucru existente",
+        "cererii depuse de DSVSAJ către ANSVSA",
+        "notei de constatare și a referatului de evaluare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-207",
+      "intrebare": "207) Vânzarea directă a produselor primare de către (micii) producători se realizează în baza:",
+      "raspunsuri": [
+        "documentului de autorizație sanitară veterinară",
+        "documentului de înregistrare sanitară veterinară",
+        "unui plan HACCP implementat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-208",
+      "intrebare": "208) Micii producătari ca își desfășoară activitate de vânzare directă trebuie să fie:",
+      "raspunsuri": [
+        "doar înregistrați sanitar veterinar",
+        "autorizați sanitar veterinar",
+        "autorizați și înregistrați sanitar veterinar"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-209",
+      "intrebare": "209) Autorizația sanitară veterinară pentru comerț intracomunitar se eliberează în baza:",
+      "raspunsuri": [
+        "unui raport de audit",
+        "unui referat de evaluare",
+        "unei note de constatare întocmite de medicul veterinar oficial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-210",
+      "intrebare": "210) Un hipermarket care furnizează produse din carmangerie proprie poate funcționa în bază de:",
+      "raspunsuri": [
+        "document de autorizare sanitară veterinară",
+        "document de înregistrare sanitară veterinară",
+        "ambele variante sunt corecte"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-211",
+      "intrebare": "211) La eliberarea documentului de înregistrare sanitară-veterinară medicul veterinar oficial are rolul:",
+      "raspunsuri": [
+        "de a întocmi referatul de evaluare",
+        "de a informa autoritățile competente dacă se eliberează o notificare",
+        "nu este implicat deloc în această acțiune"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-212",
+      "intrebare": "212) Durata maximă de depozitare (la – 18 oC) a cărnii congelate de porc în semicarcasă este:",
+      "raspunsuri": [
+        "3 luni",
+        "6 luni",
+        "3 ani"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-213",
+      "intrebare": "213) Durata maximă de depozitare (la – 18 oC) a cărnii congelate de vită în semicarcasă este",
+      "raspunsuri": [
+        "10-12 luni",
+        "6 luni",
+        "6 ani"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-214",
+      "intrebare": "214) Temperatura de depozitare la refrigerare a cărnii tocate este:",
+      "raspunsuri": [
+        "maxim 4 °C",
+        "0 – 2 °C",
+        "maxim 10 °C"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "csv-215",
+      "intrebare": "215) Alegeți varianta adevărată:",
+      "raspunsuri": [
+        "calea majoră de alterare a mierii de albine este oxidarea",
+        "mierea de albine nu se poate altera",
+        "în timpul depozitării mierii de albine cantitatea de hidroximetilfurfurol (HMF) crește"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    }
+  ]
+}
