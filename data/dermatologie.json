@@ -1,0 +1,852 @@
+{
+  "materie": "Dermatologie",
+  "intrebari": [
+    {
+      "id": "der-001",
+      "intrebare": "1) Grosimea tegumentului corpului descrește:",
+      "raspunsuri": [
+        "de la anterior spre posterior",
+        "de la posterior spre anterior",
+        "de la dorsal spre ventral"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-002",
+      "intrebare": "2) Cel mai nou tratament în dermatita atopică presupune utilizarea urmatorului produs comercial:",
+      "raspunsuri": [
+        "Allegra",
+        "Atopica",
+        "Apoquel"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-003",
+      "intrebare": "3) Moartea firului de păr se realizează în faza:",
+      "raspunsuri": [
+        "catagenă",
+        "telogenă",
+        "anagenă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-004",
+      "intrebare": "4) În categoria leziunilor primare sunt cuprinse:",
+      "raspunsuri": [
+        "papula, bula, chistul",
+        "macula, nodulul, lichenificarea",
+        "pustula, vezicula, ulcerul"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-005",
+      "intrebare": "5) Calcinoza cutanată însoțește:",
+      "raspunsuri": [
+        "hipotiroidismul",
+        "sindromul Cushing",
+        "xantomatoza"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-006",
+      "intrebare": "6) Formele morfoclinice ale dermatitei atopice sunt:",
+      "raspunsuri": [
+        "eritematoasă, veziculoasă și scvamoasă",
+        "papuloasă, crustoasă, sclerodermică și verucoasă",
+        "toate formele amintite anterior"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-007",
+      "intrebare": "7) Dintre cele trei criterii majore necesare a fi prezente pentru a diagnostica atopia fac parte:",
+      "raspunsuri": [
+        "pruritul, otita externă recidivantă, piodermita recidivantă",
+        "pruritul, localizarea și morfologia caracteristica a leziunilor, predispoziția de rasă",
+        "pruritul, predispoziția de rasă, creșterea activității glandelor sudoripare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-008",
+      "intrebare": "8) La câine, în hipersensibilizarea de natură alimentară, pruritul:",
+      "raspunsuri": [
+        "este generalizat, are caracter permanent, nu este în corelație cu ora mesei",
+        "este generalizat, are caracter permanent, corelat cu ora mesei",
+        "este localizat abdominal, frecvent seara, nu este în corelație cu ora mesei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-009",
+      "intrebare": "9) Lupusul eritematos se poate manifesta și ca a reacție alergică de tip:",
+      "raspunsuri": [
+        "I",
+        "II",
+        "III"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-010",
+      "intrebare": "10) Raportul optim între elementele antagoniste din rație (Ca/Zn/Fe/Cu) trebuie să fie de:",
+      "raspunsuri": [
+        "100/1/1/0,2",
+        "125/1/1/0,5",
+        "100/1/1/1"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-011",
+      "intrebare": "11) Astenia cutanată se datorează unor anomalii ereditare în:",
+      "raspunsuri": [
+        "sinteza fibrelor de elastină",
+        "sinteza acizilor grași esențiali",
+        "sinteza fibrelor de colagen și/sau carență în vitamina C"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-012",
+      "intrebare": "12) Ulcerul aton este întâlnit în:",
+      "raspunsuri": [
+        "complexul granulomului eozinofilic",
+        "sindromul comedonos al Schnauzerului",
+        "sindromul uveodermatologic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-013",
+      "intrebare": "13) La căței, impetigo bulos se localizează:",
+      "raspunsuri": [
+        "în regiunea axilară și inghinală",
+        "în regiunea ventrală abdominală",
+        "perianal și perivulvar"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-014",
+      "intrebare": "14) La pisică, acneea afectează:",
+      "raspunsuri": [
+        "regiunea feței",
+        "regiunea cervicală inferioară",
+        "regiunea mentonieră"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-015",
+      "intrebare": "15) Selamectinul este:",
+      "raspunsuri": [
+        "organofosforic",
+        "avermectină",
+        "formamidină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-016",
+      "intrebare": "16) Lupusul eritematos discoid (cutanat) este întâlnit:",
+      "raspunsuri": [
+        "la câini și cai",
+        "doar la câini",
+        "doar la cai"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-017",
+      "intrebare": "17) În granulomul de lins al câinelui, factorii determinanți sunt reprezentați de:",
+      "raspunsuri": [
+        "stres și plictiseală",
+        "alergii și artropatii",
+        "piodermite profunde și osteopatii"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-018",
+      "intrebare": "18) Cea mai răspândită specie de purici întâlnită la câine este:",
+      "raspunsuri": [
+        "Ctenocephalides canis",
+        "C. felis",
+        "Pulex irritans"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-019",
+      "intrebare": "19) Substanța activă a produsului Apoquel se numește:",
+      "raspunsuri": [
+        "ciclosporină",
+        "oclacitinib",
+        "fluralaner"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-020",
+      "intrebare": "20) Papilele de dimensiuni mici ale stratului papilar dermic se numesc:",
+      "raspunsuri": [
+        "delomorfe",
+        "adelomorfe",
+        "prodelomorfe"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-021",
+      "intrebare": "21) Expansiunile iederiforme (terminațiile Merkel) preiau:",
+      "raspunsuri": [
+        "impresiile dureroase",
+        "impresiile tactile",
+        "impresiile olfactive"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-022",
+      "intrebare": "22) Creșterea firului de păr se realizează în faza:",
+      "raspunsuri": [
+        "catagenă",
+        "telogenă",
+        "anagenă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-023",
+      "intrebare": "23) Dermatita piotraumatică apare frecvent:",
+      "raspunsuri": [
+        "la rasele de câini cu blana bogată",
+        "la rasele de câini cu părul scurt",
+        "doar la pisică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-024",
+      "intrebare": "24) Testul Thorn se utilizează pentru diagnosticul:",
+      "raspunsuri": [
+        "hiperadrenocorticismului",
+        "hipotiroidismului",
+        "xantomatozei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-025",
+      "intrebare": "25) Infiltrația care se produce în cazul edemului angioneurotic interesează:",
+      "raspunsuri": [
+        "epidermul",
+        "dermul",
+        "hipodermul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-026",
+      "intrebare": "26) Dermatita atopică se caracterizează printr-o reacție de hipersensibilizare de tip:",
+      "raspunsuri": [
+        "I",
+        "II",
+        "III"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-027",
+      "intrebare": "27) Vârsta apariției dermatitei atopice la Shar-Pei este de:",
+      "raspunsuri": [
+        "1 – 3 ani",
+        "4 – 7 ani",
+        "3 luni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-028",
+      "intrebare": "28) Clemastina, folosită în tratamentul unor dermatopatii de natură alergică, este:",
+      "raspunsuri": [
+        "corticoid",
+        "antihistaminic",
+        "tranchilizant"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-029",
+      "intrebare": "29) Proteinele cu potențial alergizant prezente în grâu sau porumb se numesc:",
+      "raspunsuri": [
+        "gliotine",
+        "gliadine",
+        "glicodine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-030",
+      "intrebare": "30) În paracheratoza congenitală există:",
+      "raspunsuri": [
+        "un sindrom (formă) clinic",
+        "două sindroame",
+        "trei sindroame"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-031",
+      "intrebare": "31) Dintre cele 3 tipuri de epidermoliză buloasă, la câine este întâlnită:",
+      "raspunsuri": [
+        "eb simplă",
+        "eb distrofică",
+        "eb joncțională"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-032",
+      "intrebare": "32) Deltametrinul este:",
+      "raspunsuri": [
+        "organofosforic",
+        "piretrinoid",
+        "formamidină"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-033",
+      "intrebare": "33) Hormonii prezenți în sângele gazdei guvernează reproducerea la specia de purice:",
+      "raspunsuri": [
+        "Ctenocephalides canis",
+        "Echidnophaga gallinacea",
+        "Spilopsyllus cuniculi"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-034",
+      "intrebare": "34) Imidaclopridul, una dintre cele mai bune substanțe ce acționează împotriva puricilor, se găsește în produsul comercial:",
+      "raspunsuri": [
+        "Stronghold",
+        "Advantage",
+        "Frontline"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-035",
+      "intrebare": "35) Stratul lucidum, care își datorează strălucirea unei substanțe uleioase, refringente este mai bine reprezentat:",
+      "raspunsuri": [
+        "în pielea cuzineților",
+        "în pielea cozii",
+        "în pielea urechilor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-036",
+      "intrebare": "36) Raportul normal între melanocitele rezidente în membrana bazală epidermică și cheratinocitele bazale este de:",
+      "raspunsuri": [
+        "1:5",
+        "1:10",
+        "1:20"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-037",
+      "intrebare": "37) Nociceptorii polimodali răspund la:",
+      "raspunsuri": [
+        "stimulii mecanici puternici",
+        "stimulii termici puternici",
+        "hiperalgie și prurit"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-038",
+      "intrebare": "38) Cel mai nou produs comercial, cu efecte de lungă durată împotriva puricilor, se numește:",
+      "raspunsuri": [
+        "Advantix",
+        "Bravecto",
+        "Frontline Combo"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-039",
+      "intrebare": "39) În piodermita juvenilă:",
+      "raspunsuri": [
+        "pruritul lipsește",
+        "pruritul este exagerat",
+        "evoluția este acută și dureroasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-040",
+      "intrebare": "40) Substanța activă din produsul comercial Bravecto se numește:",
+      "raspunsuri": [
+        "fluralaner",
+        "oclacitinib",
+        "deltametrin"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-041",
+      "intrebare": "41) În pruritul patologic, viteza de propagare a semnalului este de:",
+      "raspunsuri": [
+        "2 m/s",
+        "3 – 10 m/s",
+        "11 – 20 m/s"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-042",
+      "intrebare": "42) În categoria piodermitelor superficiale se încadrează:",
+      "raspunsuri": [
+        "impetigo și foliculita",
+        "foliculita și furunculoza",
+        "intertrigo și celulita"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-043",
+      "intrebare": "43) În cazul urticariei, leziunile interesează:",
+      "raspunsuri": [
+        "epidermul și dermul",
+        "dermul și hipodermul",
+        "toate cele trei straturi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-044",
+      "intrebare": "44) Hiperproducția de IgE și/sau IgG, care apare în dermatita atopică, se datorează răspunsului organismului împotriva unor alergeni preluați frecvent:",
+      "raspunsuri": [
+        "pe cale digestivă",
+        "pe cale respiratorie",
+        "pe cale transcutanată"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-045",
+      "intrebare": "45) Rațiile hiperproteice, alcătuite din proteine de calitate inferioară determină instalarea:",
+      "raspunsuri": [
+        "sindromului rubrapilar",
+        "sindromului hipereozinofilic",
+        "sindromului comedonos"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-046",
+      "intrebare": "46) Dermatita alergică de contact este o reacție imunomediată de tip:",
+      "raspunsuri": [
+        "I",
+        "II",
+        "IV"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-047",
+      "intrebare": "47) Determinarea fitoeritrinei circulante este o metodă de diagnostic pentru:",
+      "raspunsuri": [
+        "lupusul eritematos",
+        "hipotiroidism",
+        "dermatita de fotosensibilizare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-048",
+      "intrebare": "48) Comparativ cu urticaria, în cazul edemului angioneurotic la pisică, pruritul este:",
+      "raspunsuri": [
+        "violent",
+        "moderat sau redus",
+        "absent"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-049",
+      "intrebare": "49) Acrodermatita letală este o formă clinică a:",
+      "raspunsuri": [
+        "hipercheratozei",
+        "paracheratozei",
+        "ihtiozei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-050",
+      "intrebare": "50) Acromotrichia se traduce prin:",
+      "raspunsuri": [
+        "creșterea pigmentului epidermic",
+        "creșterea pigmentului dermic",
+        "pierderea pigmentului pentru păr"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-051",
+      "intrebare": "51) Dermatita suprafețelor cutanate care se freacă între ele se numește:",
+      "raspunsuri": [
+        "impetigo",
+        "intertrigo",
+        "foliculită"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-052",
+      "intrebare": "52) Aspectul de „ochi de bou” al leziunii cutanate este întâlnit în:",
+      "raspunsuri": [
+        "foliculita bacteriană primară",
+        "pemfigus foliaceu",
+        "dermatita alergică de contact"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-053",
+      "intrebare": "53) Testul de stimulare cu TSH se folosește pentru diagnosticarea:",
+      "raspunsuri": [
+        "hipotiroidismului",
+        "hipertiroidismului",
+        "hiperadrenocorticismului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-054",
+      "intrebare": "54) Faza refractară, faza de incubație și faza de hipersensibilizare sunt caracteristice:",
+      "raspunsuri": [
+        "dermatitei atopice",
+        "dermatitei alergice de natură alimentară",
+        "dermatitei alergice de contact"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-055",
+      "intrebare": "55) În pemfigusul eritematos leziunile sunt localizate:",
+      "raspunsuri": [
+        "pe corp",
+        "pe corp și membre",
+        "doar pe față și urechi"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-056",
+      "intrebare": "56) Eritemul polimorf este mediat de:",
+      "raspunsuri": [
+        "complexele imune",
+        "celulele citotoxice",
+        "IgE"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-057",
+      "intrebare": "57) Debutul dermatomiozitei familiale canine se face la vârsta de:",
+      "raspunsuri": [
+        "3 – 6 săptămâni",
+        "7 – 11 săptămâni",
+        "3 – 6 luni"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-058",
+      "intrebare": "58) Oclacitinibul inhibă activitatea:",
+      "raspunsuri": [
+        "aspartat transaminazei",
+        "piruvat dehidrogenazei",
+        "kinazei Janus"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-059",
+      "intrebare": "59) Un rol major în declanșarea pruritului îl are interleukina (IL):",
+      "raspunsuri": [
+        "IL-13",
+        "IL-31",
+        "IL-10"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-060",
+      "intrebare": "60) Asupra pruritului, antifungicele acționează pentru:",
+      "raspunsuri": [
+        "intensificarea acestuia",
+        "reducerea acestuia",
+        "nu îl influențează"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-061",
+      "intrebare": "61) Speciile bacteriene rezidente la suprafața pielii sunt reprezentate de:",
+      "raspunsuri": [
+        "stafilococi, streptococi beta-hemolitici, Escherichia coli",
+        "stafilococi, streptococi beta-hemolitici, Pseudomonas spp.",
+        "stafilococi, streptococi beta-hemolitici, clostridii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-062",
+      "intrebare": "62) Cel mai frecvent stafilococ coagulazo-pozitiv izolat de pe pielea câinilor sănătoși este:",
+      "raspunsuri": [
+        "Staphylococcus pseudintermedius",
+        "S. aureus",
+        "S. haemolyticus"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-063",
+      "intrebare": "63) Din grupul Staphylococcus intermedius fac parte:",
+      "raspunsuri": [
+        "S. intermedius, S. pseudintermedius, S. aureus",
+        "S. intermedius, S. pseudintermedius, S. delphini",
+        "S. intermedius, S. pseudintermedius, S. hycus"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-064",
+      "intrebare": "64) Principalele localizări ale lui Staphylococcus pseudintermedius, în ordine descrescătoare sunt:",
+      "raspunsuri": [
+        "gură, nas, perineu-rect, inghinal",
+        "nas, gură, perineu-rect, inghinal",
+        "gură, perineu-rect, nas, inghinal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-065",
+      "intrebare": "65) La pisoi, impetigo pustulos se localizează:",
+      "raspunsuri": [
+        "în regiunea dorsală și fața dorsală a gâtului",
+        "în regiunea axilară și inghinală",
+        "în regiunea abdominală ventrală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-066",
+      "intrebare": "66) Foliculita bacteriană primară afectează mai ales câinii în vârstă de:",
+      "raspunsuri": [
+        "0 – 6 luni",
+        "6 – 12 luni",
+        "peste 12 luni"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-067",
+      "intrebare": "67) Ca tulburare generală în hiperadrenocorticism, polifagia este mai frecventă la:",
+      "raspunsuri": [
+        "cal",
+        "câine",
+        "pisică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-068",
+      "intrebare": "68) Testul Thorn pentru depistarea sindromului Cushing se realizează prin administrare de:",
+      "raspunsuri": [
+        "ACTH",
+        "Dexametazonă",
+        "TSH"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-069",
+      "intrebare": "69) În urticarie, leziunile interesează:",
+      "raspunsuri": [
+        "toate straturile cutanate",
+        "doar dermul și epidermul",
+        "doar hipodermul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-070",
+      "intrebare": "70) Urticaria gigantica este întâlnită la:",
+      "raspunsuri": [
+        "suine",
+        "bovine",
+        "cabaline"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-071",
+      "intrebare": "71) Pentru câine, cel mai mare potențial alergizant îl au:",
+      "raspunsuri": [
+        "scuamele și părul de om și pisică",
+        "acarienii din praful de casă",
+        "sporii de miceți"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-072",
+      "intrebare": "72) În etiopatogenia dermatitei alergice de natură alimentară sunt implicate frecvent glicoproteinele cu masa moleculară:",
+      "raspunsuri": [
+        "sub 10 kDa",
+        "10 – 70 kDa",
+        "peste 70 kDa"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-073",
+      "intrebare": "73) Dietele test hipoalergice presupun:",
+      "raspunsuri": [
+        "excluderea cărnii din rație",
+        "excluderea glucidelor din rație",
+        "nu se exclud nici carnea, nici glucidele"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-074",
+      "intrebare": "74) Cloropiramina (Nilfan) este un:",
+      "raspunsuri": [
+        "antihistaminic",
+        "antiinflamator",
+        "insecticid"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "der-075",
+      "intrebare": "75) Factorul reumatoid întâlnit în lupusul eritematos este un autoanticorp direcționat împotriva:",
+      "raspunsuri": [
+        "ADN-ului",
+        "IgG",
+        "leucocitelor"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "der-076",
+      "intrebare": "76) Sindromul Stevens Johnson întâlnit la pisică este asociat eritemului polimorf:",
+      "raspunsuri": [
+        "urticarian",
+        "veziculo-bulos",
+        "major"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "der-077",
+      "intrebare": "77) Sindromul Chediak-Higashi se referă la o formă particulară a:",
+      "raspunsuri": [
+        "albinismului",
+        "pemfigusului eritematos",
+        "lupusului eritematos discoid"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    }
+  ]
+}
