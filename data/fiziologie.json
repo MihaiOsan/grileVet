@@ -1,0 +1,1325 @@
+{
+  "materie": "Fiziologie",
+  "intrebari": [
+    {
+      "id": "fiz-001",
+      "intrebare": "1) Presiunea parțială a oxigenului(PO2) în capilarele pulmonare este de:",
+      "raspunsuri": [
+        "70 mmHg",
+        "40 mmHg",
+        "90 mmHg"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-002",
+      "intrebare": "2) Pepsina este o enzimă:",
+      "raspunsuri": [
+        "lipolitică",
+        "glicolitică",
+        "proteolitică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-003",
+      "intrebare": "3) Amilaza pancreatică acționează optim la pH:",
+      "raspunsuri": [
+        "5,7",
+        "4,2",
+        "7,9"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-004",
+      "intrebare": "4) Preferința gustativă la rumegătoare este pentru:",
+      "raspunsuri": [
+        "amărui",
+        "sărat",
+        "dulce"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-005",
+      "intrebare": "5) Tonusul mușchilor striați este întreținut de:",
+      "raspunsuri": [
+        "triada sarcoplasmatică",
+        "fusul neuromuscular",
+        "sarcomere"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-006",
+      "intrebare": "6) În care tip de contracție a mușchilor striați se produce cea mai mare cantitate de căldură:",
+      "raspunsuri": [
+        "izotonică",
+        "izometrică",
+        "auxotonică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-007",
+      "intrebare": "7) La mamifere urina finală reprezintă ca proporție din urina primară :",
+      "raspunsuri": [
+        "10%",
+        "1%",
+        "19%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-008",
+      "intrebare": "8) Blocarea cordului în sistolă poate fi realizată cu:",
+      "raspunsuri": [
+        "CaCl2",
+        "NaCl",
+        "Gluconat de Ca"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-009",
+      "intrebare": "9) Prezența glucozei în urină denotă:",
+      "raspunsuri": [
+        "hiperglicemie",
+        "hiperpotasiemie",
+        "hipoglicemie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-010",
+      "intrebare": "10) Raportul estrogen / progesteron supraunitar în sânge mărește răspunsul miometrului la oxitocină:",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "nu influențează"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-011",
+      "intrebare": "11) Creșterea P Co2 în sânge determină:",
+      "raspunsuri": [
+        "tahipnee",
+        "bradipnee",
+        "nu influențează"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-012",
+      "intrebare": "12) Administrarea de Ca iv determină:",
+      "raspunsuri": [
+        "tahicardie",
+        "bradicardie",
+        "nu are efect"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-013",
+      "intrebare": "13) Centrul nervos al foamei se găsește în:",
+      "raspunsuri": [
+        "bulbul rahidian",
+        "talamus",
+        "hipotalamus"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-014",
+      "intrebare": "14) Reflexul de micțiune are centrul în:",
+      "raspunsuri": [
+        "măduva lombo-sacrată",
+        "bulbul rahidian",
+        "măduva toracală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-015",
+      "intrebare": "15) Centrul nervos al termoreglării se găsește în:",
+      "raspunsuri": [
+        "hipotalamus",
+        "Puntea lui Varole",
+        "mezencefal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-016",
+      "intrebare": "16) Reflexul cornean de clipire are centrul în:",
+      "raspunsuri": [
+        "bulbul rahidian",
+        "Puntea lui Varole",
+        "tuberculii patrugemeni posteriori"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-017",
+      "intrebare": "17) Polipeptidele alimentare au efect:",
+      "raspunsuri": [
+        "colagog",
+        "coleretic",
+        "nu au effect"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-018",
+      "intrebare": "18) La nivel hepatic lipidele alimentare au efect:",
+      "raspunsuri": [
+        "colagog",
+        "coleretic",
+        "nu au effect"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-019",
+      "intrebare": "19) În metabolismul energetic tiroxina acționează la nivelul:",
+      "raspunsuri": [
+        "mitocondriilor",
+        "ribozomilor",
+        "Aparatului Golgi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-020",
+      "intrebare": "20) Decuplarea fosforilării de oxidație celulară este realizată de:",
+      "raspunsuri": [
+        "parathormon",
+        "renină",
+        "tiroxină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-021",
+      "intrebare": "21) Insulina induce:",
+      "raspunsuri": [
+        "hiperglicemie",
+        "hipoglicemie",
+        "hipoaminoacidemie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-022",
+      "intrebare": "22) Controlul secreției de insulină este realizat exclusiv de:",
+      "raspunsuri": [
+        "lipemie",
+        "glicemie",
+        "proteinemie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-023",
+      "intrebare": "23) Receptorii pentru glucagon sunt prezenți în:",
+      "raspunsuri": [
+        "ficat",
+        "pancreas",
+        "rinichi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-024",
+      "intrebare": "24) Atropina are efect:",
+      "raspunsuri": [
+        "parasimpaticomimetic",
+        "parasimpaticolitic",
+        "simpatico mimetic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-025",
+      "intrebare": "25) La nivelul pupilei adrenalina produce:",
+      "raspunsuri": [
+        "mioză",
+        "midriază",
+        "fără efect"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-026",
+      "intrebare": "26) Excitarea fibrelor purinergice care inervează bronhiolele terminale determină:",
+      "raspunsuri": [
+        "bronchoconstricție",
+        "vasodilatație",
+        "hiposecreție bronhică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-027",
+      "intrebare": "27) Adrenalina determină la nivelul bronhiolelor terminale:",
+      "raspunsuri": [
+        "bronchodilatație",
+        "hipersecreție branchică",
+        "vasodilatație"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-028",
+      "intrebare": "28) Protozoarele ruminale sunt viabile la pH:",
+      "raspunsuri": [
+        "2",
+        "4,5",
+        "6,4"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-029",
+      "intrebare": "29) La nivelul cordului acetilcolina are ca efect:",
+      "raspunsuri": [
+        "tahicardie",
+        "bradicardie",
+        "nu are efect"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-030",
+      "intrebare": "30) La nivelul glandelor salivare pilocarpina determină:",
+      "raspunsuri": [
+        "hipersalivație",
+        "hiposalivație",
+        "nu are efect"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-031",
+      "intrebare": "31) Cum influențează hipocalcemia excitabilitatea:",
+      "raspunsuri": [
+        "crește",
+        "scade",
+        "nu are efect"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-032",
+      "intrebare": "32) Densitatea protozoarelor în fluidul ruminal este de:",
+      "raspunsuri": [
+        "10²",
+        "10⁵",
+        "10⁹"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-033",
+      "intrebare": "33) Hormonii glucocorticosteroizi determină:",
+      "raspunsuri": [
+        "hiperglicemie",
+        "hipoglicemie",
+        "hiperpotasiemie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-034",
+      "intrebare": "34) Tripsininhibitorii din soia determină la păsări:",
+      "raspunsuri": [
+        "hiposecreție gastrică",
+        "hipersecreție pancreatică",
+        "golirea colecistului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-035",
+      "intrebare": "35) În procesul de coagularea sângelui sunt indispensabili ionii de:",
+      "raspunsuri": [
+        "Cl⁻",
+        "Ca²⁺",
+        "Mg²⁺"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-036",
+      "intrebare": "36) Produșii finali ai digestiei celulozei în rumen sunt:",
+      "raspunsuri": [
+        "monozaharidele",
+        "acizii grași (volatili) cu lanț scurt",
+        "acizii grași cu lanț lung"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-037",
+      "intrebare": "37) Potasiul prezent în urină provine prin:",
+      "raspunsuri": [
+        "ultrafiltrare glomerulară",
+        "secreție în tubul contort distal",
+        "secreție în ansa Henle"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-038",
+      "intrebare": "38) Izohidria este normală la pH:",
+      "raspunsuri": [
+        "7,7-7,9",
+        "6,8-7,1",
+        "7,3-7,4"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-039",
+      "intrebare": "39) Declanșarea senzației de sete are loc când pierderea din apa celulară este de:",
+      "raspunsuri": [
+        "0,1%",
+        "1%",
+        "5%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-040",
+      "intrebare": "40) Presiunea sângelui în capilarele pulmonare este de:",
+      "raspunsuri": [
+        "6-10 mmHg",
+        "15-20 mmHg",
+        "30-34 mmHg"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-041",
+      "intrebare": "41) Pulsul este o vibrație generată de:",
+      "raspunsuri": [
+        "închiderea valvulelor semilunare",
+        "șocul apexian",
+        "închiderea valvulelor atrio-ventriculare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-042",
+      "intrebare": "42) Presiunea sângelui în capilarele sistemice este de:",
+      "raspunsuri": [
+        "30-40 mmHg",
+        "15-25 mmHg",
+        "50-55 mmHg"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-043",
+      "intrebare": "43) Longevitatea eritrocitelor este în medie de:",
+      "raspunsuri": [
+        "30 zile",
+        "180 zile",
+        "100 zile"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-044",
+      "intrebare": "44) Sinteza vitaminelor din complexul B în rumen este în legătură cu digestia:",
+      "raspunsuri": [
+        "glucidelor",
+        "lipidelor",
+        "proteinelor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-045",
+      "intrebare": "45) Creșterea tensiunii superficiale a fluidului ruminal este generată de:",
+      "raspunsuri": [
+        "uree",
+        "pectine",
+        "amidon"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-046",
+      "intrebare": "46) pH-ul optim pentru digestia celulozei în rumen este de:",
+      "raspunsuri": [
+        "5,7-5,9",
+        "7,3-7,5",
+        "6,2-6,4"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-047",
+      "intrebare": "47) Care din următoarele soluții de NaCl este izotonă cu plasma sanguină:",
+      "raspunsuri": [
+        "0,6%",
+        "9⁰/₀₀",
+        "9%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-048",
+      "intrebare": "48) Calciul necesar contracției mușchiului cardiac provine din:",
+      "raspunsuri": [
+        "cisternele sarcoplasmatice",
+        "spațiul interstițial",
+        "din cisterne și interstițiu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-049",
+      "intrebare": "49) Una din proprietățile fundamentale ale miocardului este excitabilitatea; ea reprezintă funcția:",
+      "raspunsuri": [
+        "dromotropă",
+        "inotropă",
+        "batmotropă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-050",
+      "intrebare": "50) Pe electrocardiogramă unda T corespunde:",
+      "raspunsuri": [
+        "repolarizării ventriculare",
+        "sistolei electrice atrială",
+        "depolarizării ventriculului stâng"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-051",
+      "intrebare": "51) În tahicardie, în limite fiziologice debitul sistolic:",
+      "raspunsuri": [
+        "crește",
+        "scade",
+        "nu se modifică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-052",
+      "intrebare": "52) Comparativ cu animalele adulte din aceeași specie, la animalele tinere ritmul cardiac este:",
+      "raspunsuri": [
+        "mai mic",
+        "mai mare",
+        "la fel"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-053",
+      "intrebare": "53) Scăderea pH-ului sanguin are efect:",
+      "raspunsuri": [
+        "dromotrop negativ",
+        "inotrop negativ",
+        "cronotrop pozitiv"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-054",
+      "intrebare": "54) Presiunea hidrostatică a sângelui în capilarele pulmonare, comparativ cu capilarele arteriale este:",
+      "raspunsuri": [
+        "mai mare",
+        "mai mică",
+        "egală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-055",
+      "intrebare": "55) În sistemul cardiovascular sângele este repartizat neuniform, în vene reprezentând:",
+      "raspunsuri": [
+        "75%",
+        "5 %",
+        "20 %"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-056",
+      "intrebare": "56) Pe sfigmogramă se distinge unda dicrotă, ea fiind generată de:",
+      "raspunsuri": [
+        "închiderea valvulelor semilunare",
+        "închiderea valvulelor atrioventriculare",
+        "șocul apexian"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-057",
+      "intrebare": "57) Nervii simpatici vasodilatatori se distribuie vaselor:",
+      "raspunsuri": [
+        "mezenterice",
+        "pulmonare",
+        "mușchilor striați"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-058",
+      "intrebare": "58) CO2 determină la nivel vascular:",
+      "raspunsuri": [
+        "vasodilatație",
+        "vasoconstricție",
+        "nu are efect"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-059",
+      "intrebare": "59) Fenomenul Hamburger direct descrie schimburile gazoase la nivel:",
+      "raspunsuri": [
+        "pulmonar",
+        "tisular",
+        "mitocondrial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-060",
+      "intrebare": "60) Drenarea plasmei interstițiale se realizează preponderent pe cale:",
+      "raspunsuri": [
+        "limfatică",
+        "sanguină",
+        "intestinală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-061",
+      "intrebare": "61) În transfuziile mari sunt importanți:",
+      "raspunsuri": [
+        "aglutinogenii",
+        "aglutininele",
+        "trombocitele"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-062",
+      "intrebare": "62) Factorii plasmatici ai coagulării sângelui sunt identici cu cei trombocitari:",
+      "raspunsuri": [
+        "da",
+        "nu",
+        "parțial"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-063",
+      "intrebare": "63) Presiunea osmotică medie a sângelui este de:",
+      "raspunsuri": [
+        "290-310 mOsm/l",
+        "380-400 mOsm/l",
+        "200-230 mOsm/l"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-064",
+      "intrebare": "64) Ponderea repartiției puterii tampon în sânge este dată de:",
+      "raspunsuri": [
+        "hemoglobină",
+        "bicarbonați",
+        "proteinați"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-065",
+      "intrebare": "65) La nivelul glandelor fundice gastrice, histamina determină:",
+      "raspunsuri": [
+        "hipersecreție de HCl",
+        "hiposecreție de mucus",
+        "hioposecreție de pepsinogen"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-066",
+      "intrebare": "66) Secreția pancreatică hidraletică este stimulată de:",
+      "raspunsuri": [
+        "ionii de clor",
+        "amidon",
+        "acizii grași"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-067",
+      "intrebare": "67) Acizii biliari favorizează absorbția acizilor grași în:",
+      "raspunsuri": [
+        "duoden",
+        "jejun",
+        "ileon"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-068",
+      "intrebare": "68) În colon, flora patogenă este favorizată de fermentația:",
+      "raspunsuri": [
+        "proteinelor",
+        "glucidelor",
+        "lipidelor"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-069",
+      "intrebare": "69) Absorbția acizilor grași volatili (AGV) la rumegătoare se realizează preponderent în:",
+      "raspunsuri": [
+        "rumen",
+        "cheag",
+        "intestinul subțire"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-070",
+      "intrebare": "70) Hormonul antidiuretic (ADH) este lansat în circulația sanguină de către:",
+      "raspunsuri": [
+        "medulosuprarenală",
+        "zona glomerulată a corticosuprarenalei",
+        "neurohipofiză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-071",
+      "intrebare": "71) Calcitonina este secretată de:",
+      "raspunsuri": [
+        "paratiroide",
+        "suprarenale",
+        "tiroidă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-072",
+      "intrebare": "72) Secreția de parathormon este stimulată de:",
+      "raspunsuri": [
+        "hiperglicemie",
+        "hipocalcemie",
+        "hiperfosforemie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-073",
+      "intrebare": "73) Transformarea 25-colecalciferolului în 1,25 dihidrocolecalciferol are loc în:",
+      "raspunsuri": [
+        "rinichi",
+        "ficat",
+        "piele"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-074",
+      "intrebare": "74) Hormonii glucocorticosteroizi produc hiperglicemie prin:",
+      "raspunsuri": [
+        "glicogenoliză",
+        "degradarea acizilor grași",
+        "degradarea aminoacizilor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-075",
+      "intrebare": "75) Controlul homeostatic al nivelului tisular de sodiu are loc la nivel:",
+      "raspunsuri": [
+        "renal",
+        "hepatic",
+        "intestinal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-076",
+      "intrebare": "76) Controlul homeostatic al nivelului tisular de fier are loc la nivel:",
+      "raspunsuri": [
+        "renal",
+        "splenic",
+        "intestinal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-077",
+      "intrebare": "77) Glanda mamară nu protejează laptele față de secreția de:",
+      "raspunsuri": [
+        "cadmiu",
+        "plumb",
+        "zinc"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-078",
+      "intrebare": "78) Formarea de corpi cetonici este favorizată de:",
+      "raspunsuri": [
+        "hiperlipemie",
+        "hipoproteinemie",
+        "hipoglicemie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-079",
+      "intrebare": "79) Sensibilitatea gustativă la păsări este mai redusă pentru gustul:",
+      "raspunsuri": [
+        "sărat",
+        "amar",
+        "acru"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-080",
+      "intrebare": "80) Centrul reflex al setei se găsește în:",
+      "raspunsuri": [
+        "bulbul rahidian",
+        "talamus",
+        "hipotalamus"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-081",
+      "intrebare": "81) Masticația stimulează preponderent secreția glandelor:",
+      "raspunsuri": [
+        "mandibulare",
+        "sublinguale",
+        "parotide"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-082",
+      "intrebare": "82) Sfincterul alb intern al vezicii urinare este sub control:",
+      "raspunsuri": [
+        "vegetativ",
+        "somatic",
+        "metasimpatic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-083",
+      "intrebare": "83) Efectul cronotrop pozitiv cardiac semnifică:",
+      "raspunsuri": [
+        "acreșterea ritmului cardiac",
+        "bscăderea tonusului cardiac",
+        "creșterea excitabilității cordului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-084",
+      "intrebare": "84) Xilina aplicată pe nervi blochează canalele ionice de",
+      "raspunsuri": [
+        "Ca²⁺",
+        "Na⁺",
+        "K+"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-085",
+      "intrebare": "85) Mediația chimică în sinapsele preganglionare simpatice este de tip:",
+      "raspunsuri": [
+        "adrenergic",
+        "colinergic",
+        "purinergic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-086",
+      "intrebare": "86) Mediația chimică în placa motorie este realizată de:",
+      "raspunsuri": [
+        "atropină",
+        "adrenalină",
+        "acetilcolină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-087",
+      "intrebare": "87) La iepure, transferul de imunoglobuline se realizează",
+      "raspunsuri": [
+        "transplacentar",
+        "prin colostru",
+        "ambele căi"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-088",
+      "intrebare": "88) Blocarea absorbției imunoglobulinelor la nou-născuți se realizează prin factori",
+      "raspunsuri": [
+        "sanguini ai nou-născutului",
+        "colostrali",
+        "din epiteliul intestinal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-089",
+      "intrebare": "89) Pe electrocardiogramă, complexul QRS corespunde:",
+      "raspunsuri": [
+        "repolarizării ventriculare",
+        "depolarizării atriale",
+        "depolarizării ventriculare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-090",
+      "intrebare": "90) Comparativ cu capilarul sistemic raza capilarului pulmonar este:",
+      "raspunsuri": [
+        "egală",
+        "mai mică",
+        "mai mare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-091",
+      "intrebare": "91) Din cantitatea de vitamine ale complexului B sintetizate în rumen, organismul utilizează",
+      "raspunsuri": [
+        "sub 10%",
+        "între 40-50%",
+        "peste 80%"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-092",
+      "intrebare": "92) Care dintre următoarele organe este lipsit de sensibilitate dureroasă:",
+      "raspunsuri": [
+        "meningele",
+        "creierul",
+        "periostul"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-093",
+      "intrebare": "93) Parabioza este o tulburare a",
+      "raspunsuri": [
+        "metabolismului energetic",
+        "conductibilității fibrelor nervoase",
+        "echilibrului simbiontic ruminal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-094",
+      "intrebare": "94) Cazeina, principala proteină din lapte, este sintetizată:",
+      "raspunsuri": [
+        "în ficat",
+        "în glanda mamară",
+        "în ficat și glanda mamară"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-095",
+      "intrebare": "95) Conținutul în substanță uscată din lapte este dependent mai ales de cantitatea de:",
+      "raspunsuri": [
+        "lactoză din lapte",
+        "proteină din hrană",
+        "grăsime din lapte"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-096",
+      "intrebare": "96) Senzația de foame generală este declanșată de deficitul alimentar",
+      "raspunsuri": [
+        "proteic",
+        "mineral",
+        "energetic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-097",
+      "intrebare": "97) Anorexia se definește ca absența apetenței pe fond",
+      "raspunsuri": [
+        "normoenergetic și plastic",
+        "de deficit energetic și plastic",
+        "de excedent energetic și plastic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-098",
+      "intrebare": "98) Calcitonina este secretată de",
+      "raspunsuri": [
+        "paratiroidă",
+        "tiroidă",
+        "timus"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-099",
+      "intrebare": "99) ACTH, la nivel de suprarenală are receptori în zona:",
+      "raspunsuri": [
+        "glomerulară",
+        "fasciculată",
+        "reticulată"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-100",
+      "intrebare": "100) Pe electrocardiogramă unda T corespunde:",
+      "raspunsuri": [
+        "depolarizării ventriculare",
+        "depolarizării atriale",
+        "repolarizării ventriculare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-101",
+      "intrebare": "101) Excitațiile parasimpatice produc:",
+      "raspunsuri": [
+        "mioza",
+        "miază",
+        "midriaza"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-102",
+      "intrebare": "102) Excitațiile simpatice produc:",
+      "raspunsuri": [
+        "mioza",
+        "miază",
+        "midriaza"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-103",
+      "intrebare": "103) În retină, zona cu cea mai mare densitate de celule fotosensibile este:",
+      "raspunsuri": [
+        "pata oarbă",
+        "ora serrata",
+        "pata galbena"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-104",
+      "intrebare": "104) Senzațiile vizuale se elaborează în cortexul vizual, situat în:",
+      "raspunsuri": [
+        "lobul temporal",
+        "lobul frontal",
+        "lobul occipital"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-105",
+      "intrebare": "105) Vederea fotopică (diurnă) este:",
+      "raspunsuri": [
+        "clară, cu imagini colorate și cu contur net",
+        "difuză, cu contururi neclare și noncromatică",
+        "difuză, noncromatică și cu contur net"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-106",
+      "intrebare": "106) În condiții de anaerobioză, mușchii pot folosi ca substrat energetic:",
+      "raspunsuri": [
+        "glucoză",
+        "glucoză și lipide",
+        "lipide"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-107",
+      "intrebare": "107) Contracția susținută a fibrelor musculare striate, ca răspuns la acțiunea repetată a stimulilor cu frecvență mare se numește:",
+      "raspunsuri": [
+        "secusă",
+        "tetanos",
+        "sarcomer"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-108",
+      "intrebare": "108) Care dintre afirmațiile următoare referitoare la mușchii netezi multiunitari este falsă:",
+      "raspunsuri": [
+        "sunt organizați în unități motorii asemănătoare celor din mușchii",
+        "execută contracții grosiere",
+        "sunt reprezentați de mușchii oscioarelor din urechea medie, mușchii irisului, mușchii ciliari, mușchii piloerectori și mușchii netezi din unele vase mari"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-109",
+      "intrebare": "109) Excitabilitatea mușchilor netezi este:",
+      "raspunsuri": [
+        "inferioară celei a mușchilor striați",
+        "superioară celei a mușchilor striați",
+        "nu pot fi comparate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-110",
+      "intrebare": "110) Care dintre afirmațiile următoare referitoare la oboseala musculară propriu-zisă este falsă:",
+      "raspunsuri": [
+        "are drept cauză epuizarea rezervelor energetice și de oxigen din mușchi",
+        "degradarea anaerobă a glucozei duce la scăderea pH-ului muscular",
+        "nu este reversibilă prin repaus"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-111",
+      "intrebare": "111) Volumul inspirator de rezervă este:",
+      "raspunsuri": [
+        "volumul de aer care rămâne în pulmoni după o expirație eupneică",
+        "volumul de aer care intră în pulmoni după o inspirație eupneică, prin inspirație forțată",
+        "volumul de aer care intră în pulmoni în inspirația eupneică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-112",
+      "intrebare": "112) Volumul maxim de aer care poate intra și ieși din pulmoni se numește:",
+      "raspunsuri": [
+        "volumul respirator curent",
+        "capacitate pulmonară totală",
+        "capacitate vitală a pulmonilor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-113",
+      "intrebare": "113) Pleura asigură:",
+      "raspunsuri": [
+        "aderența funcțională a pulmonilor la pereții cutiei toracice",
+        "aderența morfologică a pulmonilor la pereții cutiei toracice",
+        "aderența morfologică și funcțională a pulmonilor la pereții cutiei toracice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-114",
+      "intrebare": "114) Numărul ciclurilor respiratorii înregistrate pe minut constituie:",
+      "raspunsuri": [
+        "debitul respirator",
+        "ritmul respirator",
+        "volumul respirator"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-115",
+      "intrebare": "115) Polipneea termică este un mecanism de:",
+      "raspunsuri": [
+        "termogeneză",
+        "termoliză",
+        "nu are rol în termoreglare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-116",
+      "intrebare": "116) Rinichiul secretă:",
+      "raspunsuri": [
+        "renină, eritropoietină, parathormon, kinine biogene",
+        "renină, eritropoietină, prostaglandine, kinine biogene",
+        "renină, hormon antidiuretic, prostaglandine, kinine biogene"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-117",
+      "intrebare": "117) Formarea urinii primare depinde de presiunea eficace de filtrare a cărei valoare este de:",
+      "raspunsuri": [
+        "100-200 mm Hg",
+        "3 – 4 mm Hg",
+        "30-40 mm Hg"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-118",
+      "intrebare": "118) Reabsorbția tubulară reprezintă:",
+      "raspunsuri": [
+        "procesul de recuperare a unor constituenți din urina primară, prin trecerea lor în torentul sanguin",
+        "mecanismul prin care se realizează îndepărtarea principalilor produși toxici din plasmă",
+        "ambele variante"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-119",
+      "intrebare": "119) Osmolaritatea urinii finale este variabilă în funcție de:",
+      "raspunsuri": [
+        "necesarul proteine al organismului",
+        "necesarul de apă și electroliți al organismului",
+        "necesarul de lipide al organismului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "fiz-120",
+      "intrebare": "120) În procesul de formare al urinii, reabsorbția facultativă a apei este sub controlul:",
+      "raspunsuri": [
+        "parathormonului",
+        "hormonului antidiuretic",
+        "insulinei"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    }
+  ]
+}
