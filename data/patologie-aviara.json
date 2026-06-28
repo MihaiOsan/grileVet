@@ -1,0 +1,830 @@
+{
+  "materie": "Clinica și Patologia Aviară",
+  "intrebari": [
+    {
+      "id": "cpa-001",
+      "intrebare": "1) Agentul etiologic în streptococie la porumbei este:",
+      "raspunsuri": [
+        "Streptococcus zooepidemicus;",
+        "Streptococcus avium;",
+        "Streptococcus bovis."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-002",
+      "intrebare": "2) Agentul etiologic în streptococie la gâște este:",
+      "raspunsuri": [
+        "Streptococcus zooepidemicus;",
+        "Streptococcus mutans;",
+        "Streptococcus pleomorphus."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-003",
+      "intrebare": "3) În infecțiile cu reovirusuri la păsări întâlnim:",
+      "raspunsuri": [
+        "Rinotraheită la curci;",
+        "Sindromul capului tumefiat la găini;",
+        "Un sindrom de malabsorbție și un sindrom de artrită tenosinovită."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-004",
+      "intrebare": "4) În infecțiile cu reovirusuri imunoprofilaxia se bazează pe folosirea:",
+      "raspunsuri": [
+        "Numai a vaccinurilor vii;",
+        "Numai a vaccinurilor inactivate;",
+        "Atât a vaccinurilor vii cât și a vaccinurilor inactivate."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-005",
+      "intrebare": "5) În infecțiile cu pneumovirus semnele clinice constau în:",
+      "raspunsuri": [
+        "Rinotraheită la curci și sindromul capului tumefiat la găini;",
+        "Sindromul de malabsorbție;",
+        "Artrită tenosinovită virală."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-006",
+      "intrebare": "6) Sindromul căderii ouatului este produs de:",
+      "raspunsuri": [
+        "Picornavirus;",
+        "Adenovirus;",
+        "Reovirus"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-007",
+      "intrebare": "7) În sindromul căderii ouatului tabloul clinic constă:",
+      "raspunsuri": [
+        "În scăderea producției de ouă și a greutății corporale;",
+        "În tulburări calitative și cantitative ale producției de ouă;",
+        "Producția totală de ouă este nemodificată, doar albușul devine apos."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-008",
+      "intrebare": "8) În sindromul căderii ouatului imunoprofilaxia se realizează :",
+      "raspunsuri": [
+        "Numai cu vaccinuri vii;",
+        "Numai cu vaccinuri inactivate;",
+        "Atât cu vaccinuri vii cât și cu vaccinuri inactivate."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-009",
+      "intrebare": "9) Boala splinei marmorate este produsă de:",
+      "raspunsuri": [
+        "Adenovirus;",
+        "Picornavirus;",
+        "Reovirus"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-010",
+      "intrebare": "10) Boala splinei marmorate apare de obicei:",
+      "raspunsuri": [
+        "Sezonier, în lunile august-septembrie;",
+        "Sezonier, la începutul primăverii;",
+        "Indiferent de sezon și de vârsta păsărilor."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-011",
+      "intrebare": "11) Boala Derzsy are ca agent etiologic:",
+      "raspunsuri": [
+        "Bacteria Haemophilus suis;",
+        "Un virus din familia Arboviridae;",
+        "Un virus din familia Parvoviridae."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-012",
+      "intrebare": "12) Leucozele aviare evoluează la păsări:",
+      "raspunsuri": [
+        "De obicei sub vârsta de 3 luni;",
+        "De obicei peste vârsta de 4 luni.",
+        "Indiferent de vârstă."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-013",
+      "intrebare": "13) În leucozele aviare la examenul histologic al organelor parenchimatoase de obicei întâlnim:",
+      "raspunsuri": [
+        "Polimorfism celular;",
+        "Monomorfism celular;",
+        "Toate tipurile de celule sunt modificate, în sensul că își măresc mult volumul."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-014",
+      "intrebare": "14) Formele leucemice de leucoze aviare constau în:",
+      "raspunsuri": [
+        "Numai modificări ale celulelor serie albe a sângelui;",
+        "Modificări ale elementelor figurate ale sângelui;",
+        "Modificarea numărului total de leucocite."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-015",
+      "intrebare": "15) În leucozele aviare profilaxia constă în:",
+      "raspunsuri": [
+        "Utilizarea de vaccinuri vii;",
+        "Utilizarea de vaccinuri inactivate;",
+        "Respectarea măsurilor generale privind introducerea bolilor infecțioase, deoarece nu există vaccinuri."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-016",
+      "intrebare": "16) Laringotraheita infecțioasă aviară este produsă de un virus din familia:",
+      "raspunsuri": [
+        "Coronaviridae;",
+        "Picornaviridae;",
+        "Herpesviridae"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-017",
+      "intrebare": "17) Laringotraheita infecțioasă aviară evoluează clinic sub următoarele forme:",
+      "raspunsuri": [
+        "Acută (hemoragică), subacută (catarală), cronică (difteroidă);",
+        "Sub o formă respiratorie, la pui în primele zile de viață, și tulburări de ouat, la adulte;",
+        "Numai la pui prin tulburări respiratorii (laringită și traheită)."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-018",
+      "intrebare": "18) Laringotraheita infecțioasă aviară evoluează mai frecvent:",
+      "raspunsuri": [
+        "În intervalul 1-3 săptămâni de viață;",
+        "În intervalul 29-31 săptămâni de viață, la găinile care produc ouă pigmentate;",
+        "În intervalul 4-8 luni de viață."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-019",
+      "intrebare": "19) În laringotraheita infecțioasă aviară profilaxia constă în:",
+      "raspunsuri": [
+        "Utilizarea de vaccinuri vii;",
+        "Utilizarea de vaccinuri inactivate;",
+        "Respectarea măsurilor generale privind introducerea bolilor infecțioase, deoarece nu există vaccinuri."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-020",
+      "intrebare": "20) În anemia infecțioasă virală a puilor de găină, modificările hematologice considerate caracteristice sunt:",
+      "raspunsuri": [
+        "Apariția de forme imature de eritrocite granulocite și trombocite.",
+        "Scăderea numărului de eritrocite, a hemoglobinei și hematocritului;",
+        "Sângele apos și plasma incoloră;"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-021",
+      "intrebare": "21) În anemia infecțioasă a puilor de găină profilaxia constă în:",
+      "raspunsuri": [
+        "Utilizarea de vaccinuri vii atenuate;",
+        "Utilizarea de vaccinuri inactivate;",
+        "Respectarea măsurilor generale privind introducerea bolilor infecțioase, deoarece nu există vaccinuri."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-022",
+      "intrebare": "22) Diagnosticul de hepatita vibrionică aviară se confirmă prin:",
+      "raspunsuri": [
+        "Examen histopatologic;",
+        "Examen virusologic;",
+        "Examen bacteriologic."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-023",
+      "intrebare": "23) În focarele de boală (Hepatita virotică a bobocilor de rață) conduita terapeutică se bazează pe:",
+      "raspunsuri": [
+        "Suplimentarea rației cu aminoacizi și vitamine;",
+        "Administrarea de antibiotice cu spectru larg și vitaminizări repetate;",
+        "Nu se fac tratamente curativo-profilactice."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-024",
+      "intrebare": "24) Bronșita infecțioasă aviară este produsă de un virus din familia:",
+      "raspunsuri": [
+        "Coronaviridae;",
+        "Picornaviridae;",
+        "Herpesviridae"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-025",
+      "intrebare": "25) Bronșita infecțioasă aviară evoluează clinic sub următoarele forme:",
+      "raspunsuri": [
+        "Acută (hemoragică), subacută (catarală), cronică (difteroidă);",
+        "Sub o formă respiratorie, la pui în primele zile de viață, și tulburări de ouat, la adulte;",
+        "Numai la pui prin tulburări respiratorii (laringită și traheită)."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-026",
+      "intrebare": "26) În bronșita infecțioasă aviară semnele clinice constau:",
+      "raspunsuri": [
+        "Numai în tulburări respiratorii;",
+        "Tulburări respiratorii și perturbarea producției de ouă;",
+        "Numai în prezența unor raluri, ce se aud dacă este liniște în hală."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-027",
+      "intrebare": "27) În bronșita infecțioasă aviară imunoprofilaxia se realizează:",
+      "raspunsuri": [
+        "Numai cu vaccinuri vii;",
+        "Numai cu vaccinuri inactivate;",
+        "Atât cu vaccinuri vii cât și cu vaccinuri inactivate."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-028",
+      "intrebare": "28) În spirochetoza aviară diagnosticul poate fi precizat:",
+      "raspunsuri": [
+        "Numai pe baza semnelor clinice;",
+        "Numai pe baza leziunilor morfopatologice;",
+        "Pe baza leziunilor morfopatologice și a prezenței căpușilor sau a larvelor de căpușe."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-029",
+      "intrebare": "29) În profilaxia spirochetozei aviare sunt importante:",
+      "raspunsuri": [
+        "Măsurile de imunoprofilaxie;",
+        "Măsurile de profilaxie generală asociate obligatoriu cu măsurile de imunoprofilaxie.",
+        "Măsurile de profilaxie generală care urmăresc păstrarea indemnității efectivelor (se referă atât la boală cât și la prezența căpușelor)."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-030",
+      "intrebare": "30) Bursita infecțioasă aviară afectează:",
+      "raspunsuri": [
+        "De obicei puii de găină cu vârsta între 3-6 săptămâni;",
+        "Găinile indiferent de vârstă;",
+        "Tineretul de înlocuire cu 3 săptămâni înainte de a se declanșa ouatul."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-031",
+      "intrebare": "31) Leziunile macroscopice mai importante întâlnite în bursita infecțioasă aviară sunt:",
+      "raspunsuri": [
+        "Hepatită miliară necrotică, bursită hemoragică, hemoragii pe seroase;",
+        "Inflamația bursei lui Fabricius, hemoragii musculare, distrofii renale cu depozite de acid uric și urați;",
+        "Hemoragii musculare, distrofii renale, bursa lui Fabricius este nemodificată"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-032",
+      "intrebare": "32) În imunoprofilaxia bursitei infecțioase aviare la puii de carne se folosesc:",
+      "raspunsuri": [
+        "Numai vaccinuri vii atenuate;",
+        "Numai vaccinuri inactivate;",
+        "Atât vaccinuri vii cât și vaccinuri inactivate."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-033",
+      "intrebare": "33) În imunoprofilaxia bursitei infecțioase aviare la tineretul de înlocuire se folosesc:",
+      "raspunsuri": [
+        "Numai vaccinuri vii atenuate;",
+        "Numai vaccinuri inactivate;",
+        "Atât vaccinuri vii cât și vaccinuri inactivate."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-034",
+      "intrebare": "34) La puii de carne, în practica largă, succesiunea vaccinărilor este:",
+      "raspunsuri": [
+        "Vaccinare antibursitică, vaccinare antipseudopestoasă și vaccinare antibursitică.",
+        "Vaccinare antipseudopestoasă, vaccinare antibursitică și vaccinare antipseudopestoasă.",
+        "Succesiunea vaccinărilor este impusă de stocul de vaccinuri existent în fermă."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-035",
+      "intrebare": "35) În care din bolile păsărilor întâlnim exsudat fibrinocazeos în laringe.",
+      "raspunsuri": [
+        "În difterovariolă, laringotraheită, avitaminoza A și micoplasmoză;",
+        "În difterovariolă, boala de Newcastle și bronșită;",
+        "În bronșită, bursită, EDS și leucoza aviară."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-036",
+      "intrebare": "36) Encefalomielita infecțioasă aviară poate fi prevenită utilizând:",
+      "raspunsuri": [
+        "Numai vaccinuri inactivate;",
+        "Atât vaccinuri vii cât și vaccinuri inactivate.",
+        "Numai vaccinuri vii atenuate;"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-037",
+      "intrebare": "37) Diagnosticul retrospectiv de micoplasmoză respiratorie aviară la păsările în viață poate fi stabilit prin:",
+      "raspunsuri": [
+        "examen bacteriologic;",
+        "examen serologic(reacția de aglutinare rapidă pe lamă);",
+        "examen morfopatologic."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-038",
+      "intrebare": "38) În tratamentul micoplasmozei respiratorii aviare se pot folosi:",
+      "raspunsuri": [
+        "Antibiotice din grupa penicilinelor;",
+        "Chimioterapice din grupa quinolonelor (enrofloxacin, norflox);",
+        "Antibiotice din grupa macrolidelor (eritromicină, tilozină)."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-039",
+      "intrebare": "39) În imunoprofilaxia difterovariolei aviare se vor folosi:",
+      "raspunsuri": [
+        "Numai vaccinuri inactivate;",
+        "Atât vaccinuri vii cât și vaccinuri inactivate.",
+        "Numai vaccinuri vii atenuate;"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-040",
+      "intrebare": "40) Imunoprofilaxia difterovariolei aviare se poate face:",
+      "raspunsuri": [
+        "Numai individual;",
+        "Numai colectiv;",
+        "Atât individual, cât și colectiv, prin administrarea vaccinului în apa de băut sau aerosoli."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-041",
+      "intrebare": "41) În tratamentul difterovariolei aviare din fermele cu peste 5000 de păsări se vor folosi:",
+      "raspunsuri": [
+        "Antibiotice pentru prevenirea complicațiilor bacteriene, precum și aminoacizi și vitamine pentru creșterea rezistenței generale;",
+        "Nu se vor face tratamente în masă, ci numai tratamente individuale;",
+        "Sunt suficiente măsurile de profilaxie generală nespecifică, nefiind necesară intervenția medicamentoasă."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-042",
+      "intrebare": "42) Pentru diagnosticul colisepticemiei aviare sunt necesare:",
+      "raspunsuri": [
+        "Examene necropsice și bacteriologice;",
+        "Examene clinice și necropsice;",
+        "Examene epidemiologice și necropsice."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-043",
+      "intrebare": "43) În tratamentul colisepticemiei aviare se vor folosi:",
+      "raspunsuri": [
+        "Antibiotice din grupa penicilinelor;",
+        "Chimioterapice din grupa quinolonelor (enrofloxacin, norflox);",
+        "Antimicrobiene rezultate în urma efectuării antibiograme."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-044",
+      "intrebare": "44) Pseudopesta aviară (boală cuprinsă în lista A a OIE) este declarabilă și urmare a prezenței ei:",
+      "raspunsuri": [
+        "Se instituie carantină de gradul I;",
+        "Se instituie carantină de gradul II;",
+        "Boala nu este carantinabilă, deoarece beneficiază de imunoprofilaxie."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-045",
+      "intrebare": "45) În combaterea pseudopestei aviare în fermele cu peste 5000 de păsări se vor folosi:",
+      "raspunsuri": [
+        "Antibiotice pentru prevenirea complicațiilor bacteriene, precum și aminoacizi și vitamine pentru creșterea rezistenței generale;",
+        "Sunt necesare măsuri de profilaxie generală nespecifică, asociate cu medicamente din import.",
+        "Nu se vor face tratamente;"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-046",
+      "intrebare": "46) Păsările de curte fac boală (tuberculoză) cu următoarele tipuri de bacili tuberculoși:",
+      "raspunsuri": [
+        "Tipul aviar;",
+        "Tipul aviar, bovin și uman;",
+        "Tipul uman."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-047",
+      "intrebare": "47) Salmonelele care infectează păsările și produc boli declarabile sunt germeni:",
+      "raspunsuri": [
+        "cocobacilari, Gram negativi, imobili;",
+        "cocobacilari, Gram negativi, mobili;",
+        "cocobacilari, Gram pozitivi, mobili."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-048",
+      "intrebare": "48) În tifopuloroză la păsări se folosesc:",
+      "raspunsuri": [
+        "vaccinuri inactivate;",
+        "vaccinuri vii atenuate;",
+        "atât vaccinuri vii cât și vaccinuri inactivate."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-049",
+      "intrebare": "49) La cadavrele de păsări, la care se suspectează diagnosticul de salmoneloză, confirmarea se face prin:",
+      "raspunsuri": [
+        "examen bacterioscopic;",
+        "examen bacteriologic și serologic (seroaglutinare rapidă pe lamă);",
+        "examen bacterioscopic și bacteriologic."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-050",
+      "intrebare": "50) Retrospectiv, diagnosticul de salmoneloză la păsările în viață, se confirmă de regulă prin:",
+      "raspunsuri": [
+        "examen bacteriologic;",
+        "examen serologic(reacția de aglutinare rapidă pe lamă);",
+        "prin coprocultură."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-051",
+      "intrebare": "51) Retrospectiv, diagnosticul de borelioză la păsările în viață, se confirmă prin:",
+      "raspunsuri": [
+        "examen alergic;",
+        "examen serologic (prin reacția de aglutinare lentă în tuburi, prin precipitarea în gel de agar, imunofluorescență indirectă);",
+        "prin coprocultură."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-052",
+      "intrebare": "52) În borelioză la păsări principalele surse de infecție sunt reprezentate de:",
+      "raspunsuri": [
+        "porumbeii voiajori;",
+        "păsările trecute prin boală;",
+        "păsările bolnave și căpușele vectori și gazde intermediare."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-053",
+      "intrebare": "53) Pe parcursul unui an, de obicei, primele cazuri de borelioză apar în perioada:",
+      "raspunsuri": [
+        "ianuarie-februarie;",
+        "mai-iunie, ulterior frecvența crește fiind maximă în intervalul iulie-august;",
+        "septembrie-octombrie."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-054",
+      "intrebare": "54) În borelioză la păsări organele interne mai frecvent afectate sunt:",
+      "raspunsuri": [
+        "bursa lui Fabricius și cordul;",
+        "cordul și pulmonul;",
+        "splina și ficatul."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-055",
+      "intrebare": "55) La păsări, în borelioză, boreliile sunt prezente în sânge:",
+      "raspunsuri": [
+        "pe toată durata evolutivă a bolii;",
+        "pe perioada febrilă a bolii;",
+        "numai în prima zi, de la debut a bolii."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-056",
+      "intrebare": "56) Imunoprofilaxia boreliozei la păsări se face:",
+      "raspunsuri": [
+        "obligatoriu și se execută în fiecare primăvară;",
+        "obligatoriu și se execută atât primăvară cât și toamna;",
+        "numai de necesitate și se execută doar în zonele în care boala apare anual."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-057",
+      "intrebare": "57) Tratamentul în borelioză la păsări se face:",
+      "raspunsuri": [
+        "prin asocierea antibioterapiei cu tratamentul antiparazitar extern;",
+        "numai prin antibioterapie;",
+        "numai prin tratament antiparazitar extern."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-058",
+      "intrebare": "58) Clinic influența aviară la găini este produsă de :",
+      "raspunsuri": [
+        "Influenzavirus, tipul A, HPAI;",
+        "Influenzavirus, tipul A, LPAI;",
+        "Influenzavirus, tipul A, HPAI și LPAI."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-059",
+      "intrebare": "59) Dinamica epidemiologică a influenței aviare este:",
+      "raspunsuri": [
+        "sporadică;",
+        "sporadico-enzootică;",
+        "enzootico-panzootică."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-060",
+      "intrebare": "60) Testul ELISA în bronșita infecțioasă aviară se folosesc pentru:",
+      "raspunsuri": [
+        "supravegherea epidemiologică a găinilor de reproducție;",
+        "evaluarea răspunsului vaccinal, la pui și găinile ouătoare;",
+        "pentru monitorizarea circulației virusului în efectivele indemne."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-061",
+      "intrebare": "61) În bronșita infecțioasă aviară pentru vaccinul viu multe țări acceptă:",
+      "raspunsuri": [
+        "numai tipul Massachusetts;",
+        "numai tipul Connecticut;",
+        "atât tipul Massachusetts cât și tipul Connecticut."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-062",
+      "intrebare": "62) Bursita infecțioasă aviară este produsă de:",
+      "raspunsuri": [
+        "Coronavirus;",
+        "Herpesvirus;",
+        "Birnavirus."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-063",
+      "intrebare": "63) Pentru prevenirea bursitei infecțioase aviare, la găinile crescute pentru ouă consum, la transfer:",
+      "raspunsuri": [
+        "se fac vaccinări cu vaccinuri vii;",
+        "se fac vaccinări cu vaccinuri inactivate polivalente;",
+        "nu se fac vaccinări."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-064",
+      "intrebare": "64) Encefalomielita infecțioasă aviară este mai frecventă la:",
+      "raspunsuri": [
+        "tineretul sub vârsta de 3 săptămâni;",
+        "tineretul peste vârsta de 3 săptămâni;",
+        "numai la păsările adulte."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-065",
+      "intrebare": "65) În encefalomielita infecțioasă aviară, macroscopic, la pui:",
+      "raspunsuri": [
+        "principala leziune este localizată în musculatura stomacului muscular;",
+        "principala leziune este localizată în encefal;",
+        "principala leziune este localizată în măduva spinării."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-066",
+      "intrebare": "66) În encefalomielita infecțioasă aviară, macroscopic, la păsări adulte supraviețuitoare unor infecții care au avut loc în primele zile de viață:",
+      "raspunsuri": [
+        "se pot constata leziuni în encefal și măduva spinării;",
+        "se pot constata leziuni în musculatura stomacului muscular;",
+        "se pot constata leziuni de cataractă."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-067",
+      "intrebare": "67) Gazde naturale ale virusului EDS sunt:",
+      "raspunsuri": [
+        "puii de găină;",
+        "găinile adulte;",
+        "rațele și gâștele."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-068",
+      "intrebare": "68) La găini, pentru infecția cu virusul EDS cele mai importante surse de infecție sunt:",
+      "raspunsuri": [
+        "ouăle embrionate infectate;",
+        "găinile adulte;",
+        "rațele și gâștele."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-069",
+      "intrebare": "69) În sindromul de malabsorbție cele mai importante leziuni sunt:",
+      "raspunsuri": [
+        "atrofia musculară și prezența de gaze în intestin;",
+        "necroza capului femural, fracturi la nivelul gâtului femural, proventriculul este voluminos;",
+        "distrofii pluriorganice."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-070",
+      "intrebare": "70) La infecția cu reovirusurile aviare cele mai receptive sunt:",
+      "raspunsuri": [
+        "palmipedele;",
+        "găinile și curcile;",
+        "găinile, curcile și gâștele."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-071",
+      "intrebare": "71) Pesta rațelor este produsă de:",
+      "raspunsuri": [
+        "Picornavirus;",
+        "Adenovirus;",
+        "Herpesvirus."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-072",
+      "intrebare": "72) Clinic în pesta rațelor la efectivul matcă se constată:",
+      "raspunsuri": [
+        "scăderea accentuată a producției de ouă;",
+        "manifestări generale grave, urmate de mortalitate ridicată;",
+        "febră și inapetență."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-073",
+      "intrebare": "73) În hepatita bobocilor de rață, mortalitatea în prima săptămână este de:",
+      "raspunsuri": [
+        "100%;",
+        "95%;",
+        "50%."
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-074",
+      "intrebare": "74) În hepatita bobocilor de rață, bobocii mor:",
+      "raspunsuri": [
+        "îngrămădiți spre sursele de căldură;",
+        "ca urmare a unor manifestări generale grave;",
+        "cu capul în opistotonus și membrele în extensie."
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpa-075",
+      "intrebare": "75) Hepatita bobocilor de rață este produsă de:",
+      "raspunsuri": [
+        "Picornavirus;",
+        "Adenovirus;",
+        "Herpesvirus."
+      ],
+      "corect": "a",
+      "explicatie": ""
+    }
+  ]
+}
