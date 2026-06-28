@@ -1,0 +1,774 @@
+{
+  "materie": "Clinică și Patologia Bovină",
+  "intrebari": [
+    {
+      "id": "cpb-001",
+      "intrebare": "1) La bovine, în cazul stomatitei papulomatoase se constată:",
+      "raspunsuri": [
+        "prezența de leziuni maculo-papuloase la nivelul mucoasei cavității bucale",
+        "prezența de leziuni congestive la nivelul mucoasei cavității bucale",
+        "prezența de pseudomembrane la nivelul mucoasei cavității bucale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-002",
+      "intrebare": "2) La bovine, stomatita gangrenoasă evoluează cu:",
+      "raspunsuri": [
+        "febră apoi hipotermie",
+        "normotermie",
+        "subfebrilitate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-003",
+      "intrebare": "3) La bovine, cu frecvență crescută întâlnim:",
+      "raspunsuri": [
+        "stomatita micotică",
+        "stomatita pseudomembranoasă",
+        "stomatita catarală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-004",
+      "intrebare": "4) La bovine, în timpanismul acut al rumenului se observă:",
+      "raspunsuri": [
+        "modificare volumetrică în fosa paralombară stângă",
+        "modificare volumetrică în fosa paralombară dreaptă",
+        "modificare volumetrică în zona sterno-abdominală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-005",
+      "intrebare": "5) La bovine, în reticuloperitonita traumatică se observă:",
+      "raspunsuri": [
+        "atitudine nemodificată",
+        "pareza prestomacelor",
+        "normotermie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-006",
+      "intrebare": "6) În atelectazia pulmonară, murmurul vezicular este:",
+      "raspunsuri": [
+        "înăsprit",
+        "diminuat",
+        "abolit"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-007",
+      "intrebare": "7) În reticulita traumatică prin hemoleucogramă se înregistrează:",
+      "raspunsuri": [
+        "leucocitoză cu limfocitoză",
+        "leucocitoză cu neutrofilie",
+        "leucocitoză cu eozinofilie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-008",
+      "intrebare": "8) În paralizia faringelui la bovine se constată:",
+      "raspunsuri": [
+        "disfagie de ordin II",
+        "disfagie de ordin I",
+        "disfagie de ordin III"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-009",
+      "intrebare": "9) În colapsul circulator se înregistrează:",
+      "raspunsuri": [
+        "subfebrilitate",
+        "normotermie",
+        "hipotermie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-010",
+      "intrebare": "10) În bronhopneumonia catarală, temperatura este:",
+      "raspunsuri": [
+        "în platou",
+        "intermitentă",
+        "remitentă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-011",
+      "intrebare": "11) Hemoglobinuria presupune prezența în urină de:",
+      "raspunsuri": [
+        "leucocite",
+        "eritrocite",
+        "hemoglobină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-012",
+      "intrebare": "12) „Febra de supurație” este întâlnită în:",
+      "raspunsuri": [
+        "cistita acută",
+        "cistita cronică",
+        "nefrita purulentă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-013",
+      "intrebare": "13) Creșterea cantității de urină raportată la 24 ore se numește:",
+      "raspunsuri": [
+        "polakisurie",
+        "poliurie",
+        "anurie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-014",
+      "intrebare": "14) Polakisuria asociată cu poliuria se întâlnește în:",
+      "raspunsuri": [
+        "congestia renală pasivă",
+        "nefrita acută",
+        "congestia renală activă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-015",
+      "intrebare": "15) În nefrita purulentă se întâlnește:",
+      "raspunsuri": [
+        "accelerarea marilor funcții și hipotonia prestomacelor",
+        "somnolența",
+        "stări convulsive"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-016",
+      "intrebare": "16) În hematuria enzootică a bovinelor culoarea urinei este:",
+      "raspunsuri": [
+        "incoloră",
+        "roșie",
+        "galben"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-017",
+      "intrebare": "17) În alcaloză pH-ul conținutului rumenal oscilează între:",
+      "raspunsuri": [
+        "4–6",
+        "6,2–7,2",
+        "8–10"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-018",
+      "intrebare": "18) În sindromul Hoflund (indigestia vagală) se constată:",
+      "raspunsuri": [
+        "stenoză reticulo-omasală",
+        "stenoză esofagiană",
+        "stenoză intestinală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-019",
+      "intrebare": "19) Pareza cronică a prestomacelor afectează, în principal:",
+      "raspunsuri": [
+        "rețeaua",
+        "abomasul",
+        "omasul"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-020",
+      "intrebare": "20) În reticulita acută, hematologic se înregistrează:",
+      "raspunsuri": [
+        "leucocitoză cu eozinofilie",
+        "monocitoză cu eozinofilie",
+        "leucocitoză cu neutrofilie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-021",
+      "intrebare": "21) În reticulita cronică, hematologic se înregistrează:",
+      "raspunsuri": [
+        "leucocitoză cu limfopenie",
+        "neutrofilie cu monocitoză și eozinofilie",
+        "leucopenie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-022",
+      "intrebare": "22) Sulfatul de magneziu are următorul efect:",
+      "raspunsuri": [
+        "laxativ",
+        "diuretic",
+        "antialgic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-023",
+      "intrebare": "23) Miopatia mioglobinurică paralitică a bovinelor este consecința:",
+      "raspunsuri": [
+        "excesului de proteine",
+        "excesului de lipide",
+        "carenței în vitamina E și Seleniu"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-024",
+      "intrebare": "24) Alveolita difuză fibrozantă este de natură:",
+      "raspunsuri": [
+        "parazitară",
+        "infecțioasă",
+        "alergică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-025",
+      "intrebare": "25) În alveolita difuză fibrozantă se administrează:",
+      "raspunsuri": [
+        "antihistaminice și glucocorticoizi",
+        "antibiotice",
+        "chimioterapice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-026",
+      "intrebare": "26) Sindromul Hoflund se mai numește:",
+      "raspunsuri": [
+        "inflamația omasului",
+        "inflamația abomasului",
+        "indigestia vagală"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-027",
+      "intrebare": "27) Esofagul este permeabil doar pentru lichide în:",
+      "raspunsuri": [
+        "paralizia faringelui",
+        "stenoza esofagiană",
+        "spasmul esofagian"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-028",
+      "intrebare": "28) Sondajul buco-esofagian este posibil doar în:",
+      "raspunsuri": [
+        "obstrucția esofagiană",
+        "spasm esofagian",
+        "paralizia esofagului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-029",
+      "intrebare": "29) În pareza cronică a prestomacelor în scopul mărunțirii conținutului se recomandă:",
+      "raspunsuri": [
+        "purgative saline",
+        "antibiotice pe cale orală",
+        "vitamine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-030",
+      "intrebare": "30) Rezerva alcalină este scăzută în:",
+      "raspunsuri": [
+        "alcaloză metabolică",
+        "acidoză metabolică",
+        "atât în alcaloză, cât și în acidoză metabolică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-031",
+      "intrebare": "31) În reticulita traumatică se recomandă:",
+      "raspunsuri": [
+        "purgative",
+        "parasimpaticomimetice",
+        "antibioticoterapie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-032",
+      "intrebare": "32) Rezerva alcalină este crescută în:",
+      "raspunsuri": [
+        "alcaloză metabolică",
+        "acidoză metabolică"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-033",
+      "intrebare": "33) Bronhopneumonia catarală reprezintă:",
+      "raspunsuri": [
+        "afectarea bronhiilor și a parenchimului pulmonar",
+        "afectarea pleurei și a bronhiilor",
+        "afectarea pleurei și a mediastinului"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-034",
+      "intrebare": "34) În bronhopneumonia catarală perifocal se constată:",
+      "raspunsuri": [
+        "emfizem pulmonar compensator",
+        "fibroză pulmonară",
+        "abces pulmonar"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-035",
+      "intrebare": "35) În hidropericard, prin pericardocenteză se obține:",
+      "raspunsuri": [
+        "sânge",
+        "transsudat",
+        "exsudat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-036",
+      "intrebare": "36) În obstrucția esofagului, disfagia este de:",
+      "raspunsuri": [
+        "ordinul 4",
+        "ordinul 1",
+        "ordinul 3"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-037",
+      "intrebare": "37) Cetoza taurinelor reprezintă o tulburare a:",
+      "raspunsuri": [
+        "metabolismului mineral",
+        "metabolismului protidic",
+        "metabolismului glucido-lipidic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-038",
+      "intrebare": "38) La animalele gestante, în indigestia prin supraîncărcare se administrează:",
+      "raspunsuri": [
+        "parasimpaticomimetice",
+        "parasimpaticolitice",
+        "purgative saline"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-039",
+      "intrebare": "39) În hemotorax la bovine prin puncție se obține:",
+      "raspunsuri": [
+        "transsudat",
+        "lichid limfatic",
+        "sânge"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-040",
+      "intrebare": "40) La bovine, în afecțiuni respiratorii, se întâlnește mai frecvent:",
+      "raspunsuri": [
+        "emfizem pulmonar interstițial",
+        "emfizem pulmonar alveolar",
+        "emfizem subcutanat"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-041",
+      "intrebare": "41) Parezia de parturiție este consecința:",
+      "raspunsuri": [
+        "hipocloremiei",
+        "hipopotasemiei",
+        "hipocalcemiei"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-042",
+      "intrebare": "42) Parezia de parturiție evoluează cu:",
+      "raspunsuri": [
+        "subfebrilitate",
+        "febră",
+        "normotermie, cu tendință la hipotermie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-043",
+      "intrebare": "43) Flebita utero-ovariană apare:",
+      "raspunsuri": [
+        "antepartum",
+        "postpartum",
+        "ante–postpartum"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-044",
+      "intrebare": "44) Boala de altitudine este consecința:",
+      "raspunsuri": [
+        "creșterii presiunii în mica circulație",
+        "creșterii presiunii în marea circulație",
+        "creșterea presiunii, atât în mica circulație, cât și în marea circulație"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-045",
+      "intrebare": "45) Boala de altitudine, prin simptomatologie se confundă cu:",
+      "raspunsuri": [
+        "emfizemul pulmonar",
+        "atelectazia pulmonară",
+        "pericardita traumatică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-046",
+      "intrebare": "46) Cauzele principale ale acidozei rumenale la bovine sunt:",
+      "raspunsuri": [
+        "consumul de furaje verzi",
+        "consumul de furaje fibroase",
+        "consumul de furaje concentrate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-047",
+      "intrebare": "47) La bovine, în obstrucția esofagiană se constată:",
+      "raspunsuri": [
+        "pasajul parțial al furajelor",
+        "pasajul total al furajelor",
+        "pasajul furajelor abolit"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-048",
+      "intrebare": "48) Ticul limbii „în serpentină” este specific:",
+      "raspunsuri": [
+        "câinelui",
+        "suinelor",
+        "taurinelor"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-049",
+      "intrebare": "49) În babesioză, icterul este:",
+      "raspunsuri": [
+        "de tip hepato-celular",
+        "hemolitic",
+        "mecanic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-050",
+      "intrebare": "50) În infecțiile virale se înregistrează:",
+      "raspunsuri": [
+        "leucocitoză",
+        "neutrofilie",
+        "tendință la leucopenie și limfocitoză"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-051",
+      "intrebare": "51) Cardiotonicele au efect:",
+      "raspunsuri": [
+        "inotrop pozitiv",
+        "stimulează automatismul",
+        "determină tahicardie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-052",
+      "intrebare": "52) Manitolul și sorbitolul sunt diuretice:",
+      "raspunsuri": [
+        "osmotice",
+        "de ansă",
+        "antialdosteronice"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-053",
+      "intrebare": "53) Prednisolonul se utilizează ca:",
+      "raspunsuri": [
+        "antiinflamator steroidian",
+        "antiinflamator nesteroidian",
+        "antibiotic"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-054",
+      "intrebare": "54) În edemul pulmonar se folosesc:",
+      "raspunsuri": [
+        "diuretice osmotice",
+        "diuretice de ansă și cele antialdosteronice",
+        "parasimpaticomimetice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-055",
+      "intrebare": "55) Hematuria enzootică a bovinelor este consecința consumului de:",
+      "raspunsuri": [
+        "sfeclă",
+        "siloz",
+        "ferigă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-056",
+      "intrebare": "56) Rinoragia reprezintă scurgerea sângelui de la nivel:",
+      "raspunsuri": [
+        "pulmonar",
+        "cavității nazale",
+        "gastric"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-057",
+      "intrebare": "57) Epistaxisul constă în scurgerea sângelui din cavitățile nazale sub formă de:",
+      "raspunsuri": [
+        "picături",
+        "jet",
+        "picături intermitente"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-058",
+      "intrebare": "58) Wheezing reprezintă:",
+      "raspunsuri": [
+        "tuse seacă",
+        "jetaj muco-purulent",
+        "respirație șuierătoare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-059",
+      "intrebare": "59) Hemoptizia se constată în:",
+      "raspunsuri": [
+        "hemoragia pulmonară",
+        "esofagită",
+        "reticulită"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-060",
+      "intrebare": "60) În emfizemul interstițial, la bovine, în faza acută, se constată:",
+      "raspunsuri": [
+        "hipersonoritatea cu mărirea ariei de proiecție pulmonară",
+        "matitate cu micșorarea ariei de proiecție pulmonară",
+        "reducerea în intensitate a murmurului vezicular"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-061",
+      "intrebare": "61) Atelectazia pulmonară se caracterizează prin:",
+      "raspunsuri": [
+        "inflamația pulmonului",
+        "reducerea-absența aerului posterior locului obstruat",
+        "congestie pulmonară"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-062",
+      "intrebare": "62) Mioclonia frenică se constată în cazul consumului de:",
+      "raspunsuri": [
+        "furaje fermentescibile",
+        "furaje fibroase",
+        "furaje înghețate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-063",
+      "intrebare": "63) Pielita reprezintă:",
+      "raspunsuri": [
+        "inflamația vezicii urinare",
+        "inflamația bazinetului renal",
+        "inflamația bazinetului renal și a rinichiului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-064",
+      "intrebare": "64) Paralizia nervului hipoglos evoluează cu:",
+      "raspunsuri": [
+        "monoplegie",
+        "paralizia limbii",
+        "cvadriplegie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-065",
+      "intrebare": "65) Umoral, în acidoza rumenală se constată:",
+      "raspunsuri": [
+        "scăderea cantității de hemoglobină",
+        "creșterea cantității de hemoglobină",
+        "hemoconcentrație"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-066",
+      "intrebare": "66) Biochimic sangvin, în acidoza metabolică se înregistrează:",
+      "raspunsuri": [
+        "hiperglicemie, uremie",
+        "hipoglicemie",
+        "normoglicemie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-067",
+      "intrebare": "67) Umoral, în alcaloza rumenală se înregistrează:",
+      "raspunsuri": [
+        "hipocalcemie",
+        "hipercalcemie",
+        "hipermagneziemie"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-068",
+      "intrebare": "68) Sindromul Hoflund evoluează cu:",
+      "raspunsuri": [
+        "tahicardie",
+        "tahisfigmie",
+        "bradicardie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-069",
+      "intrebare": "69) În cetoza taurinelor terapeutic se au în vedere următoarele:",
+      "raspunsuri": [
+        "combaterea hipoglicemiei, a acidozei metabolice și prevenirea steatozei hepatice",
+        "combaterea hiperglicemiei și a alcalozei metabolice",
+        "combaterea riscului infecțios și al hiperglicemiei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpb-070",
+      "intrebare": "70) În anemia microcitară, normocromă, volumul eritrocitar mediu (VEM) este:",
+      "raspunsuri": [
+        "crescut",
+        "scăzut",
+        "normal"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    }
+  ]
+}
