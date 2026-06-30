@@ -1,0 +1,764 @@
+{
+  "materie": "Clinica și Patologia Rumegătoarelor Mici",
+  "intrebari": [
+    {
+      "id": "prm-001",
+      "intrebare": "1) Profilaxia specifică obligatorie în fermele de ovine și caprine se referă la vaccinarea:",
+      "raspunsuri": [
+        "antisalmonelică",
+        "anticărbonoasă",
+        "antileptospirică"
+      ],
+      "corect": "b",
+      "explicatie": "Vaccinarea anticărbonoasă (contra antraxului) este inclusă în programul acțiunilor strategice naționale obligatorii pentru rumegătoarele mici."
+    },
+    {
+      "id": "prm-002",
+      "intrebare": "2) În fermele de ovine vaccinarea de necesitate se face pentru a preveni:",
+      "raspunsuri": [
+        "babesioza",
+        "antraxul",
+        "agalaxia contagioasă"
+      ],
+      "corect": "c",
+      "explicatie": "În caz de apariție a focarului, vaccinarea de necesitate se aplică de urgență pentru limitarea difuzării agalaxiei contagioase."
+    },
+    {
+      "id": "prm-003",
+      "intrebare": "3) Vaccinul agavac este un vaccin:",
+      "raspunsuri": [
+        "inactivat",
+        "viu biofizat",
+        "viu atenuat"
+      ],
+      "corect": "a",
+      "explicatie": "Agavac este un vaccin inactivat utilizat pe scară largă în profilaxia specifică a agalaxiei contagioase la ovine și caprine."
+    },
+    {
+      "id": "prm-004",
+      "intrebare": "4) Salmovinul este un vaccin inactivat folosit în prevenirea avortului salmonelic la ovine, care are în compoziția sa:",
+      "raspunsuri": [
+        "Salmonella thyphimurium",
+        "Salmonella melitensis",
+        "Salmonella abortus ovis"
+      ],
+      "corect": "c",
+      "explicatie": "Avortul salmonelic specific ovinelor este indus de serotipul adaptat Salmonella abortus ovis, regăsit în vaccinul Salmovin."
+    },
+    {
+      "id": "prm-005",
+      "intrebare": "5) În efectivele de ovine unde au apărut avorturi și mortalitate la miei, provocate de Salmonella, se procedează la:",
+      "raspunsuri": [
+        "izolarea și tratarea animalelor ce au avortat",
+        "vaccinarea de necesitate și tratarea animalelor cu antibiotice",
+        "vaccinarea animalelor"
+      ],
+      "corect": "b",
+      "explicatie": "În focar se intervine combinat: antibioterapie de urgență pentru oprirea mortalității și vaccinare de necesitate pentru protejarea restului efectivului."
+    },
+    {
+      "id": "prm-006",
+      "intrebare": "6) Vaccinul contra ectimei contagioase a ovinelor și caprinelor se administrează:",
+      "raspunsuri": [
+        "intraconjunctival",
+        "intranazal",
+        "prin badijonarea unei zone scarificate pe fața internă a coapsei"
+      ],
+      "corect": "c",
+      "explicatie": "Ectima contagioasă este produsă de un parapoxvirus cu tropism cutanat, vaccinul viu atenuat aplicându-se prin scarificare dermatologică."
+    },
+    {
+      "id": "prm-007",
+      "intrebare": "7) Vaccinul contra mamitei gangrenoase a ovinelor conține o suspensie de:",
+      "raspunsuri": [
+        "Salmonella ovis",
+        "Staphylococcus aurus",
+        "Mycoplasma agalactiae"
+      ],
+      "corect": "b",
+      "explicatie": "Mamita gangrenoasă este determinată în principal de Staphylococcus aureus, vaccinul conținând suspensii bacteriene/anatoxine stafilococice."
+    },
+    {
+      "id": "prm-008",
+      "intrebare": "8) Vaccinarea de necesitate (în focar) a ovinelor în cazul agalaxiei contagioase se efectuează la:",
+      "raspunsuri": [
+        "animalele cu afecțiuni mamare și articulare",
+        "animalele cu afecțiuni oculare și mamare",
+        "animalele sănătoase și în timpul lactației"
+      ],
+      "corect": "c",
+      "explicatie": "Vaccinarea în focar vizează exclusiv animalele clinic sănătoase din efectiv pentru a stopa răspândirea; cele bolnave se izolează și se tratează."
+    },
+    {
+      "id": "prm-009",
+      "intrebare": "9) Vaccinarea preventivă contra anaerobiozelor la ovine se practică la:",
+      "raspunsuri": [
+        "oile adulte și tineretul peste 10 kg",
+        "oile adulte în ultima lună de gestație",
+        "oile adulte în perioada carantinei"
+      ],
+      "corect": "a",
+      "explicatie": "Pentru o protecție eficientă a întregului efectiv, se vaccinează preventiv oile adulte și tineretul care a depășit greutatea minimă de 10 kg."
+    },
+    {
+      "id": "prm-010",
+      "intrebare": "10) Acțiunile imunoprofilactice în condițiile de stabulație, în fermele de ovine, se referă la vaccinarea contra:",
+      "raspunsuri": [
+        "anaerobiozelor, avortului salmonelic și agalaxiei contagioase",
+        "antraxului, leptospirozei, ectimei contagioase",
+        "anaerobiozelor, agalaxiei contagioase, listeriozei"
+      ],
+      "corect": "a",
+      "explicatie": "Aceste trei entități reprezintă nucleul vaccinărilor de bază efectuate în perioada de stabulație pentru a pregăti imunitar animalele înainte de pășunat."
+    },
+    {
+      "id": "prm-011",
+      "intrebare": "11) În condiții de stabulație a ovinelor acestea se supun tratamentului contra:",
+      "raspunsuri": [
+        "fasciolozei și gastrofilozei",
+        "fasciolozei, dictiocaulozei și estrozei",
+        "habronemozei, telaziozei și dictiocaulozei"
+      ],
+      "corect": "b",
+      "explicatie": "Iarna, în stabulație, se elimină strategic paraziții acumulați pe pășune (Fasciola, Dictyocaulus) și larvele hibernante de Oestrus ovis."
+    },
+    {
+      "id": "prm-012",
+      "intrebare": "12) Acțiunile antiparazitare efectuate la ovine în sezonul de primăvară sunt următoarele:",
+      "raspunsuri": [
+        "tratamente contra monieziozei și mamitei gangrenoase",
+        "tratamente contra râilor, monieziozei și dictiocaulozei",
+        "tratamente contra pododermatitei infecțioase și agalaxiei contagioase"
+      ],
+      "corect": "b",
+      "explicatie": "Primăvara, odată cu tunsul și ieșirea la pășunat, se combat paraziții externi (râia) și endoparaziții cu dinamică crescută (Moniezia, Dictyocaulus)."
+    },
+    {
+      "id": "prm-013",
+      "intrebare": "13) Diagnosticul diferențial în criptosporidioza mieilor se face față de:",
+      "raspunsuri": [
+        "eimerioze și colibaciloză",
+        "leptospiroză și estroză",
+        "dictiocauloză și ectima contagioasă"
+      ],
+      "corect": "a",
+      "explicatie": "Criptosporidioza neonatală evoluează cu sindrom diareic intens, necesitând diferențierea de eimerioză și colibaciloză."
+    },
+    {
+      "id": "prm-014",
+      "intrebare": "14) În eimerioza mieilor diagnosticul diferențial se face față de:",
+      "raspunsuri": [
+        "ectima contagioasă și listeroză",
+        "colibaciloză, criptosporidioză, dizenterie anaerobă",
+        "salmoneloză și babesioză"
+      ],
+      "corect": "b",
+      "explicatie": "Eimerioza (coccidioza) produce enterite severe cu diaree, tablou clinic comun cu enteritele bacteriene sau enterotoxiemii."
+    },
+    {
+      "id": "prm-015",
+      "intrebare": "15) În moniezioza mieilor tabloul clinic este caracterizat prin:",
+      "raspunsuri": [
+        "jetaj spumos și prurit nazal",
+        "colici, abdomen balonat, apetit capricios",
+        "dispnee, opistotonus, emprostotonus"
+      ],
+      "corect": "b",
+      "explicatie": "Prezența pachetelor masive de Moniezia în lumenul intestinal produce tulburări mecanice și digestive (colici, meteorism)."
+    },
+    {
+      "id": "prm-016",
+      "intrebare": "16) Diagnosticul diferențial în difteria mieilor se face față de:",
+      "raspunsuri": [
+        "colibaciloză",
+        "dictiocauloză",
+        "ectima contagioasă"
+      ],
+      "corect": "c",
+      "explicatie": "Difteria mieilor (necrobaciloza bucală) determină leziuni pseudomembranoase și ulceroncrotice ce pot mima formele severe de ectimă."
+    },
+    {
+      "id": "prm-017",
+      "intrebare": "17) Căpușele ixodide au rol de vector în transmiterea virusului:",
+      "raspunsuri": [
+        "bolii de Nairobi",
+        "febrei văii Rift",
+        "babesiozei"
+      ],
+      "corect": "a",
+      "explicatie": "Boala de Nairobi este o entitate virală severă la ovine, transmisă specific prin intermediul căpușelor din familia Ixodidae."
+    },
+    {
+      "id": "prm-018",
+      "intrebare": "18) Trichostrongilidozele la oile adulte și tineret evoluează:",
+      "raspunsuri": [
+        "în sezonul călduros și ploios",
+        "cu constipație și anemie",
+        "cu scrâșniri din dinți și jetaj bilateral"
+      ],
+      "corect": "a",
+      "explicatie": "Umiditatea ridicată asociată cu temperaturile calde oferă condițiile ideale pentru ecloziunea și supraviețuirea larvelor L3 pe pășune."
+    },
+    {
+      "id": "prm-019",
+      "intrebare": "19) Diagnosticul diferențial în dictiocauloză se face față de:",
+      "raspunsuri": [
+        "fascioloză, paramfistomoză și estroză",
+        "pasteureloză, estroză și protostrongilidoze",
+        "paramfistomoza, bradsod și bruceloză"
+      ],
+      "corect": "b",
+      "explicatie": "Dictiocauloza, fiind o nematodoză respiratorie, se diferențiază de alte afecțiuni ce evoluează cu tuse, dispnee și jetaj."
+    },
+    {
+      "id": "prm-020",
+      "intrebare": "20) În protostrongilidozele ovinelor manifestările clinice se caracterizează prin:",
+      "raspunsuri": [
+        "timpanism, diaree, anemie",
+        "tuse seacă, grasă după efort sau dimineața",
+        "exantem veziculo-pustulos mamar, artrite și ataxie"
+      ],
+      "corect": "b",
+      "explicatie": "Localizarea profundă în bronhiole și alveole a protostrongililor irită căile aeriene, generând accese de tuse la efort."
+    },
+    {
+      "id": "prm-021",
+      "intrebare": "21) Tratamentul ovinelor diagnosticate cu estroză se face cu:",
+      "raspunsuri": [
+        "albendazol și levamisol",
+        "streptomicină și atropină",
+        "avermectine și closantel"
+      ],
+      "corect": "c",
+      "explicatie": "Avermectinele (ivermectină, doramectină) și closantelul au o eficacitate deosebită pe stadiile larvare ale Oestrus ovis localizate în sinusuri."
+    },
+    {
+      "id": "prm-022",
+      "intrebare": "22) Diagnosticul coproscopic în dictiocauloză la ovine se pune prin metoda:",
+      "raspunsuri": [
+        "Willis",
+        "Teleman",
+        "Baermann"
+      ],
+      "corect": "c",
+      "explicatie": "Metoda Baermann utilizează hidro-termotropismul pozitiv al larvelor L1 de Dictyocaulus filaria eliminate prin fecale."
+    },
+    {
+      "id": "prm-023",
+      "intrebare": "23) În cadrul sindromului neuro-muscular la miei se încadrează următoarele boli:",
+      "raspunsuri": [
+        "salmoneloza și colibaciloza",
+        "ataxia enzootică și miodistrofia mieilor",
+        "ectima contagioasă și strongiloidoza"
+      ],
+      "corect": "b",
+      "explicatie": "Ataxia enzootică (carența în Cu) și miodistrofia (carența în Se-Vitamina E) afectează direct funcțiile nervoase și musculare."
+    },
+    {
+      "id": "prm-024",
+      "intrebare": "24) Trecerea rapidă de la alimentația de iarnă la consumul de masă verde, săracă în magneziu, a ovinelor determină apariția:",
+      "raspunsuri": [
+        "listeriozei",
+        "tetanosului",
+        "tetaniei de pășune"
+      ],
+      "corect": "c",
+      "explicatie": "Hipomagneziemia acută (tetania de iarbă) survine din cauza dezechilibrelor minerale induse de iarba tânără de primăvară."
+    },
+    {
+      "id": "prm-025",
+      "intrebare": "25) Diagnosticul diferențial în mamita gangrenoasă trebuie făcut față de:",
+      "raspunsuri": [
+        "pasteureloză",
+        "agalaxia contagioasă",
+        "toxoplasmoză"
+      ],
+      "corect": "b",
+      "explicatie": "Ambele boli afectează ugerul oilor în lactație, însă mamita gangrenoasă se distinge prin evoluția supraacută, zgomotoasă și necroză."
+    },
+    {
+      "id": "prm-026",
+      "intrebare": "26) Agalaxia contagioasă este produsă de:",
+      "raspunsuri": [
+        "Streptococcus agalactiae",
+        "Staphylococcus aureus",
+        "Mycoplasma agalactiae"
+      ],
+      "corect": "c",
+      "explicatie": "Mycoplasma agalactiae este agentul etiologic principal implicat în apariția agalaxiei contagioase la rumegătoarele mici."
+    },
+    {
+      "id": "prm-027",
+      "intrebare": "27) Agalaxia contagioasă a caprelor, localizarea mamară poate fi confundată cu localizarea mamară a:",
+      "raspunsuri": [
+        "avortului salmonelic",
+        "clamidiozei",
+        "artritei – encefalitei caprine"
+      ],
+      "corect": "c",
+      "explicatie": "Artrita-Encefalita Caprină (CAE) produce indurații mamare cronice („uger de piatră”), asemănătoare manifestărilor din agalaxie."
+    },
+    {
+      "id": "prm-028",
+      "intrebare": "28) Diagnosticul diferențial în avortul salmonelic se face față de:",
+      "raspunsuri": [
+        "bruceloză și clamidioză",
+        "toxiemia de gestație și fascioloză",
+        "campilobacterioză și dictiocauloză"
+      ],
+      "corect": "a",
+      "explicatie": "Bruceloza și clamidioza reprezintă principalele cauze majore de avort infecțios de natură bacteriană la ovine."
+    },
+    {
+      "id": "prm-029",
+      "intrebare": "29) Avortul și retenția învelitorilor fetale sunt manifestări clinice întâlnite la ovine în:",
+      "raspunsuri": [
+        "listerioză",
+        "bruceloză",
+        "fascioloză"
+      ],
+      "corect": "b",
+      "explicatie": "Bruceloza ovină induce placentită severă, tradusă clinic prin avort în a doua parte a gestației și retenție placentară."
+    },
+    {
+      "id": "prm-030",
+      "intrebare": "30) „Răsful negru” este o boală infecțioasă gravă întâlnită la oile și caprele:",
+      "raspunsuri": [
+        "in perioada montelor",
+        "în lactație",
+        "în urma tunsului"
+      ],
+      "corect": "b",
+      "explicatie": "„Răsfăul negru” este denumirea populară a mamitei gangrenoase, boală strâns legată de perioada de lactație."
+    },
+    {
+      "id": "prm-031",
+      "intrebare": "31) În agalaxia contagioasă a oilor și caprelor sunt caracteristice următoarele localizări:",
+      "raspunsuri": [
+        "mamară, oculară și articulară",
+        "podală, mamară și oculară",
+        "mamară, nervoasă și articulară"
+      ],
+      "corect": "a",
+      "explicatie": "Triada clinică clasică a agalaxiei contagioase cuprinde mastită, cheratoconjunctivită și artrită."
+    },
+    {
+      "id": "prm-032",
+      "intrebare": "32) Ectima contagioasă a oilor și caprelor evoluează acut și subacut cu următoarele localizări:",
+      "raspunsuri": [
+        "mamară, oculară și articulară",
+        "podală, mamară și oculară",
+        "mamară, nervoasă și articulară"
+      ],
+      "corect": "b",
+      "explicatie": "Pe lângă leziunile bucale, virusul ectimei se poate localiza la nivelul membrelor (podală), ugerului (mamară) sau pleoapelor (oculară)."
+    },
+    {
+      "id": "prm-033",
+      "intrebare": "33) Din grupul bolilor abortigene la ovine fac parte:",
+      "raspunsuri": [
+        "febra aftoasă, toxoplasmoza, fascioloza, boala de Nairobi",
+        "fascioloza, dicrocelioza, toxoplasmoza, dictiocauloza",
+        "febra văii Rift, listerioza, leișmanioza, dirofilarioza"
+      ],
+      "corect": "a",
+      "explicatie": "Bolile menționate pot provoca direct moartea fetală sau indirect avortul prin stări febrile severe sau alterarea placentei."
+    },
+    {
+      "id": "prm-034",
+      "intrebare": "34) Râia psoroptică a ovinelor mai este cunoscută și sub numele de:",
+      "raspunsuri": [
+        "râia capului",
+        "râia corpului",
+        "râia picioarelor"
+      ],
+      "corect": "b",
+      "explicatie": "Psoroptes ovis colonizează zonele corpului acoperite de lână, generând dermatite extinse și prurit violent."
+    },
+    {
+      "id": "prm-035",
+      "intrebare": "35) În cadrul sindromului cutanat la ovine cea mai redusă incidență o prezintă:",
+      "raspunsuri": [
+        "râia psoroptică",
+        "râia picioarelor",
+        "demodicoza"
+      ],
+      "corect": "c",
+      "explicatie": "Spre deosebire de râia psoroptică (foarte frecventă), demodicoza ovină este o entitate rară și adesea asimptomatică."
+    },
+    {
+      "id": "prm-036",
+      "intrebare": "36) Babesioza oilor și caprelor este transmisă de către:",
+      "raspunsuri": [
+        "căpușele argaside",
+        "căpușele ixodide",
+        "căpușele dermanside"
+      ],
+      "corect": "b",
+      "explicatie": "Căpușele dure din familia Ixodidae (ex. Rhipicephalus bursa) sunt vectorii biologici principali ai genului Babesia la ovine."
+    },
+    {
+      "id": "prm-037",
+      "intrebare": "37) În grupul bolilor cu localizare oculară la ovine și caprine sunt cuprinse:",
+      "raspunsuri": [
+        "clamidioza, agalaxia contagioasă, olulanoza",
+        "agalaxia contagioasă, ectima contagioasă, cheratoconjuctivita rikettsiană",
+        "toxoplasmoza, leișmanioza, cheratoconjunctivita rikettsiană"
+      ],
+      "corect": "b",
+      "explicatie": "Toate aceste trei afecțiuni asociază leziuni oculare specifice: conjunctivite, cheratite și opacifieri corneene."
+    },
+    {
+      "id": "prm-038",
+      "intrebare": "38) În cazul unui poliparazitism cu cestode și nematode la ovine, se poate recurge la tratarea animalelor cu:",
+      "raspunsuri": [
+        "levamisol",
+        "tetramisol",
+        "fenbendazol"
+      ],
+      "corect": "c",
+      "explicatie": "Fenbendazolul este un antihelmintic cu spectru larg din clasa benzimidazolilor, activ atât pe nematode, cât și pe cestode (Moniezia)."
+    },
+    {
+      "id": "prm-039",
+      "intrebare": "39) Parazitismul cu trematode hepatobiliare la ovine se poate trata cu:",
+      "raspunsuri": [
+        "ivomec F",
+        "ivomec",
+        "levamisol"
+      ],
+      "corect": "a",
+      "explicatie": "Ivomec F combină ivermectina cu clorsulonul, acesta din urmă fiind compusul activ împotriva formelor adulte de Fasciola hepatica."
+    },
+    {
+      "id": "prm-040",
+      "intrebare": "40) Unul dintre helminții cu o strictă specificitate de gazdă la ovine este:",
+      "raspunsuri": [
+        "Fasciola hepatica",
+        "Haemonchus contortus",
+        "Chabertia ovina"
+      ],
+      "corect": "c",
+      "explicatie": "Chabertia ovina („viermele cu gură mare”) prezintă o specificitate strictă pentru intestinul gros al rumegătoarelor mici."
+    },
+    {
+      "id": "prm-041",
+      "intrebare": "41) Formele imature ale paramfistomilor la ovine sunt distruse de către:",
+      "raspunsuri": [
+        "albendazol",
+        "niclosamid",
+        "ivomec"
+      ],
+      "corect": "b",
+      "explicatie": "Niclosamidul acționează eficient pe formele imature de paramfistomi localizate în mucoasa duodenală, fază de maximă patogenitate."
+    },
+    {
+      "id": "prm-042",
+      "intrebare": "42) Parazitismul cu strongili pulmonari și gastro-intestinali la ovine poate fi treated cu:",
+      "raspunsuri": [
+        "levamisol și fenbendazol",
+        "bitional și albendazol",
+        "alopurinol și oxfendazol"
+      ],
+      "corect": "a",
+      "explicatie": "Levamisolul și fenbendazolul asigură o eficacitate nematodicidă sistemică ridicată atât la nivel pulmonar, cât și digestiv."
+    },
+    {
+      "id": "prm-043",
+      "intrebare": "43) Care dintre produsele următoare folosite în nematodele pulmonare ale ovinelor permite instalarea unei bune imunități:",
+      "raspunsuri": [
+        "albendazol",
+        "levamisol",
+        "tetramisol"
+      ],
+      "corect": "b",
+      "explicatie": "Pe lângă efectul paraziticide direct, levamisolul posedă și acțiune imunomodulatoare/imunostimulatoare documentată."
+    },
+    {
+      "id": "prm-044",
+      "intrebare": "44) În strongiloidoza ovinelor sunt lipsite de eficacitate:",
+      "raspunsuri": [
+        "albendazolul și levamisolul",
+        "fenbendazolul și oxibendazolul",
+        "pirantelul și morantelul"
+      ],
+      "corect": "c",
+      "explicatie": "Pirantelul și morantelul nu au acțiune terapeutică optimă pe Strongyloides papillosus, fiind preferați benzimidazolii sau lactonele macrocilice."
+    },
+    {
+      "id": "prm-045",
+      "intrebare": "45) În cazul suspicionării rezistenței față de un antihelmintic prima măsură care se impune este:",
+      "raspunsuri": [
+        "înlocuirea lui cu un altul",
+        "mărirea dozei",
+        "asocierea lui cu levamisol"
+      ],
+      "corect": "a",
+      "explicatie": "Schimbarea clasei chimice a antiparazitarului (rotația produselor) previne accelerarea selectării sușelor de paraziți rezistenți."
+    },
+    {
+      "id": "prm-046",
+      "intrebare": "46) Activitate teratogenă și embriotoxică prezintă următoarele produse antihelmintice:",
+      "raspunsuri": [
+        "halofuginonul și berenilul",
+        "albendazolul și mebendazolul",
+        "levamisolul și tetramisolul"
+      ],
+      "corect": "b",
+      "explicatie": "Anumiți benzimidazoli (în special albendazolul administrat în prima treime a gestației) au riscuri teratogene și embriotoxice confirmate."
+    },
+    {
+      "id": "prm-047",
+      "intrebare": "47) La ovinele și caprinele destinate sacrificării nu se folosesc:",
+      "raspunsuri": [
+        "avermectinele și rafoxanidul",
+        "tetraciclinele",
+        "vitaminele B"
+      ],
+      "corect": "a",
+      "explicatie": "Aceste substanțe au remanență crescută în țesuturi, impunând timpi lungi de așteptare înainte de sacrificarea pentru consum."
+    },
+    {
+      "id": "prm-048",
+      "intrebare": "48) Organele parenchimatoase (ficat, pulmon, rinichi) a ovinelor care sunt parazitate cu chiști hidatici:",
+      "raspunsuri": [
+        "se distrug prin ardere",
+        "se îngroapă",
+        "se administrează în hrana carnivorelor"
+      ],
+      "corect": "a",
+      "explicatie": "Distrugerea prin ardere elimină riscul ca organele să fie consumate de câini (gazde definitive), stopând ciclul Echinococcus granulosus."
+    },
+    {
+      "id": "prm-049",
+      "intrebare": "49) La ovine și caprine se fac tratamente preventive obligatorii în cazul următoarelor helmintoze:",
+      "raspunsuri": [
+        "babesioză, toxoplasmoză, sarcocistoză",
+        "fascioloză, dictiocauloză, dicrocelioză",
+        "hipodermoză, estroză, gasterofiloză"
+      ],
+      "corect": "b",
+      "explicatie": "Aceste trei helmintoze majore generează pierderi economice mari și impun scheme de deparazitare profilactică periodică."
+    },
+    {
+      "id": "prm-050",
+      "intrebare": "50) La ovine, în fascioloză acută se administrează:",
+      "raspunsuri": [
+        "Dectomax",
+        "Triclabendazol",
+        "Levamisol"
+      ],
+      "corect": "b",
+      "explicatie": "Triclabendazolul este singurul fluneticid capabil să distrugă formele foarte tinere și imature de Fasciola, responsabile de atacul acut."
+    },
+    {
+      "id": "prm-051",
+      "intrebare": "51) În zonele endemice de fascioloză ovină, chimioprevenția se face:",
+      "raspunsuri": [
+        "De cel puțin două ori pe an",
+        "Odată pe an",
+        "De patru ori pe an"
+      ],
+      "corect": "a",
+      "explicatie": "Sunt obligatorii cel puțin două tratamente pe an (primăvara la ieșirea pe pășune și toamna la intrarea în stabulație)."
+    },
+    {
+      "id": "prm-052",
+      "intrebare": "52) În privința receptivității ovinelor la Fasciola hepatica, acestea sunt:",
+      "raspunsuri": [
+        "Mai puțin receptive decât bovinele",
+        "Mai receptive decât bovinele",
+        "La fel de receptive ca bovinele"
+      ],
+      "corect": "b",
+      "explicatie": "Ovinele sunt extrem de sensibile la infecția cu Fasciola hepatica, dezvoltând frecvent forme acute, adesea mortale, spre deosebire de bovine."
+    },
+    {
+      "id": "prm-053",
+      "intrebare": "53) În privința terapiei fasciolozei la ovine au fost selecționate sușe rezistente la:",
+      "raspunsuri": [
+        "Diazol și frescon",
+        "Amprol și albendazol",
+        "Closantel și rafoxanid"
+      ],
+      "corect": "c",
+      "explicatie": "Utilizarea intensă și repetată a salicilanilidelor (closantel, rafoxanid) a determinat selectarea rapidă a unor tulpini parazitare rezistente."
+    },
+    {
+      "id": "prm-054",
+      "intrebare": "54) În zonele fascioligene, pășunile utilizate primăvara de ovine vor fi:",
+      "raspunsuri": [
+        "Transformate în fânețe",
+        "Folosite ca pășune și toamna",
+        "Folosite ca pășuni pentru bovine"
+      ],
+      "corect": "a",
+      "explicatie": "Transformarea pășunilor umede în fânețe reduce riscul de infectare, uscarea ierbii distrugând o parte semnificativă din metacercari."
+    },
+    {
+      "id": "prm-055",
+      "intrebare": "55) În cazul fasciolozei, primele încercări de vaccinare au fost obținute prin folosirea:",
+      "raspunsuri": [
+        "Metacercarilor iradiați",
+        "Glutation S-transferaza",
+        "Extractelor de fasciole adulte"
+      ],
+      "corect": "c",
+      "explicatie": "Primele încercări experimentale de imunizare au apelat la extracte somatice brute recoltate de la paraziți adulți."
+    },
+    {
+      "id": "prm-056",
+      "intrebare": "56) În cazul paramfistomozei ovinelor se poate întâlni fenomenul de eliminare a helmintului din organismul gazdei, fenomen numit:",
+      "raspunsuri": [
+        "Hipobioză asincronă",
+        "Autosterilizare",
+        "Homocromie pasageră"
+      ],
+      "corect": "b",
+      "explicatie": "Autosterilizarea (fenomenul de „self-cure”) reprezintă eliminarea bruscă, mediată imunitar, a paraziților din tubul digestiv."
+    },
+    {
+      "id": "prm-057",
+      "intrebare": "57) Dicrocelioza ovinelor este o helmintoză specifică:",
+      "raspunsuri": [
+        "Pășunilor uscate",
+        "Pășunilor umede",
+        "Pășunilor amenajate"
+      ],
+      "corect": "a",
+      "explicatie": "Gazdele intermediare pentru Dicrocoelium (melcii tereștri și furnicile) preferă biotopurile uscate, aride, spre deosebire de fascioloză."
+    },
+    {
+      "id": "prm-058",
+      "intrebare": "58) Infestarea ovinelor cu Moniezia expansa se realizează la pășune prin consumul de:",
+      "raspunsuri": [
+        "Iarbă cu metacercari",
+        "Oribatide (acarieni de pășune) cu larve cisticercoide",
+        "Iarbă cu L3"
+      ],
+      "corect": "b",
+      "explicatie": "Oile se infectează consumând accidental acarienii oribatide de pe iarbă, care adăpostesc stadiul larvar cisticercoid de Moniezia."
+    },
+    {
+      "id": "prm-059",
+      "intrebare": "59) Modalitatea de infestare a ovinelor și caprinelor, în dictiocauloză, este următoarea:",
+      "raspunsuri": [
+        "Consum de iarbă și apă cu L3",
+        "Consum de iarbă cu L2",
+        "Consum de iarbă și apă cu onchiști maturi"
+      ],
+      "corect": "a",
+      "explicatie": "Larva de stadiul 3 (L3) este forma infestantă liberă care migrează pe firele de iarbă și în apa de pe pășune."
+    },
+    {
+      "id": "prm-060",
+      "intrebare": "60) Fenomenul biologic adaptativ întâlnit și la specia Dictyocaulus filaria este:",
+      "raspunsuri": [
+        "Estivația",
+        "Hipobioza larvară",
+        "Quiecența"
+      ],
+      "corect": "b",
+      "explicatie": "Hipobioza larvară reprezintă oprirea dezvoltării larvelor în gazdă pe perioada iernii, asigurând perpetuarea speciei primăvara."
+    },
+    {
+      "id": "prm-061",
+      "intrebare": "61) Larvele de stadiul unu (L1) de Dictyocaulus filaria pot fi identificate coproscopic prin metoda:",
+      "raspunsuri": [
+        "Teleman",
+        "Willis",
+        "Baermann"
+      ],
+      "corect": "c",
+      "explicatie": "Metoda Baermann este tehnica coproparazitologică de elecție pentru izolarea larvelor L1 vii datorită hidrotropismului lor."
+    },
+    {
+      "id": "prm-062",
+      "intrebare": "62) Adulții de Dictyocaulus filaria au ca sediu:",
+      "raspunsuri": [
+        "Traheea și bronhiile",
+        "Alveolele pulmonare",
+        "Capilarele pulmonare"
+      ],
+      "corect": "a",
+      "explicatie": "Nematodele adulte din genul Dictyocaulus colonizează lumenul căilor respiratorii mari (traheea și bronhiile primare)."
+    },
+    {
+      "id": "prm-063",
+      "intrebare": "63) La miei, dar și la oile adulte slab întreținute, viermii adulți de Dictyocaulus filaria determină:",
+      "raspunsuri": [
+        "Traheo-bronșită cronică",
+        "Bronhopneumonie fibrinoasă",
+        "Congestie pulmonară"
+      ],
+      "corect": "a",
+      "explicatie": "Prezența fizică a paraziților adulți și iritația mecanică/exudativă determină instalarea unei traheobronșite cronice."
+    },
+    {
+      "id": "prm-064",
+      "intrebare": "64) Faza respiratorie a dictiocaulozei ovine apare la un interval de:",
+      "raspunsuri": [
+        "5-10 zile de la infestare",
+        "35-45 de zile de la infestare",
+        "20-25 de zile de la scoaterea animalelor la pășune"
+      ],
+      "corect": "b",
+      "explicatie": "Intervalul de 35-45 de zile corespunde perioadei prepatente și maturării nematodelor în aparatul respirator."
+    },
+    {
+      "id": "prm-065",
+      "intrebare": "65) Diagnosticul diferențial în dictiocauloză se face față de:",
+      "raspunsuri": [
+        "Șabertioză",
+        "Dicrocelioză",
+        "Protostrongilidoze"
+      ],
+      "corect": "c",
+      "explicatie": "Ambele sunt nematodoze respiratorii, însă protostrongilidozele sunt date de specii cu localizare nodulară/parenchimatoasă (ex. Muellerius)."
+    },
+    {
+      "id": "prm-066",
+      "intrebare": "66) Tratamentul specific în dictiocauloză, se bazează pe folosirea următoarelor antihelmintice:",
+      "raspunsuri": [
+        "Levamisol și amprol",
+        "Tetramisol și levamisol",
+        "Albendazol și metronidazol"
+      ],
+      "corect": "b",
+      "explicatie": "Imidazotiazolii (tetramisolul și levamisolul) prezintă o acțiune nematodicidă sistemică excelentă la nivel respirator."
+    },
+    {
+      "id": "prm-067",
+      "intrebare": "67) Speciile de protostrongili implicate în patologia respiratorie la ovine sunt următoarele:",
+      "raspunsuri": [
+        "Muellerius capillaris; Succinea cepaea; Neostrongylus linearis",
+        "Muellerius capillaris; Protostrongylus rufescens; Cystocaulus ocreatus",
+        "Muellerius capillaris; Succinea cepaea; Arionys alveolaris"
+      ],
+      "corect": "b",
+      "explicatie": "Muellerius, Protostrongylus și Cystocaulus reprezintă genurile majore de protostrongilide ce parazitează plămânul micilor rumegătoare."
+    },
+    {
+      "id": "prm-068",
+      "intrebare": "68) La ovine, în estroză, infestarea se realizează:",
+      "raspunsuri": [
+        "Din primăvară și până în toamnă",
+        "Din toamnă și până în primăvară",
+        "Iarna"
+      ],
+      "corect": "a",
+      "explicatie": "Musca Oestrus ovis este activă în perioadele calde ale anului, depunând larvele direct în fantele nazale ale ovinelor."
+    },
+    {
+      "id": "prm-069",
+      "intrebare": "69) Tratamentul specific în estroză, se bazează pe folosirea următoarelor produse:",
+      "raspunsuri": [
+        "Albendazol și triclabendazol",
+        "Closantel și rafoxanid",
+        "Neguvon și amprol"
+      ],
+      "corect": "b",
+      "explicatie": "Salicilanilidele (closantelul și rafoxanidul) prezintă un tropism excelent și eficacitate maximă pe stadiile larvare parazitare de Oestrus ovis."
+    }
+  ]
+}
