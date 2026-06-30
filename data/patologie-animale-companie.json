@@ -1,0 +1,775 @@
+{
+  "materie": "Clinica și Patologia Animalelor de Companie",
+  "intrebari": [
+    {
+      "id": "cpac-001",
+      "intrebare": "1) La câini, semnul clinic dominant al insuficienței pancreatice exocrine este:",
+      "raspunsuri": [
+        "diareea cronică",
+        "vomitarea cronică",
+        "poliuria cronică"
+      ],
+      "corect": "a",
+      "explicatie": "Insuficiența pancreatică exocrină determină un sindrom sever de maldigestie și malabsorbție, manifestat clinic în principal prin diaree cronică cu steatoree și scădere în greutate."
+    },
+    {
+      "id": "cpac-002",
+      "intrebare": "2) Tusea uscată, apărută în evoluția traheobronșitelor acute la câini, se combate cu:",
+      "raspunsuri": [
+        "bromexin",
+        "acetilcisteină",
+        "codeină fosfat"
+      ],
+      "corect": "c",
+      "explicatie": "Codeina fosfat este un antitusiv central eficient, indicat exclusiv pentru suprimarea tusei uscate, neproductive și iritative."
+    },
+    {
+      "id": "cpac-003",
+      "intrebare": "3) La câini, megaesofagul se manifestă predominant prin:",
+      "raspunsuri": [
+        "vomitare frecventă",
+        "cornaj permanent",
+        "regurgitare frecventă"
+      ],
+      "corect": "c",
+      "explicatie": "Din cauza lipsei motilității esofagiene normale, alimentele ingerate rămân stocate în esofag și sunt eliminate pasiv (fără efort abdominal), proces numit regurgitare."
+    },
+    {
+      "id": "cpac-004",
+      "intrebare": "4) Care dintre următoarele modificări biochimice sugerează hepatita acută?",
+      "raspunsuri": [
+        "ALT/GPT foarte crescută",
+        "lactat dehidrogenaza moderat crescută",
+        "VSH scăzut semnificativ"
+      ],
+      "corect": "a",
+      "explicatie": "Alaninaminotransferaza (ALT) este o enzimă specifică citoplasmei hepatocitelor la carnivore, iar o creștere marcată indică citoliză hepatică acută."
+    },
+    {
+      "id": "cpac-005",
+      "intrebare": "5) În tratamentul ulcerului gastric la carnivore se folosește:",
+      "raspunsuri": [
+        "famotidină",
+        "meloxicam",
+        "fenitoină"
+      ],
+      "corect": "a",
+      "explicatie": "Famotidina este un antagonist al receptorilor H2 antihistaminici care blochează producția de acid gastric, reducând aciditatea și protejând mucoasa ulcerată."
+    },
+    {
+      "id": "cpac-006",
+      "intrebare": "6) Care din următoarele cauze predispun la pancreatită acută?",
+      "raspunsuri": [
+        "obezitatea și o dietă bogată în grăsimi",
+        "diete bogate în proteine",
+        "diete bogate în glucide"
+      ],
+      "corect": "a",
+      "explicatie": "Obezitatea și ingestia bruscă de alimente grase reprezintă factori de risc clasici ce declanșează autoactivarea prematură a enzimelor digestive în interiorul pancreasului."
+    },
+    {
+      "id": "cpac-007",
+      "intrebare": "7) Creșterea paralelă a activității serice a fosfatazei alcaline și γ-glutamiltransferazei se întâlnește în:",
+      "raspunsuri": [
+        "colestaze",
+        "colite",
+        "constipație"
+      ],
+      "corect": "a",
+      "explicatie": "Atât fosfataza alcalină (FA) cât și gama-glutamiltransferaza (GGT) sunt enzime de inducție strâns legate de epiteliul biliar, fiind indicatori primari ai colestazei."
+    },
+    {
+      "id": "cpac-008",
+      "intrebare": "8) Creșterea semnificativă a activității serice a lipazei sau amilazei semnifică:",
+      "raspunsuri": [
+        "enterită acută",
+        "pancreatită acută",
+        "insuficiență hepato-renală"
+      ],
+      "corect": "b",
+      "explicatie": "Amilaza și lipaza sunt produse în cantități mari de pancreasul exocrin; leziunile inflamatorii pancreatice determină revărsarea lor masivă în circulația sistemică."
+    },
+    {
+      "id": "cpac-009",
+      "intrebare": "9) Urolitiaza cu struviți (fosfați amoniaco-magnezieni) este favorizată de:",
+      "raspunsuri": [
+        "pH-ul neutru sau alcalin al urinei",
+        "pH-ul acid al urinei",
+        "albuminurie"
+      ],
+      "corect": "a",
+      "explicatie": "Struviții precipită și cristalizează optim în condiții de pH neutru spre alcalin, situație întâlnită frecvent în infecțiile urinare produse de bacterii ureazo-pozitive."
+    },
+    {
+      "id": "cpac-010",
+      "intrebare": "10) Miozita eozinofilică la câini se manifestă prin:",
+      "raspunsuri": [
+        "redoare musculară și șchiopătură la membrele pelvine",
+        "redoare musculară și șchiopătură la membrele toracice",
+        "tulburări în prehensiune și masticație"
+      ],
+      "corect": "c",
+      "explicatie": "Această afecțiune imunomediată vizează specific mușchii masticatori (inervați de ramura mandibulară a nervului trigemen), determinând durere locală, trismus și disfuncții masticatorii."
+    },
+    {
+      "id": "cpac-011",
+      "intrebare": "11) Miozita eozinofilică se tratează cu",
+      "raspunsuri": [
+        "Prednison",
+        "Aspirină tamponată",
+        "Metacam"
+      ],
+      "corect": "a",
+      "explicatie": "Fiind o boală cu componentă imunomediată/autoimună pronunțată, terapia de elecție presupune utilizarea corticosteroizilor în doze imunosupresoare (Prednison)."
+    },
+    {
+      "id": "cpac-012",
+      "intrebare": "12) Care sunt cauzele osteodistrofiei hipertrofice?",
+      "raspunsuri": [
+        "excesul de calciu și de vitamina D din rație",
+        "carența în calciu și vitamina D",
+        "carența în magneziu și vitamina D"
+      ],
+      "corect": "a",
+      "explicatie": "Osteodistrofia hipertrofică afectează cățeii de talie mare crescuți cu diete hipercalorice, dezechilibrate prin exces de calciu și vitamina D."
+    },
+    {
+      "id": "cpac-013",
+      "intrebare": "13) În tratamentul osteodistrofiei hipertrofice se recomandă:",
+      "raspunsuri": [
+        "antiinflamatoare nesteroide și un aport echilibrat de calciu și fosfor",
+        "antiinflamatoare steroide și suplimentarea rației cu preparate pe bază de calciu și fosfor",
+        "analgezice și rații cu un nivel scăzut de calciu și fosfor"
+      ],
+      "corect": "a",
+      "explicatie": "Tratamentul simptomatic implică managementul durerii periostale cu AINS și readucerea rației alimentare la un profil strict echilibrat mineral și energetic."
+    },
+    {
+      "id": "cpac-014",
+      "intrebare": "14) Care dintre următoarele situații nu favorizează apariția urolitiazei la câini și pisici?",
+      "raspunsuri": [
+        "concentrația mare de săruri minerale în urină",
+        "infecțiile urinare cu bacterii producătoare de urează",
+        "diureza crescută și densitatea urinară scăzută"
+      ],
+      "corect": "c",
+      "explicatie": "O diureză crescută reduce timpul de retenție al urinei în vezică și scade concentrația solutiilor minerale (densitate mică), prevenind formarea uroliților."
+    },
+    {
+      "id": "cpac-015",
+      "intrebare": "15) În urolitiaza cu urați se recomandă:",
+      "raspunsuri": [
+        "dietă cu nivel scăzut de proteine și alcalinizarea urinii",
+        "dietă cu nivel scăzut de proteine și acidifierea urinii",
+        "dietă cu nivel crescut de proteine și acidifierea urinii"
+      ],
+      "corect": "a",
+      "explicatie": "Calculii de amoniu/urați se formează în urină acidă bogată în purine; terapia impune restricție proteică (săracă în purine) și alcalinizarea pH-ului urinar."
+    },
+    {
+      "id": "cpac-016",
+      "intrebare": "16) La pisici, în urolitiaza cu struviți (fosfați amoniaco-magnezieni) se recomandă:",
+      "raspunsuri": [
+        "diete cu un conținut redus de magneziu și acidifianți urinari",
+        "diete cu un conținut crescut de magneziu și bicarbonat de sodiu",
+        "diete cu un conținut redus de proteine și bicarbonat de sodiu"
+      ],
+      "corect": "a",
+      "explicatie": "Dizolvarea și prevenirea struviților se obține prin restricționarea aportului de magneziu și fosfor combinată cu menținerea unui pH urinar net acid."
+    },
+    {
+      "id": "cpac-017",
+      "intrebare": "17) Care dintre următoarele modificări biochimice sangvine este mai specifică pentru boala hepatocerebrală la carnivore?",
+      "raspunsuri": [
+        "creșterea ureei serice",
+        "creșterea amoniacului seric",
+        "creșterea AST/GOT"
+      ],
+      "corect": "b",
+      "explicatie": "Encefalopatia hepatică apare atunci când ficatul nu poate converti amoniacul neurotoxic (rezultat din digestia proteinelor) în uree, ducând la hiperamoniemie."
+    },
+    {
+      "id": "cpac-018",
+      "intrebare": "18) În care dintre următoarele boli se întâlnește exoftalmie bilaterală la câini?",
+      "raspunsuri": [
+        "osteopatie craniomandibulară",
+        "miozita eozinofilică a mușchilor masticatori",
+        "miastenia gravis"
+      ],
+      "corect": "b",
+      "explicatie": "În faza acută, inflamarea și tumefierea masivă bilaterală a mușchilor temporali și pterigoidieni exercită presiune pe orbită, impingând globii oculari în afară."
+    },
+    {
+      "id": "cpac-019",
+      "intrebare": "19) În care din următoarele boli, se recomandă cardiotonice?",
+      "raspunsuri": [
+        "cardiomiopatie hipertrofică",
+        "cardiomiopatie dilatativă",
+        "bradiaritmie"
+      ],
+      "corect": "b",
+      "explicatie": "Cardiomiopatia dilatativă este definită de o disfuncție sistolică (scăderea contractilității), fiind necesare substanțe inotrop pozitive (cardiotonice) pentru susținerea pompei cardiace."
+    },
+    {
+      "id": "cpac-020",
+      "intrebare": "20) Utilizarea inhibitorilor enzimei de conversie a angiotensinei este indicată în:",
+      "raspunsuri": [
+        "insuficiența hepatică",
+        "insuficiența cardiacă",
+        "boala hepato-cerebrală"
+      ],
+      "corect": "b",
+      "explicatie": "IECA blochează transformarea angiotensinei I în angiotensină II, contracarând vasoconstricția și retenția hidrosalină aberante din insuficiența cardiacă."
+    },
+    {
+      "id": "cpac-021",
+      "intrebare": "21) Care dintre următoarele medicamente pot determina leziuni ulcerative ale mucoasei gastrointestinale?",
+      "raspunsuri": [
+        "antiinflamatoarele nesteroide",
+        "medicamentele pe bază de hidroxid de aluminiu",
+        "ranitidina"
+      ],
+      "corect": "a",
+      "explicatie": "AINS blochează enzimele COX-1, privând mucoasa gastrică de prostaglandinele E2 și I2 care dețin un rol citoprotector esențial."
+    },
+    {
+      "id": "cpac-022",
+      "intrebare": "22) Care dintre următoarele medicamente nu se utilizează atunci când tusea este umedă?",
+      "raspunsuri": [
+        "codeina fosfat",
+        "furosemid",
+        "bromhexinul"
+      ],
+      "corect": "a",
+      "explicatie": "Codeina fosfat oprește reflexul de tuse central; în cazul tusei umede (productive), suprimarea tusei provoacă acumularea periculoasă de exsudat în căile respiratorii."
+    },
+    {
+      "id": "cpac-023",
+      "intrebare": "23) În edemul pulmonar de origine cardiacă se recomandă:",
+      "raspunsuri": [
+        "furosemid și pimobendan",
+        "atropină și pilocarpină",
+        "captopril și sulfasalazină"
+      ],
+      "corect": "a",
+      "explicatie": "Furosemidul este crucial pentru reducerea presiunii vasculare și eliminarea lichidului alveolar, iar pimobendanul optimizează performanța inotropă a cordului."
+    },
+    {
+      "id": "cpac-024",
+      "intrebare": "24) Tusea nocturnă asociată cu insuficiența cardiacă se combate cu:",
+      "raspunsuri": [
+        "expectorante",
+        "diuretice",
+        "codeină"
+      ],
+      "corect": "b",
+      "explicatie": "Tusea cardiacă este urmarea congestiei și edemului pulmonar retrograd (accentuate în decubit); eliminarea congestiei vasculare prin diuretice ameliorează direct tusea."
+    },
+    {
+      "id": "cpac-025",
+      "intrebare": "25) La pisici, carența în taurină poate să producă:",
+      "raspunsuri": [
+        "degenerescență testiculară",
+        "degenerescență retiniană",
+        "alopecie simetrică"
+      ],
+      "corect": "b",
+      "explicatie": "Taurina este un aminoacid esențial pentru feline; un aport deficitar pe termen lung provoacă degenerescență retiniană centrală felină (FCRD) și cardiomiopatie dilatativă."
+    },
+    {
+      "id": "cpac-026",
+      "intrebare": "26) În care dintre următoarele afecțiuni poliuria și polidipsia înregistrează un debut brusc?",
+      "raspunsuri": [
+        "diabetul zaharat",
+        "diabetul insipid de cauză centrală",
+        "diabetul insipid de cauză renală"
+      ],
+      "corect": "b",
+      "explicatie": "Diabetul insipid central implică o sistare acută a eliberării de hormon antidiuretic (ADH), cauzând un debut brusc și dramatic al poliuriei (urină complet diluată)."
+    },
+    {
+      "id": "cpac-027",
+      "intrebare": "27) În care dintre următoarele boli nu se întâlnește poliurie și polidipsie?",
+      "raspunsuri": [
+        "hipotiroidism",
+        "diabet insipid",
+        "hiperadrenocorticism"
+      ],
+      "corect": "a",
+      "explicatie": "Hipotiroidismul se caracterizează printr-o reducere generalizată a metabolismului bazal și nu modifică direct balanța hidrică în sensul apariției PU/PD."
+    },
+    {
+      "id": "cpac-028",
+      "intrebare": "28) Cauza cea mai frecventă a hipotiroidismului la câine este:",
+      "raspunsuri": [
+        "tiroidita limfocitară autoimună",
+        "carența în iod",
+        "carcinomul tiroidian"
+      ],
+      "corect": "a",
+      "explicatie": "Majoritatea cazurilor de hipotiroidism primar canin se datorează distrucției imuno-mediate a parenchimului tiroidian (tiroidită limfocitară) sau atrofiei idiopatice."
+    },
+    {
+      "id": "cpac-029",
+      "intrebare": "29) În insuficiența renală cronică, ureea și creatinina serică cresc peste valorile normale atunci când masa funcțională renală se reduce cu:",
+      "raspunsuri": [
+        "25 %",
+        "50%",
+        "75%"
+      ],
+      "corect": "c",
+      "explicatie": "Rrinichii posedă o capacitate funcțională de rezervă considerabilă; azotemia (retenția de uree și creatinină) survine doar când peste 75% din nefroni sunt distruși."
+    },
+    {
+      "id": "cpac-030",
+      "intrebare": "30) Tratamentul în pancreatita acută implică:",
+      "raspunsuri": [
+        "administrare parenterală de glucoză 33%",
+        "fluidoterapie, antivomitive, analgezice",
+        "administrarea unei diete cu restricție de proteine"
+      ],
+      "corect": "b",
+      "explicatie": "Pilonii tratamentului în pancreatită sunt agresivi și simptomatici: refacerea perfuziei pancreatice (fluide), oprirea emezei și managementul multimodal al durerii."
+    },
+    {
+      "id": "cpac-031",
+      "intrebare": "31) Care este parametrul biochimic cu specificitatea cea mai mare pentru diagnosticul pancreatitei acute la pisici?",
+      "raspunsuri": [
+        "amilază serică",
+        "imunoreactivitatea lipazei pancreatice feline (fPLI)",
+        "lipază serică"
+      ],
+      "corect": "b",
+      "explicatie": "Testul fPLI detectează strict lipaza de structură exclusiv pancreatică felină, spre deosebire de amilaza sau lipaza totală care au alte surse celulare."
+    },
+    {
+      "id": "cpac-032",
+      "intrebare": "32) Colestazele sunt indicate mai ales de:",
+      "raspunsuri": [
+        "creșterea AST/GOT și ALT/GPT",
+        "creșterea fosfatazei alcaline și a γ-glutamiltransferazei",
+        "creșterea AST/GOT și a lactat dehidrogenazei"
+      ],
+      "corect": "b",
+      "explicatie": "Fosfataza alcalină (FA) și gama-glutamiltransferaza (GGT) sunt localizate pe membrana canaliculelor biliare, sinteza lor crescând semnificativ în caz de stază biliară."
+    },
+    {
+      "id": "cpac-033",
+      "intrebare": "33) Semnul radiografic patognomonic pentru diagnosticul de rahitism este:",
+      "raspunsuri": [
+        "radiodensitate crescută în zona diafizară",
+        "radiodensitatea scăzută a epifizelor",
+        "îngroșarea cartilajului de creștere"
+      ],
+      "corect": "b",
+      "explicatie": "Rahitismul presupune o mineralizare deficitară a matricei osoase noi la tineret, tradusă radiologic prin osteopenie și radiodensitate redusă la nivel epifizar și metafizar."
+    },
+    {
+      "id": "cpac-034",
+      "intrebare": "34) Tulburările de ritm cardiac asociate cu insuficiența renală acută sunt consecința:",
+      "raspunsuri": [
+        "hiperpotasiemiei",
+        "hipopotasemiei",
+        "hiponatremiei"
+      ],
+      "corect": "a",
+      "explicatie": "Retenția de potasiu asociată fazei oligurice a IRA cauzează hiperpotasiemie, un dezechilibru ce modifică potențialul electric miocardic, generând bradicardie sau blocuri cardiace."
+    },
+    {
+      "id": "cpac-035",
+      "intrebare": "35) La căței și pisoi, consumul exclusiv de carne sau de preparate din carne conduce la:",
+      "raspunsuri": [
+        "hiperparatiroidism nutrițional secundar",
+        "rahitism",
+        "osteodistrofie hipertrofică"
+      ],
+      "corect": "a",
+      "explicatie": "Carnea curată are un conținut extrem de redus de calciu și un raport Ca:P total inversat; hipocalcemia cronică rezultată induce o hipersecreție compensatorie de PTH."
+    },
+    {
+      "id": "cpac-036",
+      "intrebare": "36) Hiperparatiroidismul nutrițional secundar la căței și pisoi este determinat de:",
+      "raspunsuri": [
+        "carența în calciu asociată cu excesul de fosfor",
+        "excesul de calciu asociat cu carența în fosfor",
+        "excesul de calciu și fosfor"
+      ],
+      "corect": "a",
+      "explicatie": "Carența severă de calciu combinată cu un aport excesiv de fosfor stimulează glandele paratiroide să producă PTH în exces pentru a menține calcemia pe seama osului."
+    },
+    {
+      "id": "cpac-037",
+      "intrebare": "37) Care este medicamentul de primă intenție recomandat crizele convulsive?",
+      "raspunsuri": [
+        "Diazepam",
+        "Fenobarbital",
+        "Bromură de potasiu"
+      ],
+      "corect": "a",
+      "explicatie": "Diazepamul este o benzodiazepină cu acțiune ultra-rapidă, ideală pentru stoparea de urgență a unei crize convulsive acute (status epilepticus)."
+    },
+    {
+      "id": "cpac-038",
+      "intrebare": "38) În osteopatia craniomandibulară tratamentul se face cu:",
+      "raspunsuri": [
+        "prednison",
+        "gentamicină",
+        "calciu și vitamina D"
+      ],
+      "corect": "a",
+      "explicatie": "Deoarece este o boală osoasă proliferativă non-neoplazică și neinfecțioasă auto-limitantă la tineret, corticosteroizii (Prednison) sunt indicați pentru reducerea durerii și tumefierii."
+    },
+    {
+      "id": "cpac-039",
+      "intrebare": "39) Atonia vezicii urinare apărută ca o complication a retenției urinare se combate cu:",
+      "raspunsuri": [
+        "bethanecol",
+        "atropină",
+        "betablocante"
+      ],
+      "corect": "a",
+      "explicatie": "Betanecolul este un agent parasimpaticomimetic muscarinic ce stimulează contractilitatea mușchiului detrusor vezical, util în recăpătarea tonusului vezicii întinse."
+    },
+    {
+      "id": "cpac-040",
+      "intrebare": "40) În insuficiența cardiacă, tratamentul cu inhibitori ai enzimei de conversie a angiotensinei se recomandă pentru:",
+      "raspunsuri": [
+        "efectul vasodilatator și hipotensiv",
+        "efectul vasodilatator și hipertensiv",
+        "efectul cardiotonic și hipotensiv"
+      ],
+      "corect": "a",
+      "explicatie": "Inhibitorii ECA generează vasodilatație mixtă (reducând postsarcina și presarcina) și reduc tensiunea arterială, scăzând stresul parietal exercitat asupra miocardului."
+    },
+    {
+      "id": "cpac-041",
+      "intrebare": "41) Pentru acidifierea pH-ului urinar se recomandă preparate pe bază de:",
+      "raspunsuri": [
+        "acid acetic sau acid acetilsalicilic",
+        "metionină sau clorură de amoniu",
+        "acid ursodeoxicolic sau colină"
+      ],
+      "corect": "b",
+      "explicatie": "DL-metionina și clorura de amoniu sunt recunoscute ca agenți acidifianți metabolici eficienți, utili în reducerea pH-ului urinar pentru prevenția struviților."
+    },
+    {
+      "id": "cpac-042",
+      "intrebare": "42) În tratamentul panosteitei se recomandă:",
+      "raspunsuri": [
+        "antiinflamatoare steroide",
+        "antiinflamatoare nesteroide",
+        "antibiotice"
+      ],
+      "corect": "b",
+      "explicatie": "Panosteita este o afecțiune auto-limitantă a oaselor lungi la câinii tineri; controlul principal se axează pe combaterea durerii intense cu ajutorul AINS."
+    },
+    {
+      "id": "cpac-043",
+      "intrebare": "43) Glucozuria asociată cu normoglicemie indică:",
+      "raspunsuri": [
+        "tubulonefropatie",
+        "diabet insipid",
+        "glomerulonefrită imunomediată"
+      ],
+      "corect": "a",
+      "explicatie": "Prezența glucozei în urină în condiții de glicemie normală trădează o incapacitate funcțională a tubulilor proximali de a reabsorbi glucoza filtrată."
+    },
+    {
+      "id": "cpac-044",
+      "intrebare": "44) La pisici, tratamentul cu glipizide poate fi recomandat în:",
+      "raspunsuri": [
+        "diabetul zaharat de tip I",
+        "cetoacidoza diabetică",
+        "diabetul zaharat de tip II"
+      ],
+      "corect": "c",
+      "explicatie": "Glipizidul este un hipoglicemiant oral din clasa sulfonilureelor care stimulează celulele beta pancreatice active, fiind aplicabil doar în diabetul zaharat non-insulinodependent (tip II)."
+    },
+    {
+      "id": "cpac-045",
+      "intrebare": "45) Care dintre următoarele tipuri de diabet se întâlnește mai frecvent la pisici?",
+      "raspunsuri": [
+        "diabetul zaharat de tip I",
+        "diabetul zaharat de tip II",
+        "diabetul zaharat de tip III"
+      ],
+      "corect": "b",
+      "explicatie": "Spre deosebire de câini (unde domină tipul I), majoritatea pisicilor dezvoltă diabet de tip II, corelat cu obezitatea, rezistența la insulină și amiloidoza insulară."
+    },
+    {
+      "id": "cpac-046",
+      "intrebare": "46) Care este parametrul biochimic care exprimă cel mai fidel reducerea ratei de filtrare glomerulară?",
+      "raspunsuri": [
+        "ureea serică",
+        "creatinina serică",
+        "amoniacul seric"
+      ],
+      "corect": "b",
+      "explicatie": "Creatinina este un produs secundar muscular generat constant, eliminat aproape exclusiv prin filtrare glomerulară, nefiind reabsorbită sau secretată tubular semnificativ."
+    },
+    {
+      "id": "cpac-047",
+      "intrebare": "47) Ce valoare de diagnostic are dozarea bazală a cortizolului plasmatic în hiperadrenocorticism?",
+      "raspunsuri": [
+        "este sugestivă doar pentru hiperadrenocorticismul se cauză hipofizară",
+        "nu are valoare de diagnostic",
+        "este sugestivă doar pentru hipoadrenocorticismul de cauză adrenală"
+      ],
+      "corect": "b",
+      "explicatie": "Dozarea bazală a cortizolului are fluctuații mari circadiene induse de stres, nefiind utilă pentru a pune diagnosticul de certitudine în boala Cushing (sunt necesare teste dinamice: LDDS sau ACTH)."
+    },
+    {
+      "id": "cpac-048",
+      "intrebare": "48) Care este motivația utilizării inhibitorilor enzimei de conversie a angiotensinei în tratamentul insuficienței renale cronice?",
+      "raspunsuri": [
+        "creșterea presiunii capilare glomerulare și a diurezei",
+        "reducerea presiunii capilare glomerulare și a proteinuriei",
+        "creșterea eliminării de fosfați și a reabsorbției tubulare de calciu"
+      ],
+      "corect": "b",
+      "explicatie": "IECA induc vasodilatația arteriolei eferente renale, ducând la scăderea presiunii intraglomerulare (hipertensiune capilară) și diminuarea consecutivă a proteinuriei."
+    },
+    {
+      "id": "cpac-049",
+      "intrebare": "49) Care este cea mai frecventă cauză a efuziunii peritoneale cu transsudat modificat?",
+      "raspunsuri": [
+        "hepatita cronică",
+        "insuficiența cardiacă dreaptă",
+        "insuficiența renală cronică"
+      ],
+      "corect": "b",
+      "explicatie": "Insuficiența cardiacă dreaptă determină hipertensiune venoasă sistemică retrogradă accentuată, forțând transsudarea unui lichid cu conținut proteic ușor mai ridicat (transsudat modificat)."
+    },
+    {
+      "id": "cpac-050",
+      "intrebare": "50) Hemoglobinuria se întâlnește în:",
+      "raspunsuri": [
+        "hemoragii ale vezicii urinare",
+        "hemoragii renale",
+        "afecțiuni care determină hemoliză"
+      ],
+      "corect": "c",
+      "explicatie": "Distrugerea masivă intravasculară a eritrocitelor (hemoliză) eliberează cantități mari de hemoglobină liberă în plasmă, care depășește pragul de legare și trece în urină."
+    },
+    {
+      "id": "cpac-051",
+      "intrebare": "51) Miozita eozinofilică a câinilor este determinată de:",
+      "raspunsuri": [
+        "producerea de autoanticorpi împotriva componentei miozinice din mușchii masticatori",
+        "infestația parazitară a mușchilor masticatori",
+        "infecții din vecinătatea mușchilor masticatori"
+      ],
+      "corect": "a",
+      "explicatie": "Boala este autoimună și înalt specifică, fiind caracterizată prin autoanticorpi îndreptați împotriva fibrelor de miozină tip 2M, unice mușchilor masticatori."
+    },
+    {
+      "id": "cpac-052",
+      "intrebare": "52) În osteodistrofia hipertrofică a câinilor leziunile osoase sunt localizate în:",
+      "raspunsuri": [
+        "oasele capului",
+        "oasele lungi ale membrelor",
+        "metatarsiene și falange"
+      ],
+      "corect": "b",
+      "explicatie": "Această boală afectează cu predilecție zonele metafizare ale oaselor lungi, mai ales radiusul, ulna și tibia, la nivel bilateral și simetric."
+    },
+    {
+      "id": "cpac-053",
+      "intrebare": "53) Radiografic, leziunile din panosteita eozinofilică se identifică în:",
+      "raspunsuri": [
+        "canalul medular al oaselor lungi",
+        "epifiză",
+        "metafiză"
+      ],
+      "corect": "a",
+      "explicatie": "Panosteita este o afecțiune a diantrodului osos ce implică proliferarea fibro-osoasă în interiorul canalului medular."
+    },
+    {
+      "id": "cpac-054",
+      "intrebare": "54) Leziunile radiografice caracteristice panosteitei eozinofilice sunt:",
+      "raspunsuri": [
+        "radioopacitate difuză, granulară în canalul medular al oaselor lungi",
+        "prezența osteofitelor în periostul oaselor lungi",
+        "radioopacitate mărită a metafizelor oaselor lungi"
+      ],
+      "corect": "a",
+      "explicatie": "Modificările imagistice tipice constau în densificări osoase (opacități) cu caracter neregulat sau granular localizate în cavitatea medulară."
+    },
+    {
+      "id": "cpac-055",
+      "intrebare": "55) În care dintre următoarele osteodistrofii se întâlnește constant febra?",
+      "raspunsuri": [
+        "osteofibroza juvenilă",
+        "osteodistrofia hipertrofică",
+        "rahitism"
+      ],
+      "corect": "b",
+      "explicatie": "Osteodistrofia hipertrofică evoluează frecvent sub formă de episoade acute inflamatorii febrile febrile, însoțite de anorexie și refuzul ortostatismului."
+    },
+    {
+      "id": "cpac-056",
+      "intrebare": "56) La pisici, hiperglicemia de stres se diferențiază de hiperglicemia din diabetul zaharat prin:",
+      "raspunsuri": [
+        "prezența glucozei în urină",
+        "absența glucozei din urină",
+        "prezența corpilor cetonici în urină"
+      ],
+      "corect": "b",
+      "explicatie": "Hiperglicemia indusă de catecolamine (stres) la pisici este tranzitorie; spre deosebire de diabetul zaharat, ea nu depășește persistent pragul renal și nu produce glucozurie marcată."
+    },
+    {
+      "id": "cpac-057",
+      "intrebare": "57) Polimiopatia hipokalemică a pisicilor poate fi întâlnită secundar în:",
+      "raspunsuri": [
+        "insuficiența renală cronică",
+        "insuficiența cardiacă congestivă",
+        "hipoadrenocorticism"
+      ],
+      "corect": "a",
+      "explicatie": "Boala renală cronică la feline favorizează pierderi urinare excesive și cronice de potasiu (kaliureză), ducând la hipokalemie marcată cu slăbiciune musculară și ventroflexia gâtului."
+    },
+    {
+      "id": "cpac-058",
+      "intrebare": "58) În tratamentul formei dobândite a miasteniei gravis se utilizează:",
+      "raspunsuri": [
+        "dantrolen sodic",
+        "bromură de piridostigmină și corticosteroizi",
+        "clorură de potasiu și vitamina E"
+      ],
+      "corect": "b",
+      "explicatie": "Terapia include inhibitori de acetilcolinesterază (piridostigmină) pentru prelungirea acțiunii acetilcolinei la nivelul sinapsei, asociați cu steroizi pentru imunosupresia autoanticorpilor."
+    },
+    {
+      "id": "cpac-059",
+      "intrebare": "59) Diagnosticul de insuficiență pancreatică exocrină se bazează pe:",
+      "raspunsuri": [
+        "valorile scăzute ale amilazei și lipazei serice",
+        "valoarea crescută a amilazei și scăzută a lipazei serice",
+        "valoarea scăzută a imunoreactivității tripsinei serice"
+      ],
+      "corect": "c",
+      "explicatie": "Testele TLI (cTLI/fTLI) măsoară cantitatea de tripsinogen circulant derivat exclusiv din pancreas, valoarea scăzută fiind standardul de aur pentru diagnosticul IPE."
+    },
+    {
+      "id": "cpac-060",
+      "intrebare": "60) Care dintre următoarele medicamente nu este recomandat în cardiomiopatia hipertrofică a pisicilor?",
+      "raspunsuri": [
+        "benazeprilul",
+        "digoxinul",
+        "aspirina"
+      ],
+      "corect": "b",
+      "explicatie": "Digoxinul (inotrop pozitiv) este strict contraindicat în CMH deoarece creșterea forței de contracție într-un ventricul cu lumen redus agravează obstrucția tractului de ejecție."
+    },
+    {
+      "id": "cpac-061",
+      "intrebare": "61) În care dintre următoarele situații nu se recomandă administrarea metoclopramidului?",
+      "raspunsuri": [
+        "gastrite acute",
+        "obstrucții gastrice sau duodenale",
+        "duodenite acute"
+      ],
+      "corect": "b",
+      "explicatie": "Metoclopramidul este un prokinetic gastrointestinal; stimularea motilității gastrice în prezența unui blocaj mecanic (obstrucție) riscă să provoace ruptură sau perforație."
+    },
+    {
+      "id": "cpac-062",
+      "intrebare": "62) Anemia regenerativă poate fi caracterizată în funcție de indicii eritrocitari:",
+      "raspunsuri": [
+        "macrocitare și hipocrome sau normocrome",
+        "normocitare și normocrome sau hipercrome",
+        "microcitare și hipocrome sau normocrome"
+      ],
+      "corect": "a",
+      "explicatie": "Reticulocitele eliberate ca răspuns regenerativ sunt celule imature voluminoase (macrocitoză) care nu au acumulat încă doza completă de hemoglobină (hipocromie)."
+    },
+    {
+      "id": "cpac-063",
+      "intrebare": "63) Anemiile regenerative au drept cauze:",
+      "raspunsuri": [
+        "bolile renale cronice și hipotiroidismul",
+        "carența în fier și în vitamina B12",
+        "hemoragiile și hemolizele"
+      ],
+      "corect": "c",
+      "explicatie": "Pierderile masive de eritrocite prin sângerare (hemoragie) sau distrugerea lor accelerată (hemoliză) stimulează intens măduva hematogenă să compenseze deficitul."
+    },
+    {
+      "id": "cpac-064",
+      "intrebare": "64) La câini și pisici, în majoritatea cazurilor, hipertensiunea arterială este:",
+      "raspunsuri": [
+        "primară",
+        "secundară",
+        "mixtă"
+      ],
+      "corect": "b",
+      "explicatie": "Spre deosebire de medicina umană, hipertensiunea arterială esențială (primară) este rară, fiind de cele mai multe ori o consecință a unor boli organice cronice."
+    },
+    {
+      "id": "cpac-065",
+      "intrebare": "65) Care este cauza cea mai frecventă a hipertensiunii arteriale la câini și pisici?",
+      "raspunsuri": [
+        "insuficiența (boala) renală cronică",
+        "insuficiența cardiacă",
+        "diabetul zaharat"
+      ],
+      "corect": "a",
+      "explicatie": "Boala renală cronică alterează grav reglarea volumului fluidelor extracelulare și activează excesiv sistemul RAA, reprezentând principala cauză de hipertensiune secundară."
+    },
+    {
+      "id": "cpac-066",
+      "intrebare": "66) Care dintre următoarele medicamente este utilizat în tratamentul hiperadrenocorticismului?",
+      "raspunsuri": [
+        "prednisolon",
+        "trilostan",
+        "fenoxibenzamină"
+      ],
+      "corect": "b",
+      "explicatie": "Trilostanul este un inhibitor enzimatic competitiv (al enzimei 3-β-hidroxisteroid dehidrogenază) care blochează eficient sinteza cortizolului în suprarenale."
+    },
+    {
+      "id": "cpac-067",
+      "intrebare": "67) Care dintre următoarele medicamente se recomandă în tratamentul incontinenței urinare apărute după castrare la cățele?",
+      "raspunsuri": [
+        "fenilpropanolamina",
+        "fenilbutazona",
+        "fenitoina"
+      ],
+      "corect": "a",
+      "explicatie": "Fenilpropanolamina este un agonist alfa-adrenergic care crește tonusul musculaturii netede a sfincterului uretral intern, atenuat secundar deficitului estrogenic post-sterilizare."
+    },
+    {
+      "id": "cpac-068",
+      "intrebare": "68) Modificările electrolitice caracteristice hipoadrenocorticismului sunt:",
+      "raspunsuri": [
+        "hipernatremie, hipokalemie, hipercloremie",
+        "hipernatremie, hiperkalemie, hipercloremie",
+        "hiponatremie, hiperkalemie, hipocloremie"
+      ],
+      "corect": "c",
+      "explicatie": "Deficitul de mineralocorticoizi (aldosteron) din boala Addison oprește reabsorbția de sodiu și clor (hiponatremie, hipocloremie) și împiedică eliminarea potasiului (hiperkalemie)."
+    },
+    {
+      "id": "cpac-069",
+      "intrebare": "69) Care dintre următoarele grupe de medicamente se recomandă pentru reducerea proteinuriei?",
+      "raspunsuri": [
+        "inhibitorii enzimei de conversie a angiotensinei",
+        "betablocantele",
+        "diureticele"
+      ],
+      "corect": "a",
+      "explicatie": "IECA dilată arteriola eferentă, reducând astfel presiunea intraglomerulară și ameliorând selectiv pierderile patologice de proteine prin filtrul renal."
+    },
+    {
+      "id": "cpac-070",
+      "intrebare": "70) În afecțiunile parenchimului pulmonar dispneea este:",
+      "raspunsuri": [
+        "inspiratorie",
+        "expiratorie",
+        "mixtă"
+      ],
+      "corect": "c",
+      "explicatie": "Afectarea directă a parenchimului (ex. pneumonie severă, edem pulmonar) perturbă ambele faze ale respirației (atât pătrunderea, cât și eliminarea aerului), generând o dispnee mixtă."
+    }
+  ]
+}
