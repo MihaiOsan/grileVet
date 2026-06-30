@@ -1,0 +1,885 @@
+{
+  "materie": "Clinică și Patologie Ecvină",
+  "intrebari": [
+    {
+      "id": "cpe-001",
+      "intrebare": "1) Valorile normale ale temperaturii interne la cal sunt:",
+      "raspunsuri": [
+        "37,5 – 38,5",
+        "37,0 – 39,0",
+        "38,0 – 39,5"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-002",
+      "intrebare": "2) Valorile normale ale frecvenței respirației la cal sunt:",
+      "raspunsuri": [
+        "25 – 40 / minut",
+        "8 – 16 / minut",
+        "20 – 30 / minut"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-003",
+      "intrebare": "3) Valorile normale ale pulsului la cal sunt:",
+      "raspunsuri": [
+        "24 – 44 / minut",
+        "60 – 80 / minut",
+        "40 – 60 / minut"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-004",
+      "intrebare": "4) Respirația la cal este de tip:",
+      "raspunsuri": [
+        "toraco-abdominal",
+        "abdominal",
+        "toracal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-005",
+      "intrebare": "5) Zgomotul respirator fiziologic la cal, se numește:",
+      "raspunsuri": [
+        "suflu",
+        "ral",
+        "murmur vezicular"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-006",
+      "intrebare": "6) Locul de elecție a pulsului la cal este:",
+      "raspunsuri": [
+        "artera auriculară rostrală",
+        "artera caudală mediană",
+        "artera femurală"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-007",
+      "intrebare": "7) În stările febrile murmurul vezicular este:",
+      "raspunsuri": [
+        "diminuat",
+        "abolit",
+        "înăsprit"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-008",
+      "intrebare": "8) Intensitatea murmurului vezicular la ecvine este:",
+      "raspunsuri": [
+        "mare",
+        "medie",
+        "mică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-009",
+      "intrebare": "9) Caracteristicile pulsului dur sunt:",
+      "raspunsuri": [
+        "amplitudine mare, durată scurtă",
+        "amplitudine mare, durată lungă",
+        "amplitudine mică, tensiune mare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-010",
+      "intrebare": "10) Hematuria presupune:",
+      "raspunsuri": [
+        "transudat",
+        "exsudat",
+        "hematii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-011",
+      "intrebare": "11) Hematuria este prezentă în:",
+      "raspunsuri": [
+        "pielită",
+        "pielonefrită",
+        "cistită"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-012",
+      "intrebare": "12) Creșterea frecvenței urinării se numește:",
+      "raspunsuri": [
+        "poliurie",
+        "oligurie",
+        "polakisurie"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-013",
+      "intrebare": "13) Polakisuria este întâlnită în:",
+      "raspunsuri": [
+        "nefrită cronică",
+        "nefrită acută",
+        "cistită acută"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-014",
+      "intrebare": "14) Aspectul urinei la cal este:",
+      "raspunsuri": [
+        "limpede",
+        "tulbure",
+        "tulbure lactescent"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-015",
+      "intrebare": "15) Culoarea urinii la cal este:",
+      "raspunsuri": [
+        "galben pai",
+        "galben brun",
+        "incoloră"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-016",
+      "intrebare": "16) Sondajul naso-esofagian este condiționat de:",
+      "raspunsuri": [
+        "temperamentul animalului",
+        "particularitățile anatomice ale faringelui",
+        "complexitatea materialului folosit"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-017",
+      "intrebare": "17) Rabdomioloza de efort este consecința:",
+      "raspunsuri": [
+        "deficitului di lipide",
+        "excesului de lipide",
+        "excesului de glucide"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-018",
+      "intrebare": "18) În anemia infecțioasă a calului VSH-ul este:",
+      "raspunsuri": [
+        "normal",
+        "crescut",
+        "scăzut"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-019",
+      "intrebare": "19) În rabdomioliza de efort hematocritul are valori:",
+      "raspunsuri": [
+        "crescute",
+        "scăzute",
+        "normale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-020",
+      "intrebare": "20) Care sunt stările de inhibiție corticală:",
+      "raspunsuri": [
+        "răutatea",
+        "sincopa",
+        "fobia"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-021",
+      "intrebare": "21) Care sunt stările de excitație corticală:",
+      "raspunsuri": [
+        "indolența",
+        "catalepsia",
+        "halucinația"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-022",
+      "intrebare": "22) În pneumonia fibrinoasă a calului procesele inflamatorii sunt localizate:",
+      "raspunsuri": [
+        "lobular",
+        "lobar",
+        "mixt"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-023",
+      "intrebare": "23) În boala obstructivă cronică a calului murmurul vezicular este:",
+      "raspunsuri": [
+        "înăsprit",
+        "diminuat",
+        "abolit"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-024",
+      "intrebare": "24) Pierderea cunoștinței, sensibilității, motricității și reflexivității apare în:",
+      "raspunsuri": [
+        "sincopă",
+        "epilepsie",
+        "stupoare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-025",
+      "intrebare": "25) În stenoza aortică pulsul poate fi:",
+      "raspunsuri": [
+        "dur",
+        "săltăreț",
+        "filiform"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-026",
+      "intrebare": "26) Media volumului ejaculatului la armăsar este:",
+      "raspunsuri": [
+        "1000 ml",
+        "7 ml",
+        "50 ml"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-027",
+      "intrebare": "27) Valorile normale ale pH-ului spermei la armăsar sunt:",
+      "raspunsuri": [
+        "4,2 – 5,2",
+        "6,6 – 7,8",
+        "9,0 – 11,0"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-028",
+      "intrebare": "28) Durata ciclului sexual la iapă este de:",
+      "raspunsuri": [
+        "16 zile",
+        "50 zile",
+        "cel mai neregulat"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-029",
+      "intrebare": "29) Tineretul femel se utilizează la reproducție la vârsta de:",
+      "raspunsuri": [
+        "1 – 2 ani, dacă instinctul genezic a apărut",
+        "3 – 4 ani, în funcție de rasă",
+        "la apariția maturității sexuale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-030",
+      "intrebare": "30) Reluarea ciclului sexual la iapă după parturiție are loc:",
+      "raspunsuri": [
+        "după înțărcarea mânzului",
+        "la 6 luni după parturiție",
+        "la 6-9 zile după parturiție"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-031",
+      "intrebare": "31) Edemul antepartum la iapă apare din cauza:",
+      "raspunsuri": [
+        "gestației avansate",
+        "supunerii la efort intens",
+        "furajării în exces"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-032",
+      "intrebare": "32) Cimetidina se folosește în tratamentul:",
+      "raspunsuri": [
+        "ulcerului gastric",
+        "enteropatiilor topografice",
+        "constipației"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-033",
+      "intrebare": "33) Sindromul tonsilită-endocardită este semnalat la:",
+      "raspunsuri": [
+        "cal",
+        "câine",
+        "bovine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-034",
+      "intrebare": "34) În macrobronșită simptomul dominant este:",
+      "raspunsuri": [
+        "tusea",
+        "ralurile bronșice",
+        "ralurile traheale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-035",
+      "intrebare": "35) În dilatația acută idiopatică a stomacului se intervine astfel:",
+      "raspunsuri": [
+        "administrare de calmante",
+        "administrare de purgative",
+        "sondaj"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-036",
+      "intrebare": "36) În emfizemul pulmonar acut murmurul vezicular este:",
+      "raspunsuri": [
+        "diminuat",
+        "abolit",
+        "înăsprit"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-037",
+      "intrebare": "37) Ticul aerofagic se manifestă la:",
+      "raspunsuri": [
+        "cabaline",
+        "taurine",
+        "caprine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-038",
+      "intrebare": "38) În influența calului se constată:",
+      "raspunsuri": [
+        "leucopenie cu scăderea VSH-ului",
+        "leucocitoză cu creșterea VSH-ului",
+        "creșterea hematocritului"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-039",
+      "intrebare": "39) Ticul limbii în serpentina se manifesta la:",
+      "raspunsuri": [
+        "cabaline",
+        "bovine",
+        "câine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-040",
+      "intrebare": "40) În diagnosticul anemiei infecțioase examenul edificator este:",
+      "raspunsuri": [
+        "proba funcțională a cordului",
+        "examenul sângelui",
+        "examenul vaselor sanguine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-041",
+      "intrebare": "41) În clavirul „sudoral” din cadrul sindromului de colică, apare:",
+      "raspunsuri": [
+        "hemathidroza",
+        "eprihidroza",
+        "anhidroza"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-042",
+      "intrebare": "42) Cornajul laringian inspirator, sau dublu, poate să apară în:",
+      "raspunsuri": [
+        "rinită",
+        "paralizia laringelui",
+        "paralizia vălului palatin"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-043",
+      "intrebare": "43) Provocarea tusei la cal se realizează astfel:",
+      "raspunsuri": [
+        "astupând nările animalului",
+        "percuția toracelui cu pumnul",
+        "strângerea primelor inele traheale și provocarea stenozei"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-044",
+      "intrebare": "44) Ticul ursului se poate întâlni la:",
+      "raspunsuri": [
+        "rumegătoare",
+        "cabaline",
+        "suine"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-045",
+      "intrebare": "45) Care este cea mai gravă râie la cabaline?",
+      "raspunsuri": [
+        "psoroptică",
+        "corioptică",
+        "sarcoptică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-046",
+      "intrebare": "46) Diagnosticul de oxiuroză la cabaline presupune:",
+      "raspunsuri": [
+        "examen ovohelmintoscopic direct",
+        "examen ovoscopic al fecalelor",
+        "metoda flotației"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-047",
+      "intrebare": "47) Care focare de ascultație a cordului sunt pe partea stângă?",
+      "raspunsuri": [
+        "tricuspidian, aortic, mitral",
+        "pulmonar, tricuspidian, aortic",
+        "pulmonar, aortic, mitral"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-048",
+      "intrebare": "48) Care sunt purgativele saline utilizate la cal:",
+      "raspunsuri": [
+        "ulei de parafină",
+        "sulfatul de sodiu",
+        "arecolină bromhidrică sol. 1%"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-049",
+      "intrebare": "49) Inflamarea stratului superficial al mucoasei orale poartă numele de:",
+      "raspunsuri": [
+        "stomatită catarală",
+        "stomatită papuloasă",
+        "stomatită gangrenoasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-050",
+      "intrebare": "50) Paralizia faringelui se manifestă clinic prin:",
+      "raspunsuri": [
+        "disfagie de tip I",
+        "disfagie de tip II",
+        "disfagie de tip III"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-051",
+      "intrebare": "51) Sindromul de colici este întâlnit cel mai frecvent la:",
+      "raspunsuri": [
+        "aparatul genital",
+        "aparatul urinar",
+        "aparatul digestiv"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-052",
+      "intrebare": "52) Gastralgia apare ca urmare a:",
+      "raspunsuri": [
+        "creșterii tonusului vagal",
+        "scăderii tonusului vagal",
+        "atoniei vagale"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-053",
+      "intrebare": "53) Dispepsie hiperclorhidrică la cal se manifestă clinic prin:",
+      "raspunsuri": [
+        "apetit crescut",
+        "inapetență",
+        "vomă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-054",
+      "intrebare": "54) Colica tromboembolică este:",
+      "raspunsuri": [
+        "o gastropatie morfofuncțională",
+        "o enteropatie circulatorie",
+        "o enteropatie obstructivă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-055",
+      "intrebare": "55) În obstrucția intestinală la cal se recomandă:",
+      "raspunsuri": [
+        "tratament conservativ",
+        "intervenție chirurgicală",
+        "administrarea de calmante"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-056",
+      "intrebare": "56) Enteropatiile topografice se manifestă prin:",
+      "raspunsuri": [
+        "tulburări circulatorii",
+        "tulburări nervoase",
+        "tulburări funcționale și organice"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-057",
+      "intrebare": "57) Flexiunea intestinală se întâlnește, mai frecvent, la nivelul:",
+      "raspunsuri": [
+        "colonului drept",
+        "colonului stâng",
+        "colonului descendent"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-058",
+      "intrebare": "58) Boala de iarbă se manifestă clinic prin:",
+      "raspunsuri": [
+        "disfagie de tip III, normotermie, tahicardie și tahipnee",
+        "disfagie de tip II, hipertermie, bradicardie și bradipnee",
+        "disfagie de tip I, hipotermie, tahicardie și bradipnee"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-059",
+      "intrebare": "59) Denumirea populară de „boala de după sărbători” este dată:",
+      "raspunsuri": [
+        "sindromului respirator cronic",
+        "rabdomiolizei de efort",
+        "pneumoniei fibrinoase"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-060",
+      "intrebare": "60) Patogeneza rabdomiolizei de efort presupune:",
+      "raspunsuri": [
+        "aport excesiv de glucide",
+        "aport excesiv de proteine",
+        "aport excesiv de lipide"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-061",
+      "intrebare": "61) Polidipsia presupune:",
+      "raspunsuri": [
+        "aport excesiv de apă",
+        "aport excesiv de hrană",
+        "aport excesiv de lipide"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-062",
+      "intrebare": "62) Vomitarea este un act reflex întâlnit la ecvine:",
+      "raspunsuri": [
+        "în mod fiziologic",
+        "în condiții patologice",
+        "doar provocat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-063",
+      "intrebare": "63) Anorexia definește:",
+      "raspunsuri": [
+        "lipsa poftei de mâncare",
+        "lipsa senzației de sete",
+        "exagerarea poftei de mâncare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-064",
+      "intrebare": "64) Masticația neîntreruptă apare în:",
+      "raspunsuri": [
+        "afecțiuni ale intestinului subțire",
+        "afecțiuni ale stomacului",
+        "encefalopatii"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-065",
+      "intrebare": "65) Prehensiunea furajelor la ecvine se realizează:",
+      "raspunsuri": [
+        "cu buzele",
+        "cu limba",
+        "cu dinții"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-066",
+      "intrebare": "66) Empiemul gutural reprezintă:",
+      "raspunsuri": [
+        "o acumulare de lichid la nivelul faringelui",
+        "acumulare de furaje la nivelul faringelui",
+        "acumulare de puroi la nivelul pungilor guturale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-067",
+      "intrebare": "67) Tratamentul empiemului gutural presupune:",
+      "raspunsuri": [
+        "puncția sinusurilor frontale",
+        "puncția sinusurilor maxilare",
+        "puncția pungilor guturale"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-068",
+      "intrebare": "68) În peritonita fibrinoasă, la ascultația abdomenului se percepe:",
+      "raspunsuri": [
+        "zgomot de picătură",
+        "zgomot de frecătură",
+        "zgomot de clapotare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-069",
+      "intrebare": "69) Termenul de anaclorhidrie definește:",
+      "raspunsuri": [
+        "aport excesiv acid clorhidric în stomac",
+        "cantitate redusă de acid clorhidric în stomac",
+        "lipsa acidului clorhidric din stomac"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-070",
+      "intrebare": "70) Pleurezia seroasă reprezintă:",
+      "raspunsuri": [
+        "inflamația exudativă a pleurei",
+        "inflamația purulentă a pleurei",
+        "inflamația fibrinoasă a pleurei"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-071",
+      "intrebare": "71) Murmurul vezicular intensificat se percepe în:",
+      "raspunsuri": [
+        "boli febrile",
+        "emfizem pulmonar",
+        "pleurite"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-072",
+      "intrebare": "72) Murmurul vezicular diminuat se percepe în:",
+      "raspunsuri": [
+        "boli febrile",
+        "emfizem pulmonar",
+        "dispnee"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-073",
+      "intrebare": "73) Paralizia nervului suprascapular are drept consecință:",
+      "raspunsuri": [
+        "atrofia mușchilor mediali ai spetei",
+        "atrofia mușchilor supraspinos și infraspinos",
+        "atrofia mușchilor deltoid și triceps brahial"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-074",
+      "intrebare": "74) Entorsa articulației scapulo-humerale presupune:",
+      "raspunsuri": [
+        "deplasare capului humeral din cavitatea glenoidă a spetei cu revenirea sa",
+        "deplasare capului humeral din cavitatea glenoidă a spetei fără revenirea sa",
+        "deplasare capului humeral din cavitatea glenoidă a spetei și fracturarea sa"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-075",
+      "intrebare": "75) Cheloidul reprezintă:",
+      "raspunsuri": [
+        "un process inflamator la nivel articular",
+        "un proces degenerativ la nivel articular",
+        "un proces proliferativ progresiv a țesutului cicatriceal"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-076",
+      "intrebare": "76) Microsporia produsă de Microsporum equinum este:",
+      "raspunsuri": [
+        "o parazitoză intestinală",
+        "o parazitoză pulmonară",
+        "o micoză cutanată"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-077",
+      "intrebare": "77) Gasterofiloza este:",
+      "raspunsuri": [
+        "o parazitoză intestinală",
+        "o parazitoză pulmonară",
+        "o micoză cutanată"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-078",
+      "intrebare": "78) Incastelura reprezintă:",
+      "raspunsuri": [
+        "îngustarea progresivă a călcâielor, sferturilor și tălpii copitei",
+        "fisurări longitudinale și transversale ale copitei",
+        "inflamația cronică a țesutului dermal"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-079",
+      "intrebare": "79) Desmorexia sacro-iliacă presupune:",
+      "raspunsuri": [
+        "dezinserția parțială a ligamentului capsular al simfizei pelvine",
+        "dezinserția parțială a ligamentului capsular al articulației sacro-iliace",
+        "luxația articulației coxo-femurale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cpe-080",
+      "intrebare": "80) Nimfomania la iapă este cauzată de:",
+      "raspunsuri": [
+        "hipersecreție concomitentă de ACTH și FSH",
+        "degenerescența chistică foliculară",
+        "aport excesiv de FSH"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    }
+  ]
+}
