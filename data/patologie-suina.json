@@ -1,0 +1,830 @@
+{
+  "materie": "Clinică și Patologie Suină",
+  "intrebari": [
+    {
+      "id": "cps-001",
+      "intrebare": "1) Sursele principale de infecție în pneumonia enzootică a porcului sunt:",
+      "raspunsuri": [
+        "solul și furajele",
+        "porcii bolnavi și trecuți prin boală",
+        "apa și rozătoarele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-002",
+      "intrebare": "2) Formele clinice evolutive în pneumonia enzootică a porcului sunt:",
+      "raspunsuri": [
+        "forma supraacută și acută",
+        "cronică și inaparentă",
+        "subacută și cronică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-003",
+      "intrebare": "3) În tratamentul pneumoniei enzootice a porcului sunt recomandate:",
+      "raspunsuri": [
+        "tylozina, oxitetraciclina și fluorfenicolul",
+        "sulfamidele potențate cu trimetoprim",
+        "penicilinele retard"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-004",
+      "intrebare": "4) Leptospiroza suinelor este produsă cel mai frecvent de:",
+      "raspunsuri": [
+        "L. hardjo și L. canicola",
+        "toate serovarurile patogene",
+        "L. pomona și L. tarassovi"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-005",
+      "intrebare": "5) Imunoprofilaxia leptospirozei suine este posibilă prin:",
+      "raspunsuri": [
+        "utilizarea unui vaccin inactivat bivalent administrat la scroafe și vieri",
+        "utilizarea unui vaccin viu atenuat administrat la toate categoriile de vârstă",
+        "utilizarea unui vaccin inactivat bivalent administrat la purceii sugari și la tineret"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-006",
+      "intrebare": "6) Tratamentul în leptospiroza suinelor se face cu:",
+      "raspunsuri": [
+        "sulfamide potențate cu trimetoprim",
+        "penicilină și streptomicină",
+        "ser antileptospiric"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-007",
+      "intrebare": "7) În țara noastră bruceloza suinelor este produsă de:",
+      "raspunsuri": [
+        "Brucella melitensis",
+        "Brucella suis, biotipul 2",
+        "Brucella abortus și Brucella suis biotipul 1 și 4"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-008",
+      "intrebare": "8) Avortul brucelic la suine este mai frecvent în:",
+      "raspunsuri": [
+        "luna I-a și a III-a de gestație",
+        "luna I-a și a II-a de gestație",
+        "luna II-a și a III-a de gestație"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-009",
+      "intrebare": "9) Epidemiosupravegherea în bruceloza suină este obligatorie pentru:",
+      "raspunsuri": [
+        "lotul matcă",
+        "tineretul suin după înțărcare",
+        "toate categoriile de vârstă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-010",
+      "intrebare": "10) Asanarea fermelor de suine, cu bruceloză, este posibilă prin:",
+      "raspunsuri": [
+        "depistarea prin teste serologice și alergice a animalelor infectate și eliminarea lor",
+        "lichidarea efectivului în condiții care să asigure valorificarea economică",
+        "depistarea și eliminarea animalelor infectate și tratamentul preventiv al celor indemne"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-011",
+      "intrebare": "11) La purcei, enterita colibacilară și diareea de înțărcare, sunt produse de:",
+      "raspunsuri": [
+        "E. coli: tipul enteroinvaziv și enterohemoragic",
+        "E. coli: toate cele 4 tipuri (grupe)",
+        "E. coli: tipul enterotoxigen și tipul enteropatogen"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-012",
+      "intrebare": "12) În profilaxia colibacilozei purceilor sunt utilizate:",
+      "raspunsuri": [
+        "vaccinuri vii atenuate administrate la purcei imediat după fătare",
+        "vaccinuri inactivate administrate la scroafele gestante în a doua jumătate a gestației",
+        "vaccinuri inactivate administrate la scroafe și scrofițe (matcă) din 6 în 6 luni"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-013",
+      "intrebare": "13) În tratamentul enteritei colibacilare, la purceii sugari, se administrează:",
+      "raspunsuri": [
+        "antibiotice și sulfamide, per os, cu dozatoare tip Piglet",
+        "antibiotice și sulfamide administrate în apă și furaje",
+        "numai serul anticolibacilar și soluții rehidratante"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-014",
+      "intrebare": "14) La suine, edemul inflamator gloso-faringian, apare în:",
+      "raspunsuri": [
+        "pasteureloza acută pectorală",
+        "pasteureloza acută septicemică",
+        "pasteureloza cronică și acută pectorală"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-015",
+      "intrebare": "15) La suine, salmoneloza evoluează ca:",
+      "raspunsuri": [
+        "avort salmonelic la scroafele gestante",
+        "formă septicemică",
+        "formă septicemică și localizată la tubul digestiv"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-016",
+      "intrebare": "16) În tratamentul salmonelozei suine se utilizează:",
+      "raspunsuri": [
+        "ser specific hiperimun administrat parenteral și per os",
+        "antibiotice și sulfamide pe bază antibiogramei",
+        "ser specific hiperimun asociat cu medicația simptomatică"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-017",
+      "intrebare": "17) În streptococia porcului leziunile anatomopatologice cu valoare ridicată de diagnostic sunt:",
+      "raspunsuri": [
+        "leziunile de tip congestiv și hemoragic",
+        "bronhopneumonia și pleurita fibrinoasă",
+        "focarele miliare necrotice în ficat și splină"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-018",
+      "intrebare": "18) În patogeneza epidermitei exudative S. hycus subsp. hycus acționează prin:",
+      "raspunsuri": [
+        "virulență producând septicemie",
+        "două toxine termolabile exfoliative",
+        "mecanisme alergice de tip întârziat"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-019",
+      "intrebare": "19) Leziunile histologice în epidermita exsudativă sunt:",
+      "raspunsuri": [
+        "dermatita perivasculară hipercheratoxică",
+        "dermatită purulentă în focare",
+        "exantem de tip varioloid"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-020",
+      "intrebare": "20) Principalele măsuri recomandate în profilaxia rinitei atrofice sunt:",
+      "raspunsuri": [
+        "tratamente preventive parenterale și locale cu antibiotice",
+        "îmbunătățirea factorilor igienici, nutriționali și tehnologici",
+        "utilizarea unor vaccinuri inactivate asociată cu eliminarea scroafelor de reproducție a căror descendenți au făcut rinită atrofică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-021",
+      "intrebare": "21) Piobaciloza porcului este mai frecventă la:",
+      "raspunsuri": [
+        "tineret între 2,5-3 luni",
+        "purcei sugari",
+        "scroafe și vieri"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-022",
+      "intrebare": "22) Agentul etiologic al piobacilozei porcului este:",
+      "raspunsuri": [
+        "Actinobaculum suis",
+        "Arcanobacterium pyogenes",
+        "Corynebacterium pseudotuberculosis"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-023",
+      "intrebare": "23) Leziunea caracteristică în piobaciloza porcului este:",
+      "raspunsuri": [
+        "poliserozita fibrinoasă",
+        "abcesul piobacilar",
+        "bronhopneumonia purulentă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-024",
+      "intrebare": "24) Actinobacillus pleuropneumoniae, pentru cultivare, necesită:",
+      "raspunsuri": [
+        "factorul X",
+        "bulion cu ficat",
+        "factorul V"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-025",
+      "intrebare": "25) Actinobacillus pleuropneumoniae își exercită puterea agresinică prin:",
+      "raspunsuri": [
+        "capsulă, endotoxină și exotoxine",
+        "numai prin capsulă",
+        "numai prin exotoxine"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-026",
+      "intrebare": "26) În pleuropneumonia infecțioasă a porcului, forma supraacută, simptomul caracteristic este:",
+      "raspunsuri": [
+        "febra și tusea",
+        "dispneea",
+        "jetajul serosangvinolent spumos"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-027",
+      "intrebare": "27) În pleuropneumonia infecțioasă a porcului, forma cu evoluție foarte scurtă, leziunea anatomopatologică caracteristică este:",
+      "raspunsuri": [
+        "bronhopneumonia hemoragico-necrotică în focare",
+        "pulmonul mărit, indurat, de culoare roșie-violacee",
+        "bronhopneumonia fibrinoasă"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-028",
+      "intrebare": "28) În imunoprofilaxia pleuropneumoniei infecțioase a porcului rezultatele cele mai bune sunt furnizate de:",
+      "raspunsuri": [
+        "vaccinurile subunitare",
+        "vaccinurile vii atenuate",
+        "vaccinurile inactivate"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-029",
+      "intrebare": "29) Dizenteria porcului este produsă de:",
+      "raspunsuri": [
+        "Clostridium perfringens",
+        "Salmonella cholerae suis",
+        "Brachyspira hyodysenteriae"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-030",
+      "intrebare": "30) Dizenteria porcului afectează cu predilecție:",
+      "raspunsuri": [
+        "purceii sugari",
+        "purceii înțărcați și grăsunii în greutate de 15-70 kg",
+        "porcii adulți"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-031",
+      "intrebare": "31) În dizenteria porcului leziunea principală și caracteristică se găsește în:",
+      "raspunsuri": [
+        "intestinul subțire",
+        "stomac, intestin subțire și intestin gros",
+        "colon"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-032",
+      "intrebare": "32) În diagnosticul de laborator al dizenteriei porcului rezultatele cele mai concludente și rapide le oferă:",
+      "raspunsuri": [
+        "examenul bacterioscopic",
+        "examenul bacteriologic",
+        "imunofluorescența directă și indirectă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-033",
+      "intrebare": "33) Pentru tratamentul dizenteriei porcului sunt preferate:",
+      "raspunsuri": [
+        "tiamulinul și lincomicina",
+        "dimetridazolul și oxitetraciclina",
+        "sulfamidele"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-034",
+      "intrebare": "34) Dizenteria anaerobă a purceilor este produsă de:",
+      "raspunsuri": [
+        "Clostridium septicum",
+        "Clostridium perfringens tipul C",
+        "Clostridium novyi"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-035",
+      "intrebare": "35) În dizenteria anaerobă a purceilor leziunile anatomopatologice caracteristice sunt:",
+      "raspunsuri": [
+        "enterita hemoragică și bulele de gaz situate sub seroasă",
+        "necrozele miliare în ficat și splină",
+        "poliserozita fibrinoasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-036",
+      "intrebare": "36) Profilaxia specifică în dizenteria purceilor este realizată prin:",
+      "raspunsuri": [
+        "vaccinarea purceilor în primele zile de viață",
+        "vaccinarea purceilor după înțărcare",
+        "vaccinarea scroafelor gestante"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-037",
+      "intrebare": "37) Sindromul respirator și de reproducție la suine (PRRS) este produs de:",
+      "raspunsuri": [
+        "virusul influenței porcului",
+        "virusul specific (Lelystad)",
+        "cauze nespecifice igienice și nutriționale"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-038",
+      "intrebare": "38) La scroafele de reproducție, în PRRS, se constată:",
+      "raspunsuri": [
+        "metrite, mamite și agalaxie",
+        "artrite, paralizii și anestrus",
+        "cianoza urechilor, abdomenului și vulvei"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-039",
+      "intrebare": "39) La cadavrele purceilor morți de PRRS leziunea anatomopatologică caracteristică este:",
+      "raspunsuri": [
+        "pneumonia interstițială",
+        "bronhopneumonia fibrinoasă",
+        "bronhopneumonia catarală și pleurita fibrinoasă"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-040",
+      "intrebare": "40) În pesta porcină clasică leziunea cutanată este:",
+      "raspunsuri": [
+        "necroza uscată a pielii",
+        "dermatita varioloidă",
+        "dermatita hemoragică"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-041",
+      "intrebare": "41) În pesta porcină clasică leziunea renală este:",
+      "raspunsuri": [
+        "nefrita interstițială cronică",
+        "nefrita hemoragică",
+        "pielonefrita"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-042",
+      "intrebare": "42) În condiții naturale gastroenterita transmisibilă a porcului afectează:",
+      "raspunsuri": [
+        "porcii de toate vârstele și rasele",
+        "purceii sugari în primele 14 zile de viață",
+        "purceii după înțărcare"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-043",
+      "intrebare": "43) În gastroenterita virotică a porcului, agentul cauzal are tropism pentru:",
+      "raspunsuri": [
+        "colon și cec",
+        "întreaga mucoasă digestivă",
+        "vilozitățile jejunului și ileomului"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-044",
+      "intrebare": "44) În profilaxia specifică a gastroenteritei virotice a porcului sunt folosite:",
+      "raspunsuri": [
+        "vaccinuri vii și inactivate administrate la scroafele gestante",
+        "serurile hiperimune",
+        "vaccinuri vii administrate la purceii sugari"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-045",
+      "intrebare": "45) În variola suinelor vectorul mecanic este reprezentat de:",
+      "raspunsuri": [
+        "insecte hematofage",
+        "Hematopinus suis",
+        "muște și căpușe"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-046",
+      "intrebare": "46) În circoviroza suinelor vârsta critică de infecție este la:",
+      "raspunsuri": [
+        "2-3 săptămâni după fătare",
+        "4-6 luni",
+        "11-13 săptămâni după fătare"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-047",
+      "intrebare": "47) În circoviroza suinelor sindromul dominant este:",
+      "raspunsuri": [
+        "genital, cu tulburări de reproducție",
+        "sindromul cașectizant multisistemic după înțărcare",
+        "respirator și digestiv"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-048",
+      "intrebare": "48) În tratamentul scabiei la suine se utilizează:",
+      "raspunsuri": [
+        "levamisol",
+        "sebacil",
+        "tetrahelmint"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-049",
+      "intrebare": "49) La suine, în tratamentul endo și ectoparazitozelor, cu Ivotan L.A., sunt necesare:",
+      "raspunsuri": [
+        "un singur tratament",
+        "cel puțin două tratamente",
+        "mai multe tratamente, din care ultimul se va face cu cel puțin 42 de zile înainte de tăiere"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-050",
+      "intrebare": "50) Preparatele pe bază de fier sunt folosite la purceii sugari pentru prevenirea:",
+      "raspunsuri": [
+        "enterิตa colibacilară",
+        "anemiei feriprive",
+        "hipoglicemiei și crizei de înțărcare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-051",
+      "intrebare": "51) Diagnosticul în pesta porcină africană se realizează prin:",
+      "raspunsuri": [
+        "reacția de hemadsorbție și inhibarea hemadsorbției",
+        "bacterioscopic",
+        "hematologic"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-052",
+      "intrebare": "52) Circovirusul porcin de tip 2 determină stări patologice la:",
+      "raspunsuri": [
+        "porc",
+        "ovine și caprine",
+        "cabaline"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-053",
+      "intrebare": "53) Sindromul cașectizant multisistemic al porcilor înțărcați este consecința infecției cu:",
+      "raspunsuri": [
+        "circovirusul porcin de tip 2",
+        "virusul gripal",
+        "herpesvirusul suin de tip 1"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-054",
+      "intrebare": "54) În condiții naturale sunt receptive la infecția cu herpesvirusul suin de tip 1:",
+      "raspunsuri": [
+        "numai suinele",
+        "porcul, câinele, pisica, taurinele, oaia, capra, calul",
+        "carnivorele"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-055",
+      "intrebare": "55) Anticorpii specifici în urma infecției cu herpesvirusul suin de tip 1 apar în serul porcilor:",
+      "raspunsuri": [
+        "după 14 zile",
+        "începând cu a șaptea zi",
+        "la 11-13 săptămâni după fătare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-056",
+      "intrebare": "56) Măsurile specifice în boala Aujeszky se bazează pe utilizarea:",
+      "raspunsuri": [
+        "serului hiperimun",
+        "concentratului globulinic anti Aujeszky",
+        "vaccinurilor vii atenuate, inactivate și modificate genetic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-057",
+      "intrebare": "57) Leziunile morfopatologice la fetușii infectați in utero cu parvovirusul porcin se caracterizează prin:",
+      "raspunsuri": [
+        "meningoencefalită cu infiltrații celulare perivasculare cu celule plasmatice și histiocite",
+        "fenomene de extravazare sanguină",
+        "acumularea de lichide serosangvinolente în cavități"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-058",
+      "intrebare": "58) Durata totală a evoluției clinice în formele obișnuite de variolă a porcilor este:",
+      "raspunsuri": [
+        "14 zile",
+        "14-24 de zile",
+        "3-4 săptămâni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-059",
+      "intrebare": "59) Virusul PRRS (Sindromului tulburărilor respiratorii și de reproducție al porcului) este înrudit antigenic cu:",
+      "raspunsuri": [
+        "virusul influenței",
+        "virusul pestei porcine clasice",
+        "este unic din punct de vedere antigenic"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-060",
+      "intrebare": "60) La virusul PRRS (Sindromului tulburărilor respiratorii și de reproducție al porcului) sunt receptive în condiții naturale:",
+      "raspunsuri": [
+        "porcul domestic și mistrețul",
+        "caprele",
+        "bovinele"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-061",
+      "intrebare": "61) Componentele clinice principale în evoluția PRRS (Sindromului tulburărilor respiratorii și de reproducție al porcului) sunt:",
+      "raspunsuri": [
+        "digestivă și respiratorie",
+        "respiratorie și/sau de reproducție",
+        "digestivă și/sau de reproducție"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-062",
+      "intrebare": "62) În condiții experimentale la virusul exantemului veziculos al porcului sunt sensibile:",
+      "raspunsuri": [
+        "cabalinele, hamsterii, câinii și focile",
+        "numai suinele indiferent de vârstă",
+        "numai câinii"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-063",
+      "intrebare": "63) Infecția cu virusul exantemului veziculos al porcului la scroafele gestante determină:",
+      "raspunsuri": [
+        "dermatită urticariformă",
+        "avorturi în a doua jumătate a gestației",
+        "hipo- și agalaxie"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-064",
+      "intrebare": "64) Agentul etiologic al gastroenteritei transmisibile a porcului este un:",
+      "raspunsuri": [
+        "coronavirus",
+        "herpesvirus",
+        "adenovirus"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-065",
+      "intrebare": "65) Gastroenterita transmisibilă a porcului la porcii adulți evoluează de obicei cu:",
+      "raspunsuri": [
+        "diaree fetidă",
+        "asimptomatic sau cu simptome discrete",
+        "vomitări"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-066",
+      "intrebare": "66) Tabloul simptomatologic în encefalomielita porcină cu virus hemaglutinant este dominat de:",
+      "raspunsuri": [
+        "sindromul enteric și/sau encefalic",
+        "sindromul encefalic",
+        "numai de sindromul enteric"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-067",
+      "intrebare": "67) Enterita colibacilară a purceilor este prevenită cu vaccinuri:",
+      "raspunsuri": [
+        "inactivate",
+        "vii atenuate",
+        "atât vaccinuri inactivate cât și vaccinuri vii atenuate"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-068",
+      "intrebare": "68) Boala edemelor (enterotoxaemia colibacilară a porcului) este produsă de tulpini de E. coli:",
+      "raspunsuri": [
+        "nehemolitice",
+        "hemolitice",
+        "hemolitice și nehemolitice"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-069",
+      "intrebare": "69) Cel mai frecvent boala edemelor apare în:",
+      "raspunsuri": [
+        "în primele 2 zile după înțărcare",
+        "în primele 10-20 zile după înțărcare",
+        "după 14 săptămâni de la înțărcare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-070",
+      "intrebare": "70) Forma cronică a salmonelozei este frecvent întâlnită la:",
+      "raspunsuri": [
+        "purceii sugari",
+        "tineretul de 35-40 kg",
+        "tineretul după înțărcare"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-071",
+      "intrebare": "71) Cu Brucella suis, accidental se pot infecta:",
+      "raspunsuri": [
+        "porcii mistreți",
+        "cabaline",
+        "caii, bovinele, câinii și păsările"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-072",
+      "intrebare": "72) Baza profilaxiei Brucelozei porcine este:",
+      "raspunsuri": [
+        "vaccinarea cu vaccinuri vii atenuate a efectivelor clinic sănătoase",
+        "păstrarea indemnitații efectivelor",
+        "lichidarea efectivelor bolnave"
+      ],
+      "corect": "b",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-073",
+      "intrebare": "73) Pasteureloza porcului, frecvent evoluează ca o infecție:",
+      "raspunsuri": [
+        "primară",
+        "asimptomatică",
+        "secundară endogenă"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-074",
+      "intrebare": "74) În forma cronică a pasteurelozei porcului, tabloul morfopatologic este reprezentat de:",
+      "raspunsuri": [
+        "pneumonie fibrinonecrotică",
+        "pneumonie fibrinoasă",
+        "edem serofibrinos perifaringian"
+      ],
+      "corect": "a",
+      "explicatie": ""
+    },
+    {
+      "id": "cps-075",
+      "intrebare": "75) Durata imunității după vaccinarea cu Suipastvac, pentru profilaxia pasteurelozei porcului, este în medie de:",
+      "raspunsuri": [
+        "14-16 zile",
+        "10-20 zile",
+        "4-6 luni"
+      ],
+      "corect": "c",
+      "explicatie": ""
+    }
+  ]
+}
